@@ -1,0 +1,428 @@
+Source: Tencent Cloud
+URL: https://www.tencentcloud.com/
+
+# tencent cloud
+[](javascript:void\(0\);)
+  * [Promotions](javascript:void\(0\);)
+  * [Products](javascript:void\(0\);)
+  * [Solutions](javascript:void\(0\);)
+  * [Pricing](javascript:void\(0\);)
+  * [Partner Network](javascript:void\(0\);)
+  * [Marketplace](javascript:void\(0\);)
+  * [Explore](javascript:void\(0\);)
+
+
+[Prev](javascript:void\(0\);)[Next](javascript:void\(0\);)
+[](javascript:void\(0\);)
+Why Tencent Cloud?
+[ 1 Billion+ Users of WeChat and QQ Massive user base & long-term operational experience ](https://www.tencentcloud.com/solutions/wechat)[ 3200+ Global CDN Nodes 22 Regions 64 Availability Zones ](https://www.tencentcloud.com/global-infrastructure)[ 24/7 Hours Available Technical support & Localized hotline coverage in key regions ](https://www.tencentcloud.com/contact-us)[ Proven Tech for Industries A diverse range of products across IaaS, PaaS and SaaS sectors ](https://www.tencentcloud.com/product)
+[ Tencent Cloud Invite & Earn Plan! Earn credits for every friend you invite: rewards for free tier users, bigger rewards for paying users. Get Now ](https://www.tencentcloud.com/act/pro/referral)
+Products & Services for Comprehensive Business Needs
+[See All Products](https://www.tencentcloud.com/product)
+Featured
+Compute
+Container and Middleware
+Storage
+Database
+Video Service
+AI and Machine Learning
+Communication and Enterprise Services
+[ Tencent Cloud EdgeOne Providing L4/L7 security protection and acceleration services for global markets via Tencent's global edge nodes Learn more](https://www.tencentcloud.com/products/teo)
+[ Cloud Virtual Machine A secure, stable, and highly flexible computing service Learn more](https://www.tencentcloud.com/products/cvm)
+[ Elasticsearch Service A ready-to-use cloud-based Elasticsearch service  Learn more](https://www.tencentcloud.com/products/es)
+[ Tencent Cloud Lighthouse A new-gen cloud server service for SMEs and developers Learn more](https://www.tencentcloud.com/products/lighthouse)
+[ Cloud Object Storage A highly available, reliable, and scalable object storage service Learn more](https://www.tencentcloud.com/products/cos)
+[ Cloud Block Storage A reliable, scalable, and persistent block storage service Learn more](https://www.tencentcloud.com/products/cbs)
+[ Cloud Native Database TDSQL-C High-performance cloud native database with full MySQL and PostgreSQL compatibility Learn more](https://www.tencentcloud.com/products/tdsqlc)
+[ Content Delivery Network A fast, stable, intelligent, and secure content delivery service Learn more](https://www.tencentcloud.com/products/cdn)
+[ Chat A communication service supporting one-to-one chat, group chat, chat room, system notification, and other messaging capabilities Learn more](https://www.tencentcloud.com/products/im)
+[ Real-time Communication Build audio call, video call, or interactive live streaming applications within 30 minutes Learn more](https://www.tencentcloud.com/products/trtc)
+[ Short Message Service A fast, stable, and easy-to-use messaging service with global reachability Learn more](https://www.tencentcloud.com/products/sms)
+[ Simple Email Service A secure, stable, and simple email push service Learn more](https://www.tencentcloud.com/products/ses)
+[ Cloud Virtual Machine A secure, stable, and highly flexible computing service Learn more](https://www.tencentcloud.com/products/cvm)
+[ Tencent Cloud Lighthouse A new-gen cloud server service for SMEs and developers Learn more](https://www.tencentcloud.com/products/lighthouse)
+[ Cloud GPU Service A high-density computing server with graphics processing capabilities Learn more](https://www.tencentcloud.com/products/gpu)
+[ CVM Dedicated Host A physically isolated computing service with exclusive resources Learn more](https://www.tencentcloud.com/products/cdh)
+[ Cloud Bare Metal Set up your service more flexibly with exclusive and non-virtualized bare metal servers Learn more](https://www.tencentcloud.com/products/cbm)
+[ Batch Compute An efficient and cost-effective computing resource management policy Learn more](https://www.tencentcloud.com/products/batch)
+[ Hyper Computing Cluster Provide high-bandwidth and extremely low-latency network services. Learn more](https://www.tencentcloud.com/products/hcc)
+[ Edge Zone Low-delay, wide-coverage, and low-cost edge cloud computing services Learn more](https://www.tencentcloud.com/products/edgezone)
+[ Cloud Dedicated Zone Deploy dedicated resources on the data center as required by the customer Learn more](https://www.tencentcloud.com/products//cdz)
+[ Cloud Dedicated Cluster Dedicated public cloud that can be deployed on customer premises and at the edge Learn more](https://www.tencentcloud.com/products/cdc)
+[ Tencent Kubernetes Engine A scalable and high-performing container management service Learn more](https://www.tencentcloud.com/products/tke)
+[ Tencent Kubernetes Engine for Serverless A secure, elastic, and cost-effective serverless Kubernetes service Learn more](https://www.tencentcloud.com/products/tkeserverless)
+[ Tencent Container Registry A secure and dedicated container image distribution service Learn more](https://www.tencentcloud.com/products/tcr)
+[ Serverless Cloud Function A secure and efficient serverless function computing platform Learn more](https://www.tencentcloud.com/products/scf)
+[ TDMQ for CKafka A high-performance and reliable Kafka-compatible messaging system Learn more](https://www.tencentcloud.com/products/ckafka)
+[ TDMQ for CMQ The original Tencent Cloud CMQ, a high-performance message queuing service Learn more](https://www.tencentcloud.com/products/tcmq)
+[ Tencent Cloud Mesh Manage your application communication networks on a centralized cloud-native platform Learn more](https://www.tencentcloud.com/products/tcm)
+[ Cloud Log Service A one-stop logging solution for log collection, search and analysis Learn more](https://www.tencentcloud.com/products/cls)
+[ Cloud Infinite An efficient and intelligent image recognition and processing service Learn more](https://www.tencentcloud.com/products/ci)
+[ Cloud Object Storage A highly available, reliable, and scalable object storage service Learn more](https://www.tencentcloud.com/products/cos)
+[ Cloud File Storage A secure and scalable file sharing and storage solution Learn more](https://www.tencentcloud.com/products/cfs)
+[ Cloud Block Storage A reliable, scalable, and persistent block storage service Learn more](https://www.tencentcloud.com/products/cbs)
+[ TencentDB for MySQL A high-performance, reliable, and flexible database hosting service Learn more](https://www.tencentcloud.com/products/cdb)
+[ TencentDB for SQL Server  A genuinely licensed SQL Server database in the cloud Learn more](https://www.tencentcloud.com/products/sqlserver)
+[ TencentDB for PostgreSQL An open source database supporting geospatial data processing Learn more](https://www.tencentcloud.com/products/postgres)
+[ Cloud Native Database TDSQL-C High-performance cloud native database with full MySQL and PostgreSQL compatibility Learn more](https://www.tencentcloud.com/products/tdsqlc)
+[ TencentDB for Redis® A high-performance, low-latency and scalable Redis database Learn more](https://www.tencentcloud.com/products/crs)
+[ TencentDB for MongoDB A high-performance distributed MongoDB database Learn more](https://www.tencentcloud.com/products/mongodb)
+[ TencentDB for CTSDB A powerful, distributed, and scalable time series database in the cloud Learn more](https://www.tencentcloud.com/products/ctsdb)
+[ Chat A communication service supporting one-to-one chat, group chat, chat room, system notification, and other messaging capabilities Learn more](https://www.tencentcloud.com/products/im)
+[ Real-time Communication Build audio call, video call, or interactive live streaming applications within 30 minutes Learn more](https://www.tencentcloud.com/products/trtc)
+[ Cloud Contact Center Empowering Customer Success with embedded Cloud Contact Center capabilities Learn more](https://www.tencentcloud.com/products/ccc)
+[ Game Multimedia Engine A one-stop gaming voice solution that is easy to integrate Learn more](https://www.tencentcloud.com/products/gme)
+[ Low-code Interactive Classroom Quickly set up your own cross-platform interactive classroom in 15 minutes to provide highly stable and cost-effective online interactive classroom services for your school or enterprise Learn more](https://www.tencentcloud.com/products/lcic)
+[ Cloud Streaming Services A fast, stable, and professional cloud-based live streaming services Learn more](https://www.tencentcloud.com/products/css)
+[ Video on Demand A one-stop media transcoding and distribution platform Learn more](https://www.tencentcloud.com/products/vod)
+[ Mobile Live Video Broadcasting A quick integration solution to push and pull live streams on mobile devices Learn more](https://www.tencentcloud.com/products/mlvb)
+[ User Generated Short Video SDK Create short video mobile applications easily Learn more](https://www.tencentcloud.com/products/ugsv)
+[ Tencent Effect SDK An advanced video processing solution with beauty filters and stickers Learn more](https://www.tencentcloud.com/products/x-magic)
+[ Media Processing Service A professional and versatile multimedia processing service Learn more](https://www.tencentcloud.com/products/mps)
+[ Cloud Application Rendering Move your application to the cloud for real-time rendering and streaming so your users can use it through web pages, apps, or other devices Learn more](https://www.tencentcloud.com/products//car)
+[ Face Recognition Accurate and real-time facial detection, analysis, recognition, and search services Learn more](https://www.tencentcloud.com/products/facerecognition)
+[ Automatic Speech Recognition A highly cost-effective speech recognition service with a high recognition accuracy and wide applicability Learn more](https://www.tencentcloud.com/products/asr)
+[ Text To Speech An intelligent service that provides lifelike speech synthesis Learn more](https://www.tencentcloud.com/products/tts)
+[ Tencent Machine Translation Efficient and accurate translation service in more than ten languages Learn more](https://www.tencentcloud.com/products/tmt)
+[ Optical Character Recognition A precise, fast and versatile image and text recognition service Learn more](https://www.tencentcloud.com/products/ocr)
+[ Face Fusion Fuse facial features to achieve "Crazy Face Swap" Learn more](https://www.tencentcloud.com/products/facefusion)
+[ eKYC Verify user identities via secure face recognition service Learn more](https://www.tencentcloud.com/products/faceid)
+[ Tencent Cloud AI Digital Human A new generation of multi-modal human-computer interaction system to quickly create an intelligent, vivid and interactive "digital intelligence clone" Learn more](https://www.tencentcloud.com/products/ivh)
+[ Tencent Cloud TI Platform A one-stop machine learning service platform for AI engineers Learn more](https://www.tencentcloud.com/products/ti)
+[ Short Message Service A fast, stable, and easy-to-use messaging service with global reachability Learn more](https://www.tencentcloud.com/products/sms)
+[ Simple Email Service A secure, stable, and simple email push service Learn more](https://www.tencentcloud.com/products/ses)
+[ Domains A leading domain registrar offering comprehensive domain registration and management services Learn more](https://www.tencentcloud.com/products/domain)
+[ DNSPod Provides fast, stable, and highly available DNS services Learn more](https://www.dnspod.com/)
+[ HTTPDNS A secure, stable, and efficient mobile DNS service to avoid domain name hijacking and cross-network access problems caused by local DNS Learn more](https://www.tencentcloud.com/products/httpdns)
+[ Private DNS A secure, stable, and efficient private DNS service Learn more](https://www.tencentcloud.com/products/privatedns)
+[ SSL Certificate Service A one-stop digital certificate management service Learn more](https://www.tencentcloud.com/products/ssl)
+Start Your Free Tier with Special Offers
+Lighthouse
+Free 3-Month Trial
+RAM
+2GB
+CPU
+2 vCPU
+Easy to get started
+High cost performance, stable and reliable
+Try Now
+TRTC
+No credit card required
+Free Monthly Quota 10,000 Minutes
+Resolution
+720P/1080P
+Sample rate
+48 kHz
+Bitrate
+128 Kbps
+Applies to audio/video calls and interactive live streaming
+Cost-effective, low-latency, and high-quality
+Try Now
+EdgeOne
+No credit card required
+Permanently Valid
+Traffic
+Unmetered
+Requests
+Unmetered
+Unmetered CDN Traffic and DDoS Mitigation
+With China Access
+Try Now
+Free Tier
+Free Tier of Over 30 Products
+Get Started For Free
+Talk to Us
+Contact Us to Find the Right Solutions
+Contact Us
+Designed for Secure & Efficient Operations Across Various Business Scenarios
+[](https://tencentcloud.com/solutions/video)
+Audio and  
+Video
+Audio and Video
+Providing a one-stop video solution covering video-on-demand, live streaming, real-time video calls, short videos and more
+Covering many scenarios such as online videos, live sales, live gaming, and e-learning
+Customer Stories
+[](https://www.tencentcloud.com/customers/detail/824)[](https://www.tencentcloud.com/customers/detail/684)[](https://www.tencentcloud.com/customers/detail/2147)
+Recommended Products
+[Cloud Streaming Services](https://www.tencentcloud.com/products/css)[Video on Demand](https://www.tencentcloud.com/products/vod)[Real-Time Communication](https://www.tencentcloud.com/products/trtc)
+[](https://tencentcloud.com/solutions/ilvb)
+Interactive Live Streaming
+Interactive Live Streaming
+Covering various use cases such as co-anchoring competition live streaming, party live streaming, video matchmaking, online study room, and interactive classroom
+Faster mic connect interaction and better live streaming experience
+Customer Stories
+[](https://www.tencentcloud.com/customers/detail/2741)
+Recommended Products
+[Cloud Streaming Services](https://www.tencentcloud.com/products/css)[Real-Time Communication](https://www.tencentcloud.com/products/trtc)[Chat](https://www.tencentcloud.com/product/im)
+[](https://www.tencentcloud.com/solutions/edu)
+Online  
+Education
+Online Education
+Offering versatile solutions to support various online education scenarios
+Empowering online learning
+Customer Stories
+[](https://www.tencentcloud.com/customers/detail/23)
+Recommended Products
+[Cloud Virtual Machine](https://www.tencentcloud.com/products/cvm)[GPU Cloud Computing](https://www.tencentcloud.com/products/gpu)[Cloud Block Storage](https://www.tencentcloud.com/products/cbs)[Elasticsearch Service](https://www.tencentcloud.com/products/es)
+[](https://www.tencentcloud.com/solutions/game)
+Gaming  
+Solution
+Gaming Solution
+Leveraging a vast ecosystem of gaming resources
+High-quality and comprehensive game cloud service platform
+Customer Stories
+[](https://www.tencentcloud.com/customers/detail/24)[](https://www.tencentcloud.com/customers/detail/26)[](https://www.tencentcloud.com/customers/detail/812)
+Recommended Products
+[Game Multimedia Engine](https://www.tencentcloud.com/products/gme)[EdgeOne](https://www.tencentcloud.com/products/teo)[Elasticsearch Service](https://www.tencentcloud.com/products/es)
+[](https://www.tencentcloud.com/solutions/game-media)
+Game Media  
+Solution
+Game Media Solution
+Offering a one-stop gaming video toolkit
+Video Transcoding, Content Summarizer, Content Organizer, Visual Enhancement
+Recommended Products
+[Game Video Transcoder](https://www.tencentcloud.com/products/gvt)[Game Video Processor](https://www.tencentcloud.com/products/gvp)[Game Video Analyzer](https://www.tencentcloud.com/products/gva)
+Expanding Business Worldwide with Tencent Cloud’s Global Infrastructure
+[Learn More](https://www.tencentcloud.com/global-infrastructure)
+3
+2
+1
+0
+9
+8
+7
+6
+5
+4
+3
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
++
+Global CDN Nodes
+2
+1
+0
+9
+8
+7
+6
+5
+4
+3
+2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+Overseas Data Centers
+7
+6
+5
+4
+3
+2
+1
+0
+9
+8
+7
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+Global Recognized Certifications
+6
+5
+4
+3
+2
+1
+0
+9
+8
+7
+6
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+Availability Zones
+2
+1
+0
+9
+8
+7
+6
+5
+4
+3
+2
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+Regions
+Global Infrastructure
+China
+Europe
+North America
+Northeast Asia
+South America
+Southeast Asia
+Middle East
+West US
+Silicon Valley
+2
+East US
+Virginia
+2
+South America
+São Paulo
+1
+Europe
+Frankfurt
+2
+Southwest China
+Chengdu
+2
+Chongqing
+1
+Singapore
+Singapore
+4
+Thailand
+Bangkok
+2
+North China
+Beijing
+9
+Indonesia
+Jakarta
+3
+South China
+Guangzhou
+5
+Shenzhen
+3
+Hong Kong, China
+Hong Kong
+3
+East China
+Shanghai
+15
+Nanjing
+3
+South Korea
+Seoul
+2
+Japan
+Tokyo
+2
+Middle East
+Riyadh
+2
+Northwest China
+Zhongwei
+1
+Security, privacy
+and compliance capabilities
+[Compliance Center](https://www.tencentcloud.com/services/compliance)
+[](https://www.tencentcloud.com/document/product/363/2408)[](https://www.tencentcloud.com/document/product/363/7249)[](https://www.tencentcloud.com/document/product/363/11543)[](https://www.tencentcloud.com/document/product/363/34542)[](https://www.tencentcloud.com/document/product/363/34543)[](https://www.tencentcloud.com/document/product/363/38341)
+Customer Stories of Achieving Global Success with Tencent Cloud
+[Learn More](https://www.tencentcloud.com/customers)
+[](https://www.tencentcloud.com/customers/detail/684)
+Bravesoft
+Bravesoft
+Tencent Cloud has many success stories in Japan in terms of real-time distribution and live streaming technologies, which further enhances bravesoft's confidence in Tencent Cloud services.
+Kiyota KoichiroBoard Member & General Director of eventech unit, Bravesoft
+[](https://www.tencentcloud.com/customers/detail/2458)
+Bank Neo Commerce
+Bank Neo Commerce
+We are delighted to welcome Tencent Cloud in bringing TDSQL into BNC’s core system, which is in time with our move to boost our business through financial technology. We look forward to using an upgraded database architecture to serve our customers’ various and wide-ranging business needs and demands.
+Tjandra GunawanCEO, Bank Neo Commerce
+[](https://www.tencentcloud.com/customers/detail/870)
+OOKBEE
+OOKBEE
+Tencent Cloud helped us serve more than 10 million users across Southeast Asia to create an ecosystem among our users and sustain fast growth of e-book stores & UGC platforms.
+Moo Natavudh PungcharoenpongFounder & CEO, OOKBEE
+[](https://www.tencentcloud.com/customers/detail/1038)
+Blue Insurance Hong Kong
+Blue Insurance Hong Kong
+Backed by Tencent Cloud, we have achieved a remarkable business performance, and secured a leading position in the online insurance industry to provide better insurance products and services for our customers in Hong Kong.
+Charles HungCEO & Executive Director, Blue Insurance Hong Kong
+[](https://www.tencentcloud.com/customers/detail/35)[](https://www.tencentcloud.com/customers/detail/118)[](https://www.tencentcloud.com/customers/detail/870)[](https://www.tencentcloud.com/customers/detail/812)[](https://www.tencentcloud.com/customers/detail/21)[](https://www.tencentcloud.com/customers/detail/2105)[](https://www.tencentcloud.com/customers/detail/2148)[](https://www.tencentcloud.com/customers/detail/1023)[](https://www.tencentcloud.com/customers/detail/24)[](https://www.tencentcloud.com/customers/detail/93)[](https://www.tencentcloud.com/partners/details/3219?lang=en&pg=)[](https://www.tencentcloud.com/customers/detail/2929)[](https://www.tencentcloud.com/partners/details/3058?lang=en&pg=)
+[](https://www.tencentcloud.com/partners/details/3056?lang=en&pg=)[](https://www.tencentcloud.com/customers/detail/2110)[](https://www.tencentcloud.com/customers/detail/874)[](https://www.tencentcloud.com/partners/details/3061)[](https://www.tencentcloud.com/customers/detail/682)[](https://www.tencentcloud.com/customers/detail/2909)[](https://www.tencentcloud.com/customers/detail/786)[](https://www.tencentcloud.com/customers/detail/824)[](https://www.tencentcloud.com/customers/detail/2853)[](https://www.tencentcloud.com/customers/detail/2976)[](https://www.tencentcloud.com/customers/detail/683)[](https://www.tencentcloud.com/customers/detail/1038)[](https://www.tencentcloud.com/customers/detail/2458)[](https://www.tencentcloud.com/customers/detail/684)
+[](https://www.tencentcloud.com/customers/detail/26)[](https://www.tencentcloud.com/customers/detail/2881)[](https://www.tencentcloud.com/customers/detail/2730)[](https://www.tencentcloud.com/customers/detail/23)[](https://www.tencentcloud.com/customers/detail/905)[](https://www.tencentcloud.com/customers/detail/25)[](https://www.tencentcloud.com/customers/detail/889)[](https://www.tencentcloud.com/customers/detail/808)[](https://www.tencentcloud.com/customers/detail/2792)[](https://www.tencentcloud.com/customers/detail/2718)[](https://www.tencentcloud.com/customers/detail/2147)[](https://www.tencentcloud.com/customers/detail/1471)[](https://www.tencentcloud.com/customers/detail/1476)[](https://www.tencentcloud.com/customers/detail/2859)[](https://www.tencentcloud.com/customers/detail/1343)
+Take the Next Step
+Get Started with 30+ Free Products
+Sign in to get 30 products and other benefits for free
+Get Started for Free
+Talk to Us
+Reach out to a sales representative and find the ideal cloud solution for your business
+Contact Us
+Products & Services
+Explore ever-expanding Tencent Cloud products and services and start building your business in Tencent Cloud
+Learn More
+Partner Network
+Join the Tencent Cloud Partner Network to build and grow your cloud business
+Learn More

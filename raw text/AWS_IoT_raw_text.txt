@@ -1,0 +1,236 @@
+Source: AWS IoT
+URL: https://aws.amazon.com/iot/
+
+## Select your cookie preferences
+We use essential cookies and similar tools that are necessary to provide our site and services. We use performance cookies to collect anonymous statistics, so we can understand how customers use our site and make improvements. Essential cookies cannot be deactivated, but you can choose “Customize” or “Decline” to decline performance cookies.   
+  
+If you agree, AWS and approved third parties will also use cookies to provide useful site features, remember your preferences, and display relevant content, including relevant advertising. To accept or decline all non-essential cookies, choose “Accept” or “Decline.” To make more detailed choices, choose “Customize.”
+AcceptDeclineCustomize
+## Customize cookie preferences
+We use cookies and similar tools (collectively, "cookies") for the following purposes.
+### Essential
+Essential cookies are necessary to provide our site and services and cannot be deactivated. They are usually set in response to your actions on the site, such as setting your privacy preferences, signing in, or filling in forms. 
+### Performance
+Performance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance. Approved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes.
+Allowed
+### Functional
+Functional cookies help us provide useful site features, remember your preferences, and display relevant content. Approved third parties may set these cookies to provide certain site features. If you do not allow these cookies, then some or all of these services may not function properly.
+Allowed
+### Advertising
+Advertising cookies may be set through our site by us or our advertising partners and help us deliver relevant marketing content. If you do not allow these cookies, you will experience less relevant advertising.
+Allowed
+Blocking some types of cookies may impact your experience of our sites. You may review and change your choices at any time by selecting Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in the [AWS Cookie Notice](https://aws.amazon.com/legal/cookies/).
+CancelSave preferences
+## Your privacy choices
+We and our advertising partners (“we”) may use information we collect from or about you to show you ads on other websites and online services. Under certain laws, this activity is referred to as “cross-context behavioral advertising” or “targeted advertising.”
+To opt out of our use of cookies or similar technologies to engage in these activities, select “Opt out of cross-context behavioral ads” and “Save preferences” below. If you clear your browser cookies or visit this site from a different device or browser, you will need to make your selection again. For more information about cookies and how we use them, read our [Cookie Notice](https://aws.amazon.com/legal/cookies/).
+Allow cross-context behavioral adsOpt out of cross-context behavioral ads
+To opt out of the use of other identifiers, such as contact information, for these activities, fill out the form [here](https://pulse.aws/application/ZRPLWLL6?p=0).
+For more information about how AWS handles your information, read the [AWS Privacy Notice](https://aws.amazon.com/privacy/).
+CancelSave preferences
+## Unable to save cookie preferences
+We will only store essential cookies at this time, because we were unable to save your cookie preferences.  
+  
+If you want to change your cookie preferences, try again later using the link in the AWS console footer, or contact support if the problem persists.
+Dismiss
+[Skip to main content](https://aws.amazon.com/iot/#aws-page-content-main)
+[](https://aws.amazon.com/?nc2=h_home)
+  * Filter: All
+
+
+  * [Contact us](https://aws.amazon.com/contact-us/?nc2=h_ut_cu)
+  * [AWS Marketplace](https://aws.amazon.com/marketplace/?nc2=h_utmp)
+  * Support 
+  * My account 
+
+
+  * [](https://aws.amazon.com/?nc2=h_home)
+
+
+  * Filter: All
+  * [ Sign in to console ](https://console.aws.amazon.com/console/home/?nc2=h_si&src=header-signin)
+  * [Create account](https://signin.aws.amazon.com/signup?request_type=register)
+
+
+AWS IoT
+  * [Overview](https://aws.amazon.com/iot/?nc=sn&loc=1)
+  * IoT Services
+  * IoT Solutions
+  * IoT Partners
+  * [Customers](https://aws.amazon.com/iot/customers/?nc=sn&loc=5)
+  * More
+
+
+  * [Products](https://aws.amazon.com/products/)›
+  * AWS IoT
+
+
+# AWS Internet of Things
+Unlock your IoT data and accelerate business growth
+## Why AWS IoT?
+AWS offers Internet of Things (IoT) services and solutions to connect and manage billions of devices. Collect, store, and analyze IoT data for industrial, consumer, commercial, and automotive workloads.
+Play
+## Benefits of AWS IoT
+###  Accelerate innovation with the most complete set of IoT services
+Scale, move quickly, and save money, with AWS IoT. From secure device connectivity to management, storage, and analytics, AWS IoT has the broad and deep services you need to build complete solutions.
+###  Secure your IoT applications from the cloud to the edge
+AWS IoT services address every layer of your application and device.
+###  Build intelligent IoT solutions with superior AI and ML integration
+Create models in the cloud and deploy them to devices with [up to 25x better performance and less than one tenth the runtime footprint.](https://aws.amazon.com/sagemaker/neo/) AWS brings AI, machine learning (ML), and IoT together to make devices more intelligent.
+###  More easily and reliably scale
+Build innovative, differentiated solutions on secure, proven, and elastic cloud infrastructure that scales to billions of devices and trillions of messages. AWS IoT seamlessly integrates with other AWS services.
+## AWS IoT Services
+## Page topics
+  * [Edge services 3 ](https://aws.amazon.com/iot/#edge-services--15nj261)
+  * [Connectivity and control services 4 ](https://aws.amazon.com/iot/#connectivity-and-control-services--15nj261)
+  * [Industry-specific services 3 ](https://aws.amazon.com/iot/#industry-specific-services--15nj261)
+
+
+## Edge services
+[Open all](https://aws.amazon.com/iot/)
+###  FreeRTOS
+An open source, cloud-neutral, real-time operating system for resource-constrained devlices like microcontrollers and micorprocessors that offers a fast, dependable, and responsive kernel. 
+[Learn more >>](https://aws.amazon.com/freertos/)
+###  AWS IoT Greengrass
+AWS IoT Greengrass is an IoT open source edge runtime and cloud service that helps you build, deploy, and manage device software. It enables local processing, messaging, data management, ML inference, and offers prebuilt components to accelerate application development. It also provides a secure way to seamlessly connect your edge devices to any AWS service as well as to third-party services.
+[Learn more >>](https://aws.amazon.com/greengrass/)
+###  AWS IoT ExpressLink
+AWS IoT ExpressLink powers a range of hardware modules developed and offered by AWS Partners. [The connectivity modules](https://devices.amazonaws.com/search?page=1&sv=iotxplnk) include software implementing AWS-mandated security requirements, making it faster and easier for you to securely connect devices to the cloud and seamlessly integrate with a range of AWS services. Using these modules, you can quickly transform any embedded device into an IoT–connected device with minimal design effort.
+[Learn more >>](https://aws.amazon.com/iot-expresslink/)
+## Connectivity and control services
+[Open all](https://aws.amazon.com/iot/)
+###  AWS IoT Core
+AWS IoT Core supports connectivity for billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely. With AWS IoT Core, you can connect IoT devices to AWS without the need to provision or manage servers. AWS IoT Core message broker supports devices and clients that use MQTT and MQTT over WSS protocols to publish and subscribe to messages. It also supports devices and clients that use the HTTPS protocol to publish messages.
+###  AWS IoT Device Management
+AWS IoT Device Management is a service that makes it easy to securely register, organize, monitor, and remotely manage IoT devices at scale throughout their lifecycle. You can use IoT Device Management to upload and view device information and configuration, organize your device inventory, monitor your fleet of devices, troubleshoot individual devices, and remotely manage devices deployed across many locations including updating device software over-the-air (OTA). With IoT Device Management, you can scale your device fleets and reduce the cost and effort of managing large IoT device deployments.
+[Learn more >> ](https://aws.amazon.com/iot-device-management/)
+###  AWS IoT Device Defender
+With AWS IoT Device Defender, you get tools to identify and respond to security issues at scale. AWS IoT Device Defender audits your fleet to ensure it adheres to security best practices, continuously monitors your device fleets to detect any abnormal device behavior, alerts you about security issues as they arise, and provides built-in mitigation actions for these security issues.
+[Learn more >>](https://aws.amazon.com/iot-device-defender/)
+###  Amazon Kinesis Video Streams
+Securely ingest, stream, process, and store video and time-encoded data from connected devices at any scale. Amazon Kinesis Video Streams supports media ingestion over a WebRTC connection for secure storage, playback and analytical processing.
+[Learn more >>](https://aws.amazon.com/kinesis/video-streams/)
+## Industry-specific services
+[Open all](https://aws.amazon.com/iot/)
+###  AWS IoT SiteWise
+AWS IoT SiteWise makes it easy to collect, store, organize and monitor data from industrial equipment at scale. You can use AWS IoT SiteWise to monitor operations across facilities, quickly compute common industrial performance metrics, and create applications that analyze industrial equipment data to prevent costly equipment issues and reduce gaps in production.
+[Learn more >>](https://aws.amazon.com/iot-sitewise/)
+###  AWS IoT TwinMaker
+Optimize operations by easily creating digital twins of real-world systems. AWS IoT TwinMaker creates digital visualizations using measurements and analysis from a variety of real-world sensors, cameras, and enterprise applications to help you keep track of your physical factory, building, or industrial plant. You can use this real-world data to monitor operations, diagnose and correct errors, and optimize operations.
+[Learn more >> ](https://aws.amazon.com/iot-twinmaker/)
+###  AWS IoT FleetWise
+Easily collect, transform, and transfer vehicle data to the cloud at scale. Analyze vehicle fleet health to quickly identify potential maintenance issues, make in-vehicle infotainment systems smarter, or use analytics and machine learning (ML) to improve models for autonomous driving and advanced driver assistance systems (ADAS).
+[Learn more >>](https://aws.amazon.com/iot-fleetwise/)
+## Possibilities with AWS IoT
+  * Optimize industrial operations
+  * Build differentiated consumer products
+  * Reinvent smart buildings and cities
+  * Transform mobility
+
+
+### Optimize industrial operations
+Create rich and scalable industrial IoT applications to remotely monitor operations, improve quality, and reduce unplanned downtime.   
+
+[Learn more about industrial IoT »](https://aws.amazon.com/iot/solutions/industrial-iot/)
+![High Angle View of Automated Factory Floor with Data Visualization Overlays, Representing Industry 4.0 and Digital Transformation : Generative AI](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/optimize-industrial-operations.93db012012af1ceab653c2b9d5358c4bb845f8fb.jpeg)
+### Build differentiated consumer products
+Develop connected consumer applications for home automation, home security and monitoring, and home networking.   
+
+[Learn more about consumer IoT »](https://aws.amazon.com/iot/solutions/connected-home/)
+![Missing alt text value](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/differentiated-consumer-products.e4a8863a1e394f4629383bb208a9f2ad9bf84692.jpeg)
+### Reinvent smart buildings and cities
+Build commercial IoT applications that solve challenges in infrastructure, health, and the environment.   
+
+[Learn more about commercial IoT »](https://aws.amazon.com/iot/solutions/)
+![Missing alt text value](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/smart-buildings-and-cities.3bb5b38a052da0ddacdf1a052566c76941dd3152.jpeg)
+### Transform mobility
+Deliver IoT applications that gather, process, analyze, and act on connected vehicle data, without having to manage any infrastructure.   
+
+[Learn more about connected mobility »](https://aws.amazon.com/automotive/connected-vehicles/)
+![Connected trucks driving on highway at night, showcasing digital network.](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/transform-mobility.a36e97b9db6a3a14c1aa55a2766863a6291fedee.jpeg)
+## Featured solutions on AWS
+### [Distributed Load Testing on AWS Automate software application testing at scale and at load to identify potential performance issues. Get started ](https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws/)
+### [Guidance for Tracking Assets & Locating Devices Using AWS IoT Record and monitor the movement of your assets through a centralized management system. Get started ](https://aws.amazon.com/solutions/guidance/tracking-assets-and-locating-devices-using-aws-iot/)
+### [Designing Next Generation Vehicle Communication with AWS IoT Core and MQTT Best practices for implementing an extensible, scalable and resilient communication architecture for the next generation of vehicles on AWS. Get started ](https://docs.aws.amazon.com/whitepapers/latest/designing-next-generation-vehicle-communication-aws-iot/designing-next-generation-vehicle-communication-aws-iot.html)
+### [Guidance for Building an Agricultural Sensor Network using IoT and Amazon DocumentDB Build an application that helps farmers improve productivity by capturing data from their agricultural operations. Get started ](https://aws.amazon.com/solutions/guidance/building-an-agricultural-sensor-network-using-iot-and-amazon-documentdb)
+## Customers
+  * Volkswagen Group
+  * iRobot
+  * Carrier
+
+
+### Volkswagen Group
+We will continue to strengthen production as a key competitive factor for the Volkswagen Group. Our strategic collaboration with AWS will lay the foundation.
+Oliver Blume, Chairman of the Executive Board of Porsche AG and Member of the Board of Management, Volkswagen
+![Missing alt text value](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/a101ed4e-cbdb-425c-b1ce-65b12aca4c14.bc445643bb6a1476011c84b6bc0c93ffc1ca9dae.png)
+### iRobot
+Traffic spiked by at least 20 times, but because of the simple scalability of a serverless AWS architecture, it was a nonevent. With a traditional architecture, it would have been all hands on deck.
+Ben Kehoe, Cloud Robotics Research Scientist, iRobot
+![Missing alt text value](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/f3eb31dd-1bc7-46db-87e3-5d8e61d9b914.ccae1b68c41fe2f0097d578b707cf5ebb6d758d4.png)
+### Carrier
+Through this collaboration with AWS, we are developing a uniquely powerful ecosystem to give our customers greater flexibility, visibility, and intelligence across the cold chain.
+David Appel, President, Carrier Refrigeration
+![Missing alt text value](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/033baa06-e292-479f-b7ea-c1ed511a3d55.eadc3a2e12e95bed9e79a004470f4c6aff899563.png)
+## Learn more about AWS IoT's customers
+From emerging startups to large enterprises, learn why our customers choose AWS IoT.
+[Learn more](https://aws.amazon.com/iot/customers/?nc=sn&loc=6&customer-references-cards.sort-by=item.additionalFields.sortDate&customer-references-cards.sort-order=desc&awsf.content-type=*all&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all&awsf.customer-references-product=*all)
+![Missing alt text value](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/iot/approved/images/customer-image.191668e386cd31a09c8afd4ce742fdaab8e46828.jpg)
+## Next steps
+[ Documentation Learn how to build simple IoT applications Get hands-on with AWS IoT EduKit ](https://aws.amazon.com/iot/edukit/)
+[ Contact us Have more questions? Contact us ](https://aws.amazon.com/contact-us/)
+CCBA-Footer
+[Create an AWS account](https://signin.aws.amazon.com/signup?request_type=register)
+## Learn
+  * [What Is AWS?](https://aws.amazon.com/what-is-aws/?nc1=f_cc)
+  * [What Is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc)
+  * [What Is Agentic AI?](https://aws.amazon.com/what-is/agentic-ai/?nc1=f_cc)
+  * [Cloud Computing Concepts Hub](https://aws.amazon.com/what-is/?nc1=f_cc)
+  * [AWS Cloud Security](https://aws.amazon.com/security/?nc1=f_cc)
+  * [What's New](https://aws.amazon.com/new/?nc1=f_cc)
+  * [Blogs](https://aws.amazon.com/blogs/?nc1=f_cc)
+  * [Press Releases](https://press.aboutamazon.com/press-releases/aws)
+
+
+## Resources
+  * [Getting Started](https://aws.amazon.com/getting-started/?nc1=f_cc)
+  * [Training](https://aws.amazon.com/training/?nc1=f_cc)
+  * [AWS Trust Center](https://aws.amazon.com/trust-center/?nc1=f_cc)
+  * [AWS Solutions Library](https://aws.amazon.com/solutions/?nc1=f_cc)
+  * [Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
+  * [Product and Technical FAQs](https://aws.amazon.com/faqs/?nc1=f_dr)
+  * [Analyst Reports](https://aws.amazon.com/resources/analyst-reports/?nc1=f_cc)
+  * [AWS Partners](https://aws.amazon.com/partners/work-with-partners/?nc1=f_dr)
+
+
+## Developers
+  * [Builder Center](https://aws.amazon.com/developer/?nc1=f_dr)
+  * [SDKs & Tools](https://aws.amazon.com/developer/tools/?nc1=f_dr)
+  * [.NET on AWS](https://aws.amazon.com/developer/language/net/?nc1=f_dr)
+  * [Python on AWS](https://aws.amazon.com/developer/language/python/?nc1=f_dr)
+  * [Java on AWS](https://aws.amazon.com/developer/language/java/?nc1=f_dr)
+  * [PHP on AWS](https://aws.amazon.com/developer/language/php/?nc1=f_cc)
+  * [JavaScript on AWS](https://aws.amazon.com/developer/language/javascript/?nc1=f_dr)
+
+
+## Help
+  * [Contact Us](https://aws.amazon.com/contact-us/?nc1=f_m)
+  * [File a Support Ticket](https://console.aws.amazon.com/support/home/?nc1=f_dr)
+  * [AWS re:Post](https://repost.aws/?nc1=f_dr)
+  * [Knowledge Center](https://repost.aws/knowledge-center/?nc1=f_dr)
+  * [AWS Support Overview](https://aws.amazon.com/premiumsupport/?nc1=f_dr)
+  * [Get Expert Help](https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m)
+  * [AWS Accessibility](https://aws.amazon.com/accessibility/?nc1=f_cc)
+  * [Legal](https://aws.amazon.com/legal/?nc1=f_cc)
+
+
+English
+Back to top
+Amazon is an Equal Opportunity Employer: Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+[ x ](https://twitter.com/awscloud) [ facebook ](https://www.facebook.com/amazonwebservices) [ linkedin ](https://www.linkedin.com/company/amazon-web-services/) [ instagram ](https://www.instagram.com/amazonwebservices/) [ twitch ](https://www.twitch.tv/aws) [ youtube ](https://www.youtube.com/user/AmazonWebServices/Cloud/) [ podcasts ](https://aws.amazon.com/podcasts/?nc1=f_cc) [ email ](https://pages.awscloud.com/communication-preferences?trk=homepage)
+  * [Privacy](https://aws.amazon.com/privacy/?nc1=f_pr)
+  * [Site terms](https://aws.amazon.com/terms/?nc1=f_pr)
+  * [Your Privacy Choices  California Consumer Privacy Act (CCPA) Opt-Out Icon ](https://aws.amazon.com/iot/)
+  * [Cookie Preferences](https://aws.amazon.com/iot/)
+
+
+© 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.

@@ -1,0 +1,388 @@
+Source: Linode (Akamai Connected Cloud)
+URL: https://www.linode.com/
+
+Twitter LinkedIn Email
+![](https://www.linode.com/)
+[ ](javascript:void\(0\);)
+Close
+[ X ](javascript:void\(0\);)
+Skip to main content
+  * [Search](https://www.linode.com/search/)
+  * [Docs](https://techdocs.akamai.com/cloud-computing/docs/welcome)
+  * [Blog](https://www.linode.com/blog/)
+  * [Support](https://www.linode.com/support/)
+  * [Sales](https://www.linode.com/company/contact/)
+  * [Log in](https://login.linode.com/login)
+
+
+English
+  * [Español](https://www.linode.com/es/ "Language switcher : Spanish")
+  * [日本語](https://www.linode.com/ja/ "Language switcher : Japanese")
+  * [Deutsch](https://www.linode.com/de/ "Language switcher : German")
+  * [한국어](https://www.linode.com/ko/ "Language switcher : Korean")
+  * [Français](https://www.linode.com/fr/ "Language switcher : French")
+  * [Italiano](https://www.linode.com/it/ "Language switcher : Italian")
+  * [中文 (简体)](https://www.linode.com/zh/ "Language switcher : Simplified Chinese")
+  * [Português (Brasil)](https://www.linode.com/pt/ "Language switcher : Brazilian Portuguese")
+
+
+[ ![Akamai Cloud](https://www.linode.com/linode/en/images/logo/akamai-cloud-logo.svg) ](https://www.linode.com)
+  * Explore
+  * Products
+  * Solutions
+  * Pricing
+  * Resources
+  * [Partners](https://www.linode.com/partners/)
+  * [Sign up](https://login.linode.com/signup)
+  * Mobile
+
+
+  * Explore
+    * [Lower costs](https://www.linode.com/reduce-cloud-costs/)
+    * [Lower latency](https://www.linode.com/low-latency-applications/)
+    * [Cloud portability](https://www.linode.com/cloud-portability/)
+    * [Global scale](https://www.linode.com/cloud-global-scale/)
+    * [Our platform](https://www.linode.com/global-infrastructure/)
+    * [Support experience](https://www.linode.com/support-experience/)
+  * Products
+    * [Products Overview](https://www.linode.com/products/)
+    * Compute
+      * [Essential Compute](https://www.linode.com/products/essential-compute/)
+      * [GPU](https://www.linode.com/products/gpu/)
+      * [Accelerated Compute](https://www.linode.com/products/accelerated-compute/)
+      * [Kubernetes](https://www.linode.com/products/kubernetes/)
+      * [App Platform](https://www.linode.com/products/app-platform/)
+    * Storage
+      * [Block Storage](https://www.linode.com/products/block-storage/)
+      * [Object Storage](https://www.linode.com/products/object-storage/)
+      * [Backups](https://www.linode.com/products/backups/)
+    * Networking
+      * [Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
+      * [DNS Manager](https://www.linode.com/products/dns-manager/)
+      * [NodeBalancers](https://www.linode.com/products/nodebalancers/)
+      * [Private Networking](https://www.linode.com/products/private-networking/)
+    * Databases
+      * [Managed Databases](https://www.linode.com/products/databases/)
+    * Services
+      * [Linode Managed](https://www.linode.com/products/managed/)
+  * Solutions
+    * [AI inferencing](https://www.linode.com/solutions/ai-inferencing/)
+    * [Ecommerce](https://www.linode.com/solutions/ecommerce/)
+    * [Gaming](https://www.linode.com/solutions/gaming/)
+    * [Managed hosting](https://www.linode.com/solutions/managed-hosting/)
+    * [Media](https://www.linode.com/solutions/media/)
+    * [SaaS](https://www.linode.com/solutions/saas/)
+  * Pricing
+    * [Pricing list](https://www.linode.com/pricing/)
+    * [Cloud computing calculator](https://www.linode.com/pricing/cloud-cost-calculator/)
+  * Resources
+    * [White paper, ebooks, videos…](https://www.linode.com/resources/)
+    * [Developer hub](https://www.linode.com/developers/)
+    * [Documentation](https://techdocs.akamai.com/cloud-computing/docs/welcome)
+    * [Guides](https://www.linode.com/docs/)
+    * [Reference architectures](https://www.linode.com/docs/reference-architecture/)
+    * [Community Q&A](https://www.linode.com/community/questions/)
+    * [Beta program](https://www.linode.com/green-light/)
+    * [Startup program](https://www.linode.com/startup-programs/)
+    * [Marketplace apps](https://www.linode.com/marketplace/)
+    * [Blog](https://www.linode.com/blog/)
+    * [Events and workshops](https://www.linode.com/events/)
+  * [Partners](https://www.linode.com/partners/)
+  * Company
+    * [About Us](https://www.linode.com/company/about/)
+    * [Newsroom](https://www.akamai.com/newsroom)
+    * [Careers](https://www.akamai.com/careers)
+    * [Legal](https://www.linode.com/legal/)
+    * [Sales](https://www.linode.com/company/contact/)
+    * [System Status](https://status.linode.com)
+
+
+  * Search
+  * [Docs](https://techdocs.akamai.com/cloud-computing/docs/welcome)
+  * [Blog](https://www.linode.com/blog/)
+  * [Resources](https://www.linode.com/resources/)
+  * [Pricing](https://www.linode.com/pricing/)
+  * [Support](https://www.linode.com/support/)
+  * [Sales](https://www.linode.com/company/contact/)
+
+
+Search
+  * [Log in](https://login.linode.com/login)
+  * [Sign up](https://login.linode.com/signup)
+
+
+###### Featured
+[![Hero Forge Craft of Code Header](https://www.linode.com/ns/features/prod/images/hero-forge-craft-of-code-632x279.jpg) Hero Forge Secure, accessible GPU instances.   
+Unleash millions of adventures. Read story ](https://www.akamai.com/resources/customer-story/hero-forge)
+  * [Lower costs](https://www.linode.com/reduce-cloud-costs/)
+  * [Lower latency](https://www.linode.com/low-latency-applications/)
+  * [Cloud portability](https://www.linode.com/cloud-portability/)
+  * [Global scale](https://www.linode.com/cloud-global-scale/)
+
+
+  * [Our platform](https://www.linode.com/global-infrastructure/)
+  * [Support experience](https://www.linode.com/support-experience/)
+
+
+###### Featured
+[![GPU acceleration](https://www.linode.com/ns/features/prod/images/gpu-438.png) GPU acceleration Power AI and media workloads with on-demand NVIDIA™ GPUs at cost-effective pricing. View product details ](https://www.linode.com/products/gpu/)
+[View all products](https://www.linode.com/products/)
+###### Compute
+  * [Essential Compute](https://www.linode.com/products/essential-compute/)
+  * [GPU](https://www.linode.com/products/gpu/)
+  * [Accelerated Compute](https://www.linode.com/products/accelerated-compute/)
+  * [Kubernetes](https://www.linode.com/products/kubernetes/)
+  * [App Platform](https://www.linode.com/products/app-platform/)
+
+
+###### Storage
+  * [Block Storage](https://www.linode.com/products/block-storage/)
+  * [Object Storage](https://www.linode.com/products/object-storage/)
+  * [Backups](https://www.linode.com/products/backups/)
+
+
+###### Networking
+  * [Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
+  * [DNS Manager](https://www.linode.com/products/dns-manager/)
+  * [NodeBalancers](https://www.linode.com/products/nodebalancers/)
+  * [Private Networking](https://www.linode.com/products/private-networking/)
+
+
+###### Databases
+  * [Managed Databases](https://www.linode.com/products/databases/)
+
+
+###### Services
+  * [Linode Managed](https://www.linode.com/products/managed/)
+
+
+###### Featured
+[![Portability in the Cloud: Best Practices for Building SaaS-Based Applications](https://www.linode.com/ns/features/prod/images/MRK-4404-Portability-i632x217-px.jpg) Portability in the cloud Best practices for building SaaS-based applications. Get your copy ](https://www.linode.com/resources/ebook/cloud-portability-saas-applications/)
+###### Solutions
+  * [AI inferencing](https://www.linode.com/solutions/ai-inferencing/)
+  * [Ecommerce](https://www.linode.com/solutions/ecommerce/)
+  * [Gaming](https://www.linode.com/solutions/gaming/)
+  * [Managed hosting](https://www.linode.com/solutions/managed-hosting/)
+  * [Media](https://www.linode.com/solutions/media/)
+  * [SaaS](https://www.linode.com/solutions/saas/)
+
+
+###### Featured
+[![Cloud Pricing Calculator](https://www.linode.com/ns/features/prod/images/Cloud_Pricing_MockUp2-416x376.png) Cloud computing calculator Estimate your cloud costs. Price and configure cloud features to match your needs. Launch calculator ](https://www.linode.com/pricing/cloud-cost-calculator/)
+###### Pricing
+  * [Pricing list](https://www.linode.com/pricing/)
+  * [Cloud computing calculator](https://www.linode.com/pricing/cloud-cost-calculator/)
+
+
+###### Featured
+[![](https://www.linode.com/ns/features/prod/images/developerHub-submenu-sm.jpg) Developer hub Comprehensive guides, documentation, and endpoints. Everything you need to get started. Visit hub ](https://www.linode.com/developers/)
+###### Library
+  * [White paper, ebooks, videos…](https://www.linode.com/resources/)
+
+
+###### Technical Resources
+  * [Developer hub](https://www.linode.com/developers/)
+  * [Documentation](https://techdocs.akamai.com/cloud-computing/docs/welcome)
+  * [Guides](https://www.linode.com/docs/)
+  * [Reference architectures](https://www.linode.com/docs/reference-architecture/)
+
+
+###### Community
+  * [Community Q&A](https://www.linode.com/community/questions/)
+  * [Beta program](https://www.linode.com/green-light/)
+  * [Startup program](https://www.linode.com/startup-programs/)
+
+
+###### Marketplace
+  * [Browse apps](https://www.linode.com/marketplace/)
+
+
+###### What's New
+  * [Blog](https://www.linode.com/blog/)
+  * [Events and workshops](https://www.linode.com/events/)
+
+
+# The World's Most Distributed Cloud Computing Platform
+## Build and deliver low-latency, edge native applications on Akamai Cloud
+[ Sign up with Google ](https://login.linode.com/tpa/signup/google)
+* * *
+[ Github ](https://login.linode.com/tpa/signup/github)
+[ Email ](https://login.linode.com/signup)
+By providing your email address or using a single sign-on provider to create an account, you agree to our [Terms of Service](https://www.linode.com/legal) and have reviewed our [Privacy Policy](https://www.akamai.com/legal/privacy-statement) and [Cookie Policy](https://www.linode.com/legal-cookies/).
+## The State of Enterprise AI: Gaining Experience and Managing Risks  
+
+A Forrester consulting study, commissioned by Akamai, explores how enterprises are boosting CX and managing AI risks in 2025.
+[ Read study ](https://www.akamai.com/lp/forrester-enterprise-ai-report-2025)
+![The State of Enterprise AI: Gaining Experience and Managing Risks](https://www.linode.com/site/en/images/promo/2025/forrester-osnap-2025.jpg)
+## What's new
+![](https://www.linode.com/site/en/qa/fiji-card-image-4.png)
+####  Akamai + Fermyon Wasm function-as-a-service
+Innovate and execute lightweight code at the edge 
+[ Learn more ](https://www.akamai.com/newsroom/press-release/akamai-announces-acquisition-of-function-as-a-service-company-fermyon)
+![](https://www.linode.com/linode/en/images/thumbnail/2025/ai-foundry-report-thumbnail.png)
+###  Optimizing AI inference: Build a foundation for scalability and efficiency
+Discover cost-saving strategies for AI inference, including edge deployment, model optimization, and FinOps best practices to scale efficiently.
+[ Download white paper ](https://www.linode.com/lp/optimizing-ai-inference-whitepaper)
+![](https://www.linode.com/linode/en/images/promo/distributed-cloud-taking-ai-to-the-edge.png)
+###  Distributed Cloud: Taking AI to the Edge research study
+A 2024 Forrester Consulting study, commissioned by Akamai, explores distributed cloud interest among cloud strategy decision-makers.
+[ Read study ](https://www.linode.com/lp/forrester-distributed-cloud-taking-ai-to-the-edge)
+![](https://www.linode.com/linode/en/images/promo/ai-inference-efficiency-588.png)
+###  AI inference efficiency: Spend less and do more
+As demonstrated using the Stable Diffusion model on Akamai Cloud, AI inference costs can be reduced by up to 86%. Discover strategies to optimize performance and lower expenses.
+[ Download white paper ](https://www.linode.com/lp/ai-inference-cost-optimization-whitepaper)
+![](https://www.linode.com/linode/en/images/promo/learn-how-we-cut-our-public-cloud-spend.png)
+##  Learn how we cut our public cloud spend by 40% in one year
+Read the Project Cirrus brief for insights on business objectives, cloud risk management, and our five-step migration process.
+[ Read brief ](https://www.linode.com/resources/white-paper/cirrus-akamai-cloud-workload-migration-summary)
+## The cloud of the future, today
+Essential strategies for optimizing your cloud infrastructure and enhancing application performance.
+![](https://www.linode.com/linode/en/images/thumbnail/1-lower-your-cloud-bill-center.png)
+###  Lower your cloud bills
+Budgeting for cloud infrastructure should be easy. Enjoy flat, predictable pricing with low egress fees and a free egress allowance.
+[ Explore costs ](https://www.linode.com/reduce-cloud-costs)
+![](https://www.linode.com/linode/en/images/thumbnail/2-deploy-low-latency-apps-center.png)
+###  Deploy low-latency apps
+Enhance the performance of your VMs, containers, storage, and databases with support from our Qualified Compute Partners or our popular marketplace apps.
+[ Explore low-latency ](https://www.linode.com/low-latency-applications)
+![](https://www.linode.com/linode/en/images/thumbnail/3-scale-across-the-globe-center.png)
+###  Scale across the globe
+Control where data is managed and scale to meet demand in key global customer markets.
+[ Explore scalability ](https://www.linode.com/cloud-global-scale)
+![](https://www.linode.com/linode/en/images/thumbnail/4-real-cloud-portability-center.png)
+###  Get real cloud portability
+Choose the right technologies to power different workloads. Eliminate the need to use proprietary services.
+[ Explore portability ](https://www.linode.com/cloud-portability)
+## Get up to US$5,000 in cloud credits*  
+
+See how Akamai’s public cloud can help your business run better. Reduce costs, increase reliability, and drive results. Offer available to new and existing enterprise customers.
+[ Apply now ](https://www.linode.com/#request-credits)
+*See [Promotion Redemption Rules and Conditions](https://www.akamai.com/legal/promotion-redemption-rules-conditions "Promotion Redemption Rules and Conditions")
+## Explore our products  
+
+Build and deploy on the world’s most distributed platform.
+[ See all products ](https://www.linode.com/products)
+###  Essential Compute
+Match Shared CPU, Dedicated CPU, or High Memory compute plans to your applications’ needs and budget.
+[ View product details ](https://www.akamai.com/products/essential-compute)
+###  App Platform
+Deploy powerful cloud native applications on Kubernetes in minutes with automated infrastructure.
+[ View product details ](https://www.akamai.com/products/app-platform)
+####  GPU
+Parallel process workloads including machine learning, scientific computing, and video processing.
+[ View product details ](https://www.akamai.com/products/gpu)
+###  Linode Kubernetes Engine
+Managed K8s container orchestration engine for containerized workloads.
+[ View product details ](https://www.akamai.com/products/kubernetes)
+###  Managed Databases
+Fully managed database service for MySQL and PostgreSQL. Deploy a managed database cluster in production.
+[ View product details ](https://www.akamai.com/products/databases)
+###  Object Storage
+Store your data for high availability, durability, or distribution.
+[ View product details ](https://www.akamai.com/products/object-storage)
+![](https://www.linode.com/linode/en/images/promo/cloud-computing-foundations-certification.png)
+## Cloud Computing Foundations Certification
+Develop a foundational understanding of cloud computing and explore Akamai’s cloud computing ecosystem.
+[ View details ](https://www.linode.com/site/en/documents/corporate/cloud-computing-foundations-certification.pdf)
+[ Start learning ](https://training.akamai.com/learn)
+## Learn more
+![](https://www.linode.com/linode/en/images/thumbnail/learn-more-pricing.png)
+###  Pricing
+CPU, transfer, storage, and RAM bundled into one flat price.
+[ See pricing ](https://www.linode.com/pricing)
+![](https://www.linode.com/linode/en/images/thumbnail/learn-more-support-experience.png)
+###  Support experience
+Get expert advice and assistance whenever you need it from our award-winning support team of highly trained service professionals.
+[ Explore support ](https://www.linode.com/support-experience)
+![](https://www.linode.com/linode/en/images/thumbnail/learn-more-developer-portal.png)
+###  Developer portal
+Comprehensive guides, documentation, and endpoints.
+[ Explore hub ](https://www.linode.com/developers)
+## Ready to get started or have questions?  
+
+Set up your free account today or contact a sales consultant to learn more.
+[ Create account ](https://login.linode.com/signup)
+[ Contact us ](https://www.linode.com/company/contact)
+### See if you qualify for up to US$5,000 in cloud credits  
+
+We’re here to help you with large deployments, migrations, app optimization, architecture assessments, security and reliability audits, and much more. For support or account issues, please visit our [support page](https://www.linode.com/support).
+#### Products
+  * [Products Overview](https://www.linode.com/products/)
+  * [Essential Compute](https://www.linode.com/products/essential-compute/)
+  * [GPU](https://www.linode.com/products/gpu/)
+  * [Accelerated Compute](https://www.linode.com/products/accelerated-compute/)
+  * [Kubernetes](https://www.linode.com/products/kubernetes/)
+  * [App Platform](https://www.linode.com/products/app-platform/)
+  * [Block Storage](https://www.linode.com/products/block-storage/)
+  * [Object Storage](https://www.linode.com/products/object-storage/)
+  * [Backups](https://www.linode.com/products/backups/)
+  * [Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
+  * [DNS Manager](https://www.linode.com/products/dns-manager/)
+  * [NodeBalancers](https://www.linode.com/products/nodebalancers/)
+  * [Private Networking](https://www.linode.com/products/private-networking/)
+  * [Managed Databases](https://www.linode.com/products/databases/)
+  * [Linode Managed](https://www.linode.com/products/managed/)
+  * [Distributions](https://www.linode.com/distributions/)
+  * [Kernels](https://www.linode.com/kernels/)
+
+
+#### Company
+  * [About Akamai](https://www.akamai.com/company)
+  * [History](https://www.akamai.com/company/company-history)
+  * [Leadership](https://www.akamai.com/company/leadership)
+  * [Facts and Figures](https://www.akamai.com/company/facts-figures)
+  * [Awards](https://www.akamai.com/company/our-awards)
+  * [Board of Directors](https://www.akamai.com/company/leadership/board-of-directors)
+  * [Investor Relations](https://www.ir.akamai.com/)
+  * [Corporate Responsibility](https://www.akamai.com/company/corporate-responsibility)
+  * [Ethics](https://www.akamai.com/company/ethics-and-compliance)
+  * [Locations](https://www.akamai.com/company/locations)
+  * [Vulnerability Reporting](https://www.akamai.com/global-services/support/vulnerability-reporting)
+  * [Accessibility Commitment](https://www.linode.com/accessibility/)
+
+
+#### Careers
+  * [Careers](https://www.akamai.com/careers)
+  * [Working at Akamai](https://www.akamai.com/careers/working-at-akamai)
+  * [Students and Recent Grads](https://www.akamai.com/careers/students-and-recent-graduates)
+  * [Workplace Diversity](https://www.akamai.com/careers/workplace-diversity)
+  * [Search Jobs](https://akamaicareers.inflightcloud.com/search?searchable=%5B%5D&section=aka_ext)
+  * [Culture Blog](https://www.akamai.com/blog/culture)
+
+
+#### Newsroom
+  * [Newsroom](https://www.akamai.com/newsroom)
+  * [Press Releases](https://www.akamai.com/newsroom/press-release)
+  * [In the News](https://www.akamai.com/newsroom/in-the-news)
+  * [Media Resources](https://www.akamai.com/newsroom/media-resources)
+
+
+#### Legal & Compliance
+  * [Linode Legal](https://www.linode.com/legal/)
+  * [Akamai Legal](https://www.akamai.com/legal)
+  * [Linode Terms of Service (MSA)](https://www.linode.com/legal-msa/)
+  * [EU Digital Services Act (DSA)](https://www.linode.com/eu-digital-services-act/)
+  * [Information Security Compliance](https://www.akamai.com/legal/compliance)
+  * [Privacy Trust Center](https://www.akamai.com/legal/compliance/privacy-trust-center)
+  * [Cookie Settings](https://www.linode.com/legal/manage-cookie-preferences/)
+
+
+#### Glossary
+  * [What Is Cloud Security?](https://www.akamai.com/glossary/what-is-cloud-security)
+  * [What Is Cloud Redundancy?](https://www.akamai.com/glossary/what-is-cloud-redundancy)
+  * [What Is Cloud Computing Security?](https://www.akamai.com/glossary/what-is-cloud-computing-security)
+  * [What is Cloud Portability?](https://www.akamai.com/glossary/what-is-cloud-portability)
+  * [What Is Event-Driven Architecture?](https://www.akamai.com/glossary/what-is-event-driven-architecture)
+  * [See all](https://www.akamai.com/glossary)
+
+
+[ ](https://x.com/linode) [ ](https://www.linode.com/youtube) [ ](https://www.linkedin.com/company/linode/) [ ](https://github.com/linode/)
+[ ![Akamai Logo](https://www.linode.com/linode/en/images/logo/akamai-logo.svg) ](https://www.akamai.com)
+  * Cookie Preferences
+  * [Support](https://www.linode.com/support/)
+  * [Contact Us](https://www.linode.com/company/contact/)
+  * [System Status](https://status.linode.com)
+  * [Site Map](https://www.linode.com/site-map/)
+  * © 2003-2025 Linode LLC. All rights reserved. 
+
+

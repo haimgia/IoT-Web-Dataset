@@ -1,0 +1,243 @@
+Source: Alibaba Cloud
+URL: https://www.alibabacloud.com/en?_p_lc=1
+
+[ ](https://www.alibabacloud.com/en "Alibaba Cloud")
+  * [Overview](javascript:;)
+  * [Products](javascript:;)
+  * [Solutions](javascript:;)
+  * [Pricing](javascript:;)
+  * [Learn](javascript:;)
+  * [Partners](javascript:;)
+  * [Support](javascript:;)
+
+
+  * AI Search
+  * ![](https://img.alicdn.com/imgextra/i2/O1CN01bYc1m81RrcSAyOjMu_!!6000000002165-54-tps-60-60.apng_.webp)
+  * [ ![](https://img.alicdn.com/imgextra/i1/O1CN016NROhq1dAMYL8gU73_!!6000000003695-2-tps-44-44.png_.webp) ](javascript:void\(0\);) [ ![](https://img.alicdn.com/imgextra/i1/O1CN011O2J5m1Y6dFQGSL2r_!!6000000003010-2-tps-32-32.png_.webp) ](https://account.alibabacloud.com/login/login.htm)
+  * [](javascript:void\(0\);)
+  * [ Docs ](https://www.alibabacloud.com/help/)
+  * [ Contact Us ](https://www.alibabacloud.com/contact-sales)
+  * [ Console ](https://home.console.alibabacloud.com/)
+  * [![](https://img.alicdn.com/imgextra/i3/O1CN01s4WLiq1bQjFAvFOOf_!!6000000003460-0-tps-2048-2048.jpg)](https://www.alibabacloud.com/en?_p_lc=1)
+    * [Account Center](https://account-console.alibabacloud.com/#/secure)
+    * [Billing](https://usercenter2-intl.console.alibabacloud.com/billing/#/account/overview)
+    * [Messages](https://notifications-intl.console.alibabacloud.com)
+    * [Tickets](https://smartservice.console.alibabacloud.com/service/list)
+    * [Cart](https://cart.alibabacloud.com)
+    * [Referral ProgramNew](https://www.alibabacloud.com/referral)
+    * [Log Out](https://account.alibabacloud.com/logout/logout.htm)
+  * [ Account Center ](https://account-console.alibabacloud.com/#/secure) [ Billing ](https://usercenter2-intl.console.alibabacloud.com/billing/#/account/overview) [ Messages ](https://notifications-intl.console.alibabacloud.com) [ Tickets ](https://smartservice.console.alibabacloud.com/service/list) [ Cart ](https://cart.alibabacloud.com) [ Referral ProgramNew ](https://www.alibabacloud.com/referral) [ Log Out ](https://account.alibabacloud.com/logout/logout.htm)
+  * [Log In](https://account.alibabacloud.com/login/login.htm)
+  * [Free Trial](https://account.alibabacloud.com/register/intl_register.htm?oauth_callback=https%3A%2F%2Fwww.alibabacloud.com%2Fen%3F_p_lc%3D1&)
+  * [Free Trial](https://www.alibabacloud.com/free)
+  * [Complete Sign Up](https://myaccount.alibabacloud.com/user_info.htm?callback=#/account/basic)
+
+
+```
+0.0.201
+```
+
+[![](https://img.alicdn.com/imgextra/i1/O1CN01nLNLmY1VtERUimkos_!!6000000002710-2-tps-24-24.png) Claim $200 instant credits without minimum spend. Unlock up to $5K more. Claim Now](https://www.alibabacloud.com/campaign/smb-coupon?_p_lc=1&tagging_info=content.material_2025112614240100001V0)
+Everything You Need in One Powerful AI Cloud Platform
+[Start For Free](https://www.alibabacloud.com/free?tagging_info=content.material_2025092219481300001V0)
+1 Million AI tokens
+80+ Cloud Products
+Expert-Led Training
+![](https://img.alicdn.com/imgextra/i4/O1CN01k0XxnV1JRV2WwkRz5_!!6000000001025-2-tps-194-68.png)
+Trusted by 38% of Fortune 500 companies
+![](https://img.alicdn.com/imgextra/i1/O1CN01KQlBFC1P2fG2faXdD_!!6000000001783-2-tps-248-68.png)
+Recognized by Forrester 
+![](https://img.alicdn.com/imgextra/i4/O1CN01t8BfP71hiUVoQ4YKc_!!6000000004311-2-tps-180-68.png)
+Recognized by Gartner
+![](https://img.alicdn.com/imgextra/i4/O1CN01CF3pCf1qFTy6FLunE_!!6000000005466-2-tps-282-68.png)
+#1 most downloaded open-source LLM model in 2024
+![](https://img.alicdn.com/imgextra/i1/O1CN01mBlmbJ1Odvs1a6vCW_!!6000000001729-2-tps-128-68.png)
+Official Cloud Partner of the Olympics
+![](https://img.alicdn.com/imgextra/i2/O1CN01O2L5Uq26x1TLvyWgI_!!6000000007727-2-tps-96-68.png)
+Integrated with the world's #1 CRM
+[ ![](https://img.alicdn.com/imgextra/i2/O1CN01iu2vfJ21LOr9LFNLb_!!6000000006968-2-tps-264-250.png) Limited Time 50% off Enjoy discount on your first order, save up to $100！ ](https://www.alibabacloud.com/campaign/benefits)[ AgentBay:Sandbox for AI Agents Free trial for new users – up to 140 hours! ](https://www.alibabacloud.com/product/agentbay?_p_lc=1)[ SMB AI GROWTH DAY, KL Register and Attend unlock $200 cloud credit. ](https://www.alibabacloud.com/events/ai-growthday-my2026?_p_lc=1)[ Alibaba Cloud Partner Connect 2026 Grow Together in the AI Rainforest ](https://www.alibabacloud.com/events/alibaba-cloud-partner-connect-2026)
+[ ![](https://img.alicdn.com/imgextra/i2/O1CN01iu2vfJ21LOr9LFNLb_!!6000000006968-2-tps-264-250.png) Limited Time 50% off Enjoy discount on your first order, save up to $100！ ](https://www.alibabacloud.com/campaign/benefits)[ AgentBay:Sandbox for AI Agents Free trial for new users – up to 140 hours! ](https://www.alibabacloud.com/product/agentbay?_p_lc=1)[ SMB AI GROWTH DAY, KL Register and Attend unlock $200 cloud credit. ](https://www.alibabacloud.com/events/ai-growthday-my2026?_p_lc=1)[ Alibaba Cloud Partner Connect 2026 Grow Together in the AI Rainforest ](https://www.alibabacloud.com/events/alibaba-cloud-partner-connect-2026)
+Introducing Our Best-in-Class AI QWEN
+Qwen: The backbone behind our cutting-edge AI products
+Full Stack
+From development to deployment
+Open Source
+Accessible and adaptable
+Multi-Modal
+Handles text, image, and video inputs
+119 Languages
+Supports multiple languages and dialects
+Lingma
+Lingma is an AI coding assistant that boosts productivity with features like code autocompletion, AI chat, multi-file editing, and task automation, all within a secure and customizable development environment.
+[Learn More](https://www.alibabacloud.com/product/lingma)
+AI Doc
+AI Doc transforms digital document management by leveraging LLMs like Qwen models to extract and generate information from various documents. It seamlessly integrates with business systems for efficient, accurate document processing.
+[Learn More](https://www.alibabacloud.com/solutions/ai-doc)
+Model Studio
+Model Studio enables fast development of Gen AI apps using foundational models like Qwen-Max and Qwen-VL. Developers can focus on building without worrying about infrastructure, with secure workloads running in isolated VPC networks for data privacy.
+[Learn More](https://www.alibabacloud.com/product/modelstudio)
+Platform for AI
+Platform for AI (PAI) is Alibaba Cloud's scalable, cost-effective platform for machine learning and deep learning. It offers tools for the entire AI development cycle, from data labeling and model building to training, optimization, and deployment.
+[Learn More](https://www.alibabacloud.com/product/machine-learning)
+Lingma
+Lingma is an AI coding assistant that boosts productivity with features like code autocompletion, AI chat, multi-file editing, and task automation, all within a secure and customizable development environment.
+[Learn More](https://www.alibabacloud.com/product/lingma)
+AI Doc
+AI Doc transforms digital document management by leveraging LLMs like Qwen models to extract and generate information from various documents. It seamlessly integrates with business systems for efficient, accurate document processing.
+[Learn More](https://www.alibabacloud.com/solutions/ai-doc)
+Model Studio
+Model Studio enables fast development of Gen AI apps using foundational models like Qwen-Max and Qwen-VL. Developers can focus on building without worrying about infrastructure, with secure workloads running in isolated VPC networks for data privacy.
+[Learn More](https://www.alibabacloud.com/product/modelstudio)
+[![](https://img.alicdn.com/imgextra/i4/O1CN01xRKawi2988LrelhKT_!!6000000008022-2-tps-2160-1086.png)](https://www.alibabacloud.com/en?_p_lc=1)
+Platform for AI
+Platform for AI (PAI) is Alibaba Cloud's scalable, cost-effective platform for machine learning and deep learning. It offers tools for the entire AI development cycle, from data labeling and model building to training, optimization, and deployment.
+[Learn More](https://www.alibabacloud.com/product/machine-learning)
+[![](https://img.alicdn.com/imgextra/i4/O1CN01OXAz3J1tqWrFDznin_!!6000000005953-2-tps-2160-1086.png)](https://www.alibabacloud.com/en?_p_lc=1)
+Recommend for You
+[Learn How To Use Model Studio](https://edu.alibabacloud.com/course/859)[Learn To Build an AI Chatbot in 60 Mins ](https://edu.alibabacloud.com/course/934)[Try Our Generative AI Tool for Free](https://www.alibabacloud.com/solutions/smart-studio)[Explore Our AI Doc Assistant](https://energy.alibabacloud.com/userConsole?app=intelligentDocuments#/intelligentDocuments/documentResolution?app=intelligentDocuments&current=&folderId=81ff35e7-3d98-4801-9831-8a45d4fa911c%20)
+End-to-End AI and Cloud Solutions For All Your Needs
+[All Products](https://www.alibabacloud.com/product)
+Start Your Free Trial
+Try out **80+** Cloud products for free. Get **1 million** AI tokens.
+[Start For Free](https://www.alibabacloud.com/free)
+Discover the Right Solution for Your Business
+[View all solutions](https://www.alibabacloud.com/solutions)
+FSI
+Retail
+Media
+Games
+ISV
+[![](https://img.alicdn.com/imgextra/i2/O1CN01S0646V1yHmt61xS6H_!!6000000006554-2-tps-1410-1598.png)](https://www.alibabacloud.com/solutions/financial/index)
+Risk Management For Banks
+Optimize credit scoring, fraud detection, and compliance with AI-driven risk management.
+Personalized Insurance Solutions
+With AI and data, you can offer tailored policies and streamline claims processes.
+Capital Market Insights
+Use AI-driven analytics for faster trading, market trend analysis, and data-driven decisions.
+Scalable FinTech Transactions
+Ensure fast, secure, and scalable transaction processing, supporting global FinTech growth.
+Omnichannel Retail Solutions
+Create a seamless shopping experience across online, offline, and mobile platforms, allowing customers to shop effortlessly, whether in-store or on-the-go.
+AI-Driven Customer Engagement
+Use AI-powered chatbots and real-time data analytics to personalize recommendations and drive loyalty.
+Scalable E-Commerce Infrastructure
+Handle traffic spikes and deliver fast, secure performance worldwide, even during peak periods like Black Friday or 11.11.
+End-to-End Media Solutions
+Streamline video production, processing, and distribution with Alibaba Cloud's all-in-one platform for seamless content management.
+Fast, Global Content Delivery
+Deliver high-quality video content with Alibaba Cloud's global CDN network, supporting low-latency streaming and massive scalability.
+AI-Powered Insights
+Enhance viewer engagement with personalized content recommendations and intelligent video analytics powered by AI and big data.
+Cost-Effective Game Development
+Save on costs with scalable cloud databases, remote rendering, and efficient data migration.
+Global, Low-Latency Experience
+Deliver fast, smooth gameplay with secure, high-performance infrastructure.
+Agile, Scalable Operations
+Easily scale game servers with cloud-native solutions and real-time updates.
+Faster Go-to-Market
+Expand reach with co-marketing support, a global marketplace, and customized launch strategies.
+Cost-Effective Operations
+Boost efficiency and reduce IT expenses with flexible pricing and scalable cloud services.
+End-to-End Cloud Support
+Set up, migrate, deploy, secure, and back up systems with guided solutions for global cloud environments.
+[Learn More](https://www.alibabacloud.com/solutions/financial/index)
+[![](https://img.alicdn.com/imgextra/i2/O1CN01S0646V1yHmt61xS6H_!!6000000006554-2-tps-1410-1598.png)](https://www.alibabacloud.com/solutions/financial/index)
+Free Expert-Led Training to Accelerate Your Growth
+![](https://img.alicdn.com/imgextra/i3/O1CN01gqgwq222p04sSPwnt_!!6000000007168-1-tps-500-410.gif)
+[ Get Started For Free Leverage 180+ free, on-demand training courses on various cloud technologies ](https://edu.alibabacloud.com/training/upcoming_classroom_training)[Start Learning](https://edu.alibabacloud.com/training/upcoming_classroom_training)[ AI Training for Everyone Stay updated in the world of AI with training delivered by expert instructors. ](https://edu.alibabacloud.com/training/aca-generative-ai)[Start Learning](https://edu.alibabacloud.com/training/aca-generative-ai)
+![](https://img.alicdn.com/imgextra/i3/O1CN01gqgwq222p04sSPwnt_!!6000000007168-1-tps-500-410.gif)
+[ Professional Certifications Validate your Cloud and AI skills with industry-recognized credentials ](https://edu.alibabacloud.com/certification/professional)[Get Started](https://edu.alibabacloud.com/certification/professional)
+Loved by Global Businesses   
+All Over the World
+[ ![](https://img.alicdn.com/imgextra/i3/O1CN01FmBnXS1fNlM34uIAC_!!6000000003995-2-tps-780-440.png) ![](https://img.alicdn.com/imgextra/i3/O1CN015zeYu41Qtcfbe16Dl_!!6000000002034-2-tps-292-84.png)Discover how Duolingo partners with Alibaba Cloud to improve app performance for its 300 million learners globally. Related Products [CDN](https://www.alibabacloud.com/product/cdn)[CEN](https://www.alibabacloud.com/product/cen) ](https://www.alibabacloud.com/customers/duolingo)[ ![](https://img.alicdn.com/imgextra/i2/O1CN014iVllL1ycOi7qbn0c_!!6000000006599-2-tps-780-440.png) ![](https://img.alicdn.com/imgextra/i2/O1CN01JVONP41wGIMjTJefk_!!6000000006280-2-tps-160-82.png)Discover how Ford used Alibaba Cloud to build a new digital platform, "Ford Mall", in less than six months.  Related Products [ECS](https://www.alibabacloud.com/product/ecs)[Server Load Balancer](https://www.alibabacloud.com/product/server-load-balancer) ](https://www.alibabacloud.com/customers/ford)[ ![](https://img.alicdn.com/imgextra/i1/O1CN01c8sMkQ1d9Rk7VI9d4_!!6000000003693-2-tps-780-440.png) ![](https://img.alicdn.com/imgextra/i4/O1CN01yNBFZK1GoS2SjZG1R_!!6000000000669-2-tps-160-84.png)Discover how Align Technology uses Alibaba Cloud to enable their doctors to access and update patient records efficiently. Related Products [ECS](https://www.alibabacloud.com/product/ecs)[OSS](https://www.alibabacloud.com/product/object-storage-service)[CDN](https://www.alibabacloud.com/product/cdn) ](https://www.alibabacloud.com/customers/align-tech)[ ![](https://img.alicdn.com/imgextra/i1/O1CN01ShWc3C1W1vw5G9vKc_!!6000000002729-2-tps-780-440.png) ![](https://img.alicdn.com/imgextra/i2/O1CN01YuYoVp20LZOFHLuPa_!!6000000006833-2-tps-355-84.png)Discover how Shiseido and Drunk Elephant use Alibaba Cloud's AI for personalized skincare advice and product recommendations via WeChat. Related Products [Qwen](https://www.alibabacloud.com/solutions/generative-ai/qwen)[Model Studio](https://www.alibabacloud.com/product/modelstudio)[ACK](https://www.alibabacloud.com/product/kubernetes) ](https://www.alibabacloud.com/customers/shiseido_drunk_elephant)[ ![](https://img.alicdn.com/imgextra/i2/O1CN015gv88o1logKQHcjZy_!!6000000004866-2-tps-780-440.png) ![](https://img.alicdn.com/imgextra/i4/O1CN01kGQ2271P3a32tcI9S_!!6000000001785-2-tps-204-84.png)Discover how Piufoto leverages Alibaba Cloud's AI and security solutions to deliver seamless, real-time live-photo experiences. Related Products [ECS](https://www.alibabacloud.com/product/ecs)[ACK](https://www.alibabacloud.com/product/kubernetes)[OSS](https://www.alibabacloud.com/product/object-storage-service)[SLB](https://www.alibabacloud.com/product/server-load-balancer)[PolarDB](https://www.alibabacloud.com/product/polardb)[Tair (Redis® OSS-Compatible)](https://www.alibabacloud.com/product/tair) ](https://www.alibabacloud.com/customers/piufoto)[ ![](https://img.alicdn.com/imgextra/i3/O1CN01eM4mUt22qNG9XwK8f_!!6000000007171-2-tps-1442-960.png) ![](https://img.alicdn.com/imgextra/i1/O1CN01f6uz8d1zTz39qlIgR_!!6000000006716-2-tps-300-84.png)Discover how Futureverse uses Alibaba Cloud's AI infrastructure to enhance AI-generated music and drive innovation in the metaverse. Related Products [PAI-Lingjun](https://www.alibabacloud.com/product/pai-lingjun) ](https://www.alibabacloud.com/customers/futureverse)
+![](https://img.alicdn.com/imgextra/i3/O1CN01kBabXl20CPSzYdIxo_!!6000000006813-2-tps-480-288.png)
+![](https://img.alicdn.com/imgextra/i3/O1CN01ynKu042A8QAv4kxTc_!!6000000008158-2-tps-480-288.png)
+![](https://img.alicdn.com/imgextra/i2/O1CN01KMyvUS1df34Oh9XYG_!!6000000003762-2-tps-480-288.png)
+![](https://img.alicdn.com/imgextra/i1/O1CN0105rDyH1oQoXA68j6B_!!6000000005220-2-tps-480-288.png)
+![](https://img.alicdn.com/imgextra/i1/O1CN01ow60S11Xx0uVnv21c_!!6000000002989-2-tps-480-288.png)
+![](https://img.alicdn.com/imgextra/i2/O1CN01fga8xn1e7RcpyJEDr_!!6000000003824-2-tps-480-288.png)
+Our Leadership Status Awarded by Global Analysts
+![](https://img.alicdn.com/imgextra/i2/O1CN01RGyWcJ1QEP1a12ckt_!!6000000001944-2-tps-720-680.png)
+Leader in Public Cloud Platform
+Forrester Wave, Public Cloud Platforms, Q4 2024
+![](https://img.alicdn.com/imgextra/i1/O1CN01ORBAuR1kV9pMmzdNU_!!6000000004688-55-tps-101-16.svg)
+[View More Analyst Reports](https://www.alibabacloud.com/about/analyst-reports)
+Leader in Public Cloud Platform
+Forrester Wave, Public Cloud Platforms, Q4 2024
+![](https://img.alicdn.com/imgextra/i1/O1CN01ORBAuR1kV9pMmzdNU_!!6000000004688-55-tps-101-16.svg)
+Open for Business Globally 24/7
+29
+Global Data Center Regions
+92
+Available Zones
+3200+
+CDN Nodes
+[Explore our Global Footprint](https://www.alibabacloud.com/global-locations)
+[![](https://img.alicdn.com/imgextra/i1/O1CN01xjRku11xR7L8t6SxE_!!6000000006439-2-tps-400-164.png)![](https://img.alicdn.com/imgextra/i2/O1CN01M2F6cu25PIh9A9THP_!!6000000007518-2-tps-390-240.png)](https://www.alibabacloud.com/trust-center/iso27001)[![](https://img.alicdn.com/imgextra/i4/O1CN01kDJjqA1IQINlsUo7A_!!6000000000887-2-tps-400-164.png)![](https://img.alicdn.com/imgextra/i3/O1CN01HWNg6K1toEs7SFbP7_!!6000000005948-2-tps-390-240.png)](https://www.alibabacloud.com/trust-center/soc)[![](https://img.alicdn.com/imgextra/i1/O1CN015cn3181my87BzcHiw_!!6000000005022-2-tps-400-164.png)![](https://img.alicdn.com/imgextra/i3/O1CN01w8ds5E1nsSpagWPzT_!!6000000005145-2-tps-390-240.png)](https://www.alibabacloud.com/trust-center/c5)[![](https://img.alicdn.com/imgextra/i3/O1CN01AQCWuH27iCGesZToD_!!6000000007830-2-tps-400-164.png)![](https://img.alicdn.com/imgextra/i4/O1CN01VEYwv61tvZD1eqDce_!!6000000005964-2-tps-390-240.png)](https://www.alibabacloud.com/trust-center/ospar)[![](https://img.alicdn.com/imgextra/i3/O1CN019ZD9nr1qOdtDgbh5m_!!6000000005486-2-tps-400-164.png)![](https://img.alicdn.com/imgextra/i4/O1CN01OaobNJ1YN7UMhR6wo_!!6000000003046-2-tps-390-240.png)](https://www.alibabacloud.com/trust-center/gdpr)[![](https://img.alicdn.com/imgextra/i3/O1CN01ZwiPEP1Kp96Xtz7dn_!!6000000001212-2-tps-400-164.png)![](https://img.alicdn.com/imgextra/i3/O1CN01MXYbir1cnv815jb0x_!!6000000003646-2-tps-390-240.png)](https://www.alibabacloud.com/trust-center/mtcs)
+[#1 most compliant cloud platform in Asia with 150+ certificates](https://www.alibabacloud.com/trust-center)[100+ security features including data encryption, vulnerability scanning and MFA](https://www.alibabacloud.com/product/security)
+[Marketplace](https://marketplace.alibabacloud.com/)[Contact Sales](https://www.alibabacloud.com/contact-sales)[Free Trial](https://www.alibabacloud.com/free)
+Why Alibaba Cloud
+[About Alibaba Cloud](https://www.alibabacloud.com/about)
+[Asia Accelerator](https://www.alibabacloud.com/china-gateway)
+[Our Global Network](https://www.alibabacloud.com/global-locations)
+[Global Offices](https://www.alibabacloud.com/global-offices)
+[Trust Center](https://www.alibabacloud.com/trust-center)
+[Case Studies](https://www.alibabacloud.com/customers)
+[Analyst Reports](https://www.alibabacloud.com/about/analyst-reports)
+Products & Pricings
+[Pricing Calculator](https://www.alibabacloud.com/pricing-calculator)
+[ECS](https://www.alibabacloud.com/product/ecs)
+[SAS](https://www.alibabacloud.com/product/swas)
+[Model Studio](https://www.alibabacloud.com/product/modelstudio)
+[Database](https://www.alibabacloud.com/product/databases)
+[Security](https://www.alibabacloud.com/product/security)
+[SMS](https://www.alibabacloud.com/product/short-message-service)
+Solutions
+[Financial Services](https://www.alibabacloud.com/solutions/financial/index)
+[Retail Services](https://www.alibabacloud.com/solutions/retail)
+[Media Services](https://www.alibabacloud.com/solutions/multimedia)
+[Gaming Services](https://www.alibabacloud.com/solutions/gaming)
+[ISV Solutions](https://www.alibabacloud.com/solutions/isv)
+Engage
+[Developer Community](https://www.alibabacloud.com/developer)
+[Partner Network](https://www.alibabacloud.com/partner/partner_network)
+[Startups](https://www.alibabacloud.com/startup)
+[Marketplace](https://marketplace.alibabacloud.com)
+[Join Alibaba Cloud](https://careers.aliyun.com/home)
+Resources & Support
+[Developer Learning Hub](https://www.alibabacloud.com/developer)
+[Documentation Center](https://www.alibabacloud.com/help)
+[Training & Certification](https://edu.alibabacloud.com)
+[Service Notices](https://www.alibabacloud.com/notice/intl/list)
+[Submit a Ticket](https://workorder-intl.console.aliyun.com/console.htm?lang=#/ticket/list)
+[Security Report](https://report.alibabacloud.com/#/reportCenter/home)
+[Careers](https://careers.aliyun.com/en/home) [ About Us](https://www.alibabacloud.com/about) [ Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm) [Legal](https://www.alibabacloud.com/help/en/legal) [Integrity Compliance Reporting Channel](https://aliyun.jubao.alibaba.com) [Service Notices](https://www.alibabacloud.com/notice/intl/list) [Links](https://www.alibabacloud.com/links.html)
+© 2009-2026 Copyright by Alibaba Cloud All rights reserved
+  * [](https://www.alibabacloud.com/security-notice-kfxbqr?forward=https://www.facebook.com/alibabacloud/ "Facebook")
+  * [](https://www.alibabacloud.com/security-notice-kfxbqr?forward=https://www.linkedin.com/company/alibabacloudtech "Linkedin")
+  * [](https://www.alibabacloud.com/security-notice-kfxbqr?forward=https://www.twitter.com/alibaba_cloud "Twitter")
+  * [](https://www.alibabacloud.com/security-notice-kfxbqr?forward=https://www.youtube.com/channel/UCipPA-ZHX6UYGH_Iyti1-Jw "YouTube")
+  * [](https://www.alibabacloud.com/security-notice-kfxbqr?forward=https://www.tiktok.com/@alibaba__cloud?lang=zh-Hant-TW "TikTok")
+  * [](https://www.alibabacloud.com/contact-sales "contact.us@alibabacloud.com")
+  * [](https://www.alibabacloud.com/contact-sales "Call Us Now")
+  * [](https://www.alibabacloud.com/security-notice-kfxbqr?forward=https://discord.com/invite/xEuwmj6qaA "Discord")
+
+
+© 2009-2026 Copyright by Alibaba Cloud All rights reserved
+[](https://www.alibabacloud.com/en?_p_lc=1)
+[Careers](https://careers.aliyun.com/en/home) [ About Us](https://www.alibabacloud.com/about) [ Privacy Policy](https://www.alibabacloud.com/help/faq-detail/42425.htm) [Legal](https://www.alibabacloud.com/help/en/legal) [Integrity Compliance Reporting Channel](https://aliyun.jubao.alibaba.com) [Service Notices](https://www.alibabacloud.com/notice/intl/list) [Links](https://www.alibabacloud.com/links.html)
+[](https://www.alibabacloud.com/en?_p_lc=1)
+![phone](https://img.alicdn.com/imgextra/i2/O1CN01JKdxnE28bcCfo30g1_!!6000000007951-2-tps-512-512.png_.webp) Contact Us
+![close](https://img.alicdn.com/tfs/TB1tpuJ2UT1gK0jSZFrXXcNCXXa-36-36.png_.webp)
+## Sales Support
+Live-chat with our sales team or get in touch with a business development professional in your region.
+[Contact Sales](https://www.alibabacloud.com/contact-sales)
+## Technical Support
+Open a ticket and get quick help from our technical team.
+[Open a Ticket >](https://workorder-intl.console.aliyun.com/console.htm#/ticket/createIndex)
+## Connect & Report Abuse
+We look forward to your suggestion.
+[Post a Suggestion >](https://account.alibabacloud.com/login/login.htm?oauth_callback=https://connect.console.aliyun.com) [Report Abuse >](https://www.alibabacloud.com/report)
+![](https://img.alicdn.com/imgextra/i2/O1CN01bYc1m81RrcSAyOjMu_!!6000000002165-54-tps-60-60.apng_.webp)
+Hi, I'm Alibaba Cloud AI Agent!
+I can help with questions and solutions.
