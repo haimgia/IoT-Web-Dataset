@@ -1,26 +1,56 @@
 import pandas as pd
 import ast
+from tqdm import tqdm
+from dotenv import load_dotenv
+import os
+from openai import OpenAI
 
-def upload_csv(input_file, output_file):
+load_dotenv()
 
-    # reads data from input file
-    with open(input_file, "r", encoding="utf-8") as f:
-        data_list = f.readlines()
+GPT_OSS_ENDPOINT = os.getenv("GPT_OSS_ENDPOINT")
 
-    # converts each line to a dictionary and collects them in a list
-    dict_list = []
-    for data in data_list:
-        data = data.strip()
-        if data:
-            try:
-                data_dict = ast.literal_eval(data)
-                data_dict["raw_text"] = str(data_dict)  # adds the string representation of the dictionary
-                dict_list.append(data_dict)
-            except Exception as e:
-                print(f"Error evaluating data: {data}\nException: {e}")
-                continue
+def generate_triples(csv_file):
 
-    # creates a DataFrame and saves it as a CSV file
-    df = pd.DataFrame(dict_list)
-    
-    df.to_csv(output_file, index=False)
+    # reads csv file into a DataFrame
+    df = pd.read_csv(csv_file)
+
+    # processes each row to generate triples
+    for index, row in tqdm(df.iterrows()):
+
+        
+        file = row['text file']
+        print(f"Processing row {index}: {file}")
+        with open(file, "r", encoding="utf-8") as f:
+            data = f.read()
+
+        continue
+        # Implement triple extraction logic here
+        # For now, just printing the data
+        print(f"Processing row {index}: {file}")
+
+
+        client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key="dummy_key",
+        )
+
+        # First API call to extract triples
+        response = client.chat.completions.create(
+        model="openai/gpt-oss-120b:free",
+        messages=[
+                {"role": "system", "content": "You are an expert at extracting subject-predicate-object triples from product descriptions."},
+                {"role": "user", "content": f"Extract subject-predicate-object triples in the form of (subject, predicate, object) from the following product description:\n\n{data}\n\nFormat the output as a list of triples."}
+                ]
+        )
+
+        # Extract the assistant message with reasoning_details
+        response = response.choices[0].message
+
+        print(response.content)
+
+        # added LLM annotated triples to the DataFrame
+        df.at[index, 'Triples'] = response.content
+
+    # saves the updated DataFrame back to the CSV file  
+    df_annotated = df.iloc[:ROWS]
+    df_annotated.to_csv(annotated_file, index=False)

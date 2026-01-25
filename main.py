@@ -4,6 +4,7 @@ from scraper import extract_text, extract_text_from_pdf
 import os
 from tqdm import tqdm
 import pandas as pd
+from annotate_dataset import generate_triples
 
 CLOUD_PLATFORM_SOURCES = {"AWS IoT": "https://aws.amazon.com/iot/",        # IoT cloud platforms
            "Azure IoT": "https://azure.microsoft.com/en-us",
@@ -46,17 +47,13 @@ REVIEW_SOURCES = {"Ring Camera Review": "https://www.safehome.org/home-security-
                   "Govee Lights Review": "https://www.reddit.com/r/Govee/comments/1efe0nv/how_well_do_govee_permanent_outdoor_lights/",
                   "SmartThings Review": "https://www.pcworld.com/article/2480454/samsung-smartthings-station-review.html"}
 
-SCHOLARLY_SOURCES = {"IoT: Internet of Threats? A Survey of Practical Security Vulnerabilities in Real IoT Devices": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8796409",
-                     "Apple Watch, Wearables, and Heart Rhythm: where do we stand?": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6787392/pdf/atm-07-17-417.pdf",
-                     "Vulnerabilities in Hub Architecture IoT Devices": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7983086",
-                     "Accuracy of Fitbit Devices Systematic Review and Narrative Syntheses of Quantitative Data": "https://mhealth.jmir.org/2018/8/e10527/PDF",
-                     "Google home Experience, support and re-experience of social home activities": "https://pdf.sciencedirectassets.com/271625/1-s2.0-S0020025507X0389X/1-s2.0-S0020025507004021/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEF8aCXVzLWVhc3QtMSJHMEUCIH5GqV7XGubO6soNfGSomnVc3pd3%2FyJ0DkOKOHUnw%2FDQAiEAkeANJQK3o1Rx6RfA5iM%2FF21KwByrQiboWq9VOrGjm5IqswUIKBAFGgwwNTkwMDM1NDY4NjUiDAfzmquUA0CQ66fULyqQBU15gFGyxW38eGS4%2B1H1t9zOHBavuvqI1290exZQRMX19EJMtkrJKdJFhk8Qir8z%2BdiJFfVSRwgtFUM9uTGSoCzVmcTXbeAWnOj0%2FM%2B4j1rY4dxnef00GrZDux5IWiv7gUngnRSBeF%2B1L%2FJxd%2F%2BjpayCybDg%2BIcDIZGMfD5IlYq3Jnp4AWlUxANGXz9h7LJFg%2F3iHbSyXHFEl2w4s4eDZvHy3PRCzsjDkWIliXXUHvdQ0O8L2P%2FzHK%2BZhNbPtmlzFHfwmGtm7cp%2F%2BY5MpTwA3N7vOMIrFDzOwgAMx2CORrw6iFWAbXp4lZW9JtgWyOmVGn9qRHtMx9HNa0lMdUn04j4WQ9IvcfuZ6swtInaTBamjYAICD8FLEFZa0yQlEi74XSi11n57XEY85t7pyCLaqpk%2BGNAV0MmwljdWHChwaawVb8R6owhqSmtNNc8LC5jhD%2BJPC6%2BXBVdDDKTF1CgH%2Bo9CT%2FIrNJDZ9NcOPb7L51gn8ldSMPpWrc4BKNkwXjcVJ8XWgwWe%2FQ1Ih027ivM3HwXKgvDoSnRIRhEU3p3ONyXojedF80Cngqq9OVTmDltvxt8rgzj907FeCaHcCCnOZI74oaUQktVDd7AAhSMDqIXQYqW%2BxowIIiczVWisq2vAOnLxru00ppe5PNlxjv1pkZZm6%2Bv%2F4btPCGJySlhjDQDL4byofB4CZrju0f7MHRV251jQ9MGdGnUT5zp1Sy8xLWJXCveLbhdfiCMOtcAAeZJGcyPId5VT2OYx1FZhEVfzM4avtojFUZ69LBWmPv2hbZ7h64KqZE52BvGQymJEhJwgcwrf02%2BzKMf0yzQrXG%2F9dmmJxSbc43UjFRI9xappfmF52bKzBhoIqaakBuY22PtCMNHT2MsGOrEBSVBfiYo%2FAeShM9nBYORqHCWfn4zJzdbbIAQTnh2o3OdWU%2FF%2BPGpMB9fjLZdZUoRq62cwsvpFyvKPGo%2Fs5fISaWcc2ZJ0p8znVaxQ7ghKyRzl7qHdRXDqmDdvvn8cKXX5zqoBfvqNR0O0L9%2FK1KFC7cxHtadkt3Pk0tJdhDreSkX%2Bg3qhjolkxWvAyzrGiCwFK5Gd%2FtGKRAj%2FIFdkwAApEavgYiShfIWM7UKJazxejUxR&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260125T150619Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY57BUNVYT%2F20260125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=40cf9dd815e8b1cf8996cdd388ae5d9fe073696182e7c590a81c70d3c773669e&hash=de7caacdb6c5b952c7687e4bca5374547a59fd61797a9878a59822f54ccca12f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0020025507004021&tid=spdf-8c36e1a3-d55b-4492-8513-8e62c1beffb7&sid=3bf7d97a5185b34aaf09a853833036438fcdgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=11145705515b000d54&rr=9c38ac7ca9bd375e&cc=us"}
 
 SCHOLARLY_SOURCES_FOLDER = "scholarly_papers"
 OUTPUT_CSV_FILE = "iot_web_dataset.csv"
 
 EXTRACT_TEXT = False
-MAKE_DATASET_CSV = True
+MAKE_DATASET_CSV = False
+GENERATE_TRIPLES = True
 
 
 
@@ -80,9 +77,6 @@ if __name__ == "__main__":
         #     url = PRIVACY_POLICY_SOURCES[source_name]
         #     asyncio.run(extract_text(source_name, url))
 
-        # for source_name in tqdm(SCHOLARLY_SOURCES):
-        #     url = SCHOLARLY_SOURCES[source_name]
-        #     asyncio.run(extract_text(source_name, url))
 
         for file in os.listdir(SCHOLARLY_SOURCES_FOLDER):
                 PDF = os.path.join(SCHOLARLY_SOURCES_FOLDER, file)
@@ -111,3 +105,6 @@ if __name__ == "__main__":
         df = pd.DataFrame(data_list)
         
         df.to_csv(OUTPUT_CSV_FILE, index=False)
+
+    if GENERATE_TRIPLES:
+         generate_triples(OUTPUT_CSV_FILE)
