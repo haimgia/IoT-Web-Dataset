@@ -17,18 +17,13 @@ def generate_triples(csv_file):
     # processes each row to generate triples
     for index, row in tqdm(df.iterrows()):
 
-        
+        # reads the text file to extract data
         file = row['text file']
         print(f"Processing row {index}: {file}")
         with open(file, "r", encoding="utf-8") as f:
             data = f.read()
 
-
-        # Implement triple extraction logic here
-        # For now, just printing the data
-        # print(f"Processing row {index}: {file}")
-
-
+        # calls openAI endpoint
         client = OpenAI(
         base_url=GPT_OSS_ENDPOINT,
         api_key="dummy_key",
@@ -36,7 +31,7 @@ def generate_triples(csv_file):
 
         # First API call to extract triples
         response = client.chat.completions.create(
-        model="openai/gpt-oss-120b:free",
+        model="gpt-oss:latest",
         messages=[
                 {"role": "system", "content": "You are an expert at extracting subject-predicate-object triples from product descriptions."},
                 {"role": "user", "content": f"Extract subject-predicate-object triples in the form of (subject, predicate, object) from the following product description:\n\n{data}\n\nFormat the output as a list of triples."}
