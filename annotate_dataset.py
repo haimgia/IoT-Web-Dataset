@@ -23,14 +23,14 @@ def generate_triples(csv_file):
         with open(file, "r", encoding="utf-8") as f:
             data = f.read()
 
-        continue
+
         # Implement triple extraction logic here
         # For now, just printing the data
-        print(f"Processing row {index}: {file}")
+        # print(f"Processing row {index}: {file}")
 
 
         client = OpenAI(
-        base_url="https://openrouter.ai/api/v1",
+        base_url=GPT_OSS_ENDPOINT,
         api_key="dummy_key",
         )
 
@@ -51,6 +51,7 @@ def generate_triples(csv_file):
         # added LLM annotated triples to the DataFrame
         df.at[index, 'Triples'] = response.content
 
-    # saves the updated DataFrame back to the CSV file  
-    df_annotated = df.iloc[:ROWS]
-    df_annotated.to_csv(annotated_file, index=False)
+    # saves the updated DataFrame to a new CSV file
+    output_csv_file = "annotated_" + os.path.basename(csv_file)
+    df.to_csv(output_csv_file, index=False)
+    print(f"Annotated CSV file saved as: {output_csv_file}")

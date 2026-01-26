@@ -29,7 +29,7 @@ def extract_text_from_pdf(pdf_file):
     doc = pymupdf.open(pdf_file) # open a document
 
     # makes the output file path
-    output_file = pdf_file.replace('.pdf', '.txt')
+    output_file = pdf_file.replace('.pdf', '.txt').replace(' ', '_')
 
     # create output directory if it doesn't exist
     os.makedirs(OUTPUT_DIR, exist_ok=True)
