@@ -80,14 +80,84 @@ def generate_triples_from_pdf(pdf_file):
     # Print or process the paragraphs
 
     text_file = f"raw text/{pdf_file.replace('.pdf', '.txt').replace(' ', '_')}"
+    triples_output = f"generted_triples/{pdf_file.replace('.pdf', '.txt').replace(' ', '_')}"
+
 
     with open(text_file, "w", encoding="utf-8") as f:
-        for i, paragraph in enumerate(paragraphs):
-            print(f"Paragraph {i+1}:")
-            print(paragraph)
-            print("-" * 20)
+        with open(triples_output, "w", encoding="utf-8") as g:
+            for i, paragraph in enumerate(paragraphs):
 
-            f.write(f"{paragraph}\n\n")
+                # print(f"Paragraph {i+1}:")
+                # print(paragraph)
+                # print("-" * 20)
+
+                # writes the paragraph splits into the raw text file
+                f.write(f"{paragraph}\n\n")
+
+                triples = generate_triples(paragraph)
+
+                # writes the paragraphs and its associated triples to the triples file
+                g.write(f"Text: {paragraph}\nTriples: {triples}\n\n\n")
+
+
+def generate_triples(text):
+
+    # calls openAI endpoint
+    client = OpenAI(
+    base_url=GPT_OSS_ENDPOINT,
+    api_key="dummy_key",
+    )
+
+    # First API call to extract triples
+    response = client.chat.completions.create(
+    model="gpt-oss:120b",
+    messages=[
+        {
+            "role": "system",
+            "content": (
+                "You are an expert in extracting structured IoT knowledge graph triples. "
+                "Extract only meaningful IoT-related subject-predicate-object triples "
+                "from technical text."
+            )
+        },
+        {
+            "role": "user",
+            "content": f"""
+                Extract IoT-related subject-predicate-object triples from the text below.
+
+                Extraction Rules:
+                - Only extract triples relevant to IoT systems, including but not limited to:
+                devices, sensors, platforms, protocols, connectivity,
+                data types, cloud services, edge components,
+                security features, monitoring capabilities,
+                automation, integration, and analytics.
+                - Ignore purely marketing language (e.g., "innovative", "best-in-class").
+                - Use concise, canonical entity names.
+                - Normalize predicates to short, machine-friendly verbs
+                (e.g., supports, monitors, integrates_with, uses_protocol, provides, detects).
+                - Split compound actions into separate atomic triples.
+                - Avoid duplicate triples.
+                - Output ONLY a Python list of triples.
+                - Format strictly as:
+                [
+                    ("subject", "predicate", "object"),
+                    ...
+                ]
+
+                Text:
+                {text}
+                """
+        }
+    ]
+    )
+
+    # Extract the assistant message with reasoning_details
+    response = response.choices[0].message
+
+    triples = response.content
+
+    return triples
+    #print(response.content)
 
 
     
