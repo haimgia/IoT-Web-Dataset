@@ -1,0 +1,138 @@
+Source: Amazon Alexa and Echo Privacy Policy
+URL: https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V
+
+Keyboard shortcuts 
+*  Cart shift + alt + C )
+  *  Home shift + alt + H )
+  *  Orders shift + alt + O )
+  * Show/Hide shortcuts
+To move between items, use your keyboard's up or down arrows.
+ Delivering to Laurel 20723  Update location  
+Select the department you want to search in All Departments Alexa Skills Amazon Autos Amazon Devices Amazon Fresh Amazon Global Store Amazon Haul Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry Women's Clothing, Shoes & Jewelry Men's Clothing, Shoes & Jewelry Girl's Clothing, Shoes & Jewelry Boy's Clothing, Shoes & Jewelry Baby Clothing, Shoes & Jewelry Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Supplies Premium Beauty Prime Video Same-Day Store Smart Home Software Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Weis Whole Foods Market
+ Hello, sign in Account & Lists  
+ Returns & Orders   0 Cart  
+New customer? Start here.
+  * Find a List or Registry
+  * Your Shopping preferences
+  * Amazon Credit Cards
+  * Video Purchases & Rentals
+  * Subscribe & Save Items
+  * Memberships & Subscriptions
+  * Start a Selling Account
+  * Create Your Free Business Account
+ Help & Customer Service 
+ Digital Services and Device Support  › 
+ Amazon Device and Digital Services Terms, Warranties, and Notices  › 
+ Alexa & Alexa Device Terms  › 
+ Legal & Compliance  ›
+
+Alexa, Echo Devices, and Your Privacy
+Amazon knows that you care how information about you is used, and we appreciate your trust that we will do so carefully and sensibly. Here are answers to common privacy questions about Alexa and Echo devices.
+
+1. **Is Alexa recording all my conversations?**
+No. By default, Alexa-enabled devices are designed to detect only your chosen wake word (e.g., Alexa, Amazon, Computer, Echo, or Ziggy). The device detects the wake word by identifying acoustic patterns that match the wake word. No audio is stored or sent to the cloud unless the device detects the wake word (or Alexa is activated by pressing a button). On certain devices, you can enable features that allow you to interact with Alexa without the wake word. For instance, Follow Up Mode allows you to make follow-up requests to Alexa without having to repeat the wake word and, on compatible devices, interrupt Alexa to make requests. When you join Alexa+, Follow Up Mode will be turned on for your compatible Echo devices and the Alexa app. See the FAQ “How does Follow up Mode work?” for more information.
+You can also configure supported Echo devices to detect specific sounds, such as the sound of smoke alarms, carbon monoxide alarms, and glass breaking. See the FAQs “How does Alexa Emergency Assist work?” and “How do Routines with sound detection work?” for more information.
+
+2. **What happens when I speak to Alexa?**
+When you speak to Alexa, a recording of what you ask Alexa is sent to Amazon's cloud, where we process your request and other information to respond to you. As part of that processing, we create a text transcript of your request to help Alexa interpret and understand what you said, take any requested actions, and provide a response. For example, when you ask, "Alexa, play top hits on Amazon Music," we use the recording of your request and information from Amazon Music to play top hits.
+
+3. **How do I know when Echo devices are sending audio to the cloud?**
+When Echo devices detect the wake word or when the Action button available on some Echo devices is pressed to activate Alexa, a visual indicator appears on the device to indicate that the device is recording your request to stream to the cloud. For instance, a light ring on the Echo device will turn blue or a blue bar will appear on Echo Show devices. When you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes when Alexa has determined your interaction has ended. In addition, Follow Up Mode allows you to make follow-up requests to Alexa without having to repeat the wake word and, on compatible devices, interrupt Alexa to make requests. When Follow Up Mode is on, a visual indicator will show you when you can speak to Alexa without having to repeat the wake word and when your device is recording audio to send to the cloud.
+You can also configure Echo devices to play a short audible tone any time audio is sent to the cloud within Settings in the Alexa app. Certain Echo devices, like Echo Input, have the short audible tone turned on by default.
+
+4. **Can I turn off the microphones on Echo devices?**
+Yes. Echo devices are equipped with a microphones enable/disable button. When the button is pressed, the power to the microphones is disconnected and a dedicated red light is illuminated. When the microphones are turned off, you cannot interact with Alexa using voice, as your device cannot record and stream audio to the cloud, even when you say your chosen wake word. Turning off the microphones also disables presence detection on supported Echo devices. See the FAQ “How do certain Echo devices use ultrasound and wifi signals to support presence detection?” for more information.
+
+5. Can I review and delete my Alexa voice recordings, text transcripts, and typed requests to Alexa?
+Yes. You can review and delete Alexa voice recordings, text transcripts of those recordings, and typed requests to Alexa associated with your Amazon account by visiting **More > Alexa Privacy **in the Alexa app and Echo Show devices or <https://www.amazon.com/alexaprivacysettings>. When you make a series of requests to Alexa, your requests may be grouped together for review into a single “chat” if Alexa determines those requests are related to one other. For example, if you ask several questions in short succession about places to visit in Paris, those requests may be grouped together into a single chat in Review Alexa History so you can easily go back to review the recommendations Alexa provided in that chat. 
+Deleting voice recordings, text transcripts, and typed requests may limit our ability to personalize your experience and make improvements based on your interactions with Alexa and cause certain features to stop working. For example, if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work. Similarly, if you delete the voice recordings Alexa used to create your voice ID (by, for example, choosing to have your Alexa voice recordings deleted automatically after 3 or 18 months), voice ID may not work.
+If you have changed your default marketplace while using an Alexa-enabled product, you will need to delete all Alexa voice recordings, text transcripts, and typed requests associated with your account separately for each marketplace. To learn how to transfer your Amazon account to another marketplace, go here.
+
+6. **Can I choose to automatically delete my voice recordings, text transcripts, and typed requests to Alexa?**
+Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings. If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat. If you choose not to save any voice recordings, we will automatically delete your voice recordings after we process your requests and automatically delete all existing voice recordings associated with your account, but your text transcripts of those recordings and any typed requests will be retained for 30 days after your last interaction with Alexa in a given chat, after they will automatically be deleted. We retain those text transcripts and typed requests to allow you to review the requests you make to Alexa, and to improve your Alexa experience and our services. You can delete the text transcripts at any time by going to **More** > **Alexa Privacy** in the Alexa app or <https://www.amazon.com/alexaprivacysettings>.
+
+7. **What happens when I delete my Alexa voice recordings, text transcripts, and typed requests to Alexa?**
+When you delete Alexa voice recordings, text transcripts, and typed requests to Alexa associated with a chat, we will delete those items from Amazon’s cloud. We may still retain other records of your Alexa interactions, such as attachments you shared with Alexa, information you provided through your interactions, records of actions Alexa took in response to your requests, records of products you searched for, and other information related to your requests. This allows us, for instance, to continue to provide your reminders, timers, and alarms, process your orders, personalize your experience, remember your preferences and the things you’ve shared with Alexa (like notes in Remember This and information relevant to you), show your shopping lists, tasks, and messages sent through Alexa Communication, and answer questions about attachments you’ve shared with Alexa. If your request was processed by an Alexa skill, deleting your voice recordings does not delete any information retained by the developer of that skill (skill developers do not receive voice recordings). For more information on Alexa skills, refer to the FAQ “How do Alexa skills work?” For more information on notes, refer to the FAQ “What is Remember This?” For more information on removing messages sent through Alexa Communication, refer to the FAQ “How do I remove Alexa messages from my conversation list?” For more information about reviewing, downloading, or deleting an attachment you’ve shared with Alexa, refer to the FAQ “How does Review Attachments work?” For more information on deleting the voice recordings you used to teach Alexa your voice when you created a voice ID, refer to the FAQ “How does voice ID work?”
+
+8. How does deletion work?
+You can delete certain data associated with your account. For instance, you can delete your voice recordings, text transcripts of those recordings, and typed requests to Alexa, as well as information Alexa receives from third-party smart home devices, using settings available in the Alexa app or at <https://www.amazon.com/alexaprivacysettings>. When you request deletion, we begin the process of securely deleting your data from Amazon’s cloud storage systems.
+Our deletion processes are designed to be comprehensive and can take some time to complete. While we are processing your deletion request, the data for which you requested deletion may still be used to personalize your experience, including by informing Alexa’s responses, and we may still provide that data to you in response to a data access request. We make every effort to ensure our deletion processes run smoothly; however, the specific timing of deletion may vary based on the type of information requested for deletion and the technical operation of our internal systems. Alexa does not support voice requests to delete data in all circumstances, and Alexa may not always interpret or execute requests to delete information made by voice correctly. We design our systems to continue securely processing your requests until deletion is completed. You can always review the voice recordings, text transcripts, and typed requests to Alexa associated with your account at any time by going to **More** >**Alexa Privacy** in the Alexa app and Echo Show devices or <https://www.amazon.com/alexaprivacysettings>. Data that is collected by third parties, like skill developers, and data stored outside of Amazon’s cloud, like data stored on your Echo or mobile devices, may not be deleted. Your deletion requests may not delete copies of data that have been de-identified and are no longer linked to you or your account. If we have used your data to improve our services, we may continue to retain and use the systems trained on your data after your data has been deleted from our data stores.
+For more information on how deletion works in various contexts, see the FAQs “What happens when I delete my Alexa voice recordings, text transcripts, and typed requests to Alexa?”, “How can I delete the information Alexa receives from my third-party smart home devices?”, and “Can I review and delete my Alexa Emergency Assist audio recordings?”
+
+9. **How do my voice recordings, text transcripts,**typed requests to Alexa, and other interactions with Alexa improve Amazon’s services?****
+Alexa is designed to get smarter and more personalized every day. For example, we use your Alexa interactions to help improve Alexa’s ability to understand and respond to natural language requests and to train Amazon’s machine learning models. Training our models with real world interactions from a diverse range of customers is necessary for Alexa to respond properly to variations in our customers’ speech patterns, dialects, accents, and vocabulary, the acoustic environments where customers use Alexa, and the many ways in which customers engage with Alexa. This training relies in part on supervised machine learning, an industry-standard practice where humans review an extremely small sample of your Alexa interactions to help Alexa understand how to interpret your requests correctly and provide appropriate responses. For example, a human reviewing a customer’s voice request for the weather in Austin may identify that Alexa misinterpreted it as a request for the weather in Boston. And a human reviewing Alexa’s response to a request about a current event may determine whether Alexa’s response was accurate, appropriate, and properly personalized. Our supervised learning process includes multiple safeguards to protect customer privacy. For example, you can review and delete your voice recordings, and you can manage the use of your voice recordings to improve our services and develop new features, by visiting **More** >**Alexa Privacy** in the Alexa app and Echo Show devices or <https://www.amazon.com/alexaprivacysettings>. We also may use your interactions with Alexa to improve other Amazon products and services. For example, when you shop on Alexa, we may use those interactions to improve the systems we use to help customers search for products.
+Was this information helpful? 
+Thank you for your feedback.
+Please select what best describes the information: 
+This information is confusing or wrong 
+This isn't the information I was looking for 
+I don't like this policy 
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
+
+Legal & Compliance
+* Alexa Communication Usage Guidelines
+  * Auto Popcorn Replenishment FAQs
+  * Alexa Reminders SMS Terms and Conditions
+  * Echo Frames and Carrera Smart Glasses Battery Life and Testing Information
+  * Source Code Notice for Echo and Alexa Devices
+  * Alexa, Echo Devices, and Your Privacy
+  * Alexa and Alexa Device FAQs
+  * Welcome to Amazon Sidewalk
+  * About Amazon Smart Thermostat ECOLOGO Silver Certification
+  * Sell apps on Amazon
+  * Protect & Build Your Brand
+  * Become an Affiliate
+  * Become a Delivery Driver
+  * Start a Package Delivery Business
+  * Advertise Your Products
+  * Self-Publish with Us
+  * Become an Amazon Hub Partner
+  * ›See More Ways to Make Money
+Amazon Payment Products
+  * Amazon Secured Card
+  * Amazon Business Card
+  * Credit Card Marketplace
+  * Reload Your Balance
+  * Amazon Currency Converter
+  * Shipping Rates & Policies
+  * Returns & Replacements
+  * Manage Your Content and Devices
+  * Recalls and Product Safety Alerts
+  * Registry & Gift List
+  * ##### Amazon Music Stream millions  
+  * ##### Amazon Ads Reach customers  
+  * ##### 6pm Score deals  
+  * ##### AbeBooks Books, art  
+  * ##### ACX  Audiobook Publishing  
+  * ##### Sell on Amazon Start a Selling Account
+  * ##### Veeqo Shipping Software  
+  * ##### Amazon Business Everything For  
+  * ##### Amazon Fresh Groceries & More  
+  * ##### AmazonGlobal Ship Orders  
+  * ##### Home Services Experienced Pros  
+  * ##### Amazon Web Services Scalable Cloud  
+  * ##### Audible Listen to Books & Original  
+  * ##### Box Office Mojo Find Movie  
+  * ##### Goodreads Book reviews  
+  * ##### IMDb Movies, TV  
+  * ##### IMDbPro Get Info Entertainment  
+  * ##### Kindle Direct Publishing Indie Digital & Print Publishing  
+  * ##### Amazon Photos Unlimited Photo Storage  
+  * ##### Prime Video Direct Video Distribution  
+  * ##### Shopbop Designer  
+  * ##### Amazon Resale Great Deals on  
+Quality Used Products 
+  * ##### Whole Foods Market America’s Healthiest  
+  * ##### Woot! Deals and   
+  * ##### Zappos Shoes &  
+  * ##### Ring Smart Home  
+  * ##### eero WiFi Stream 4K Video  
+  * ##### Blink Smart Security  
+  * ##### Neighbors App  Real-Time Crime  
+  * ##### Amazon Subscription Boxes Top subscription boxes – right to your door
+  * ##### PillPack Pharmacy Simplified
+  * ##### Amazon Renewed Refurbished tech  
+  * Consumer Health Data Privacy Disclosure
+  * Your Ads Privacy Choices
+© 1996-2026, Amazon.com, Inc. or its affiliates
+

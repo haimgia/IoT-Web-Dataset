@@ -1,0 +1,123 @@
+Source: SmartThings Privacy Policy
+URL: https://eula.samsungiotcloud.com/legal/us/en/pps.html
+
+INTRO
+
+**_SmartThings U.S. Privacy Notice_**
+Effective Date: December 29, 2025
+Samsung Electronics Co., Ltd., along with our affiliates and subsidiaries (collectively, “**Samsung** ”) respects your concerns about privacy. This SmartThings Privacy Notice applies to the personal information we obtain through SmartThings (the “**Service** ”). It does not apply to information collected by other apps, websites or services provided by Samsung. If you are a minor, please refer to our SmartThings U.S. Privacy Notice for Minors with a parent or guardian, which will help you understand better what information we collect and how we use it.
+This Privacy Notice supplements the Samsung Privacy Policy (available at https://www.samsung.com/us/account/privacy-policy) (“**Samsung Privacy Policy** ”) and the Samsung Consumer Health Data Privacy Statement (available at https://www.samsung.com/us/privacy-policy/consumer-health-data-privacy-statement) (“**Consumer Health Data Privacy Statement** ”), and provides additional information about how we may collect, use and share your personal information in connection with the Service. In the event any portion of this Privacy Notice conflicts with the Samsung Privacy Policy and/or the Consumer Health Data Privacy Statement, the relevant provisions of this Privacy Notice will govern.
+
+**Information We Obtain**
+Through the Service, we may obtain information about you in various ways. The types of personal information we may obtain include:
+_Information You Provide Directly_
+·your interactions and inputs in relation to the Service (including configurations). This includes touch interactions (e.g. when you connect Samsung Family Hub and use its features), information you input (e.g. pet profile information in SmartThings Pet Care or information about your home), things you create (e.g. when you create maps in SmartThings Map View), routines you set up (including information such as text messages and contacts you send text messages to), and interests you select (e.g. dietary preferences in SmartThings Cooking or clothing in SmartThings Clothing Care). Please note, any information you enter into SmartThings Cooking will override the existing information in your Family Hub. For example, if you input your dietary preferences through SmartThings Cooking, your Family Hub will be updated to include those dietary preferences; 
+·if you use voice commands to control SmartThings, information about your conversations, including voice commands, will be relayed through SmartThings servers to process your command. If you connect Samsung’s Bixby voice assistant to the Service, we may obtain audio content from your communications with Bixby (e.g.¸ voice commands);
+·audio and visual content if you connect video or audio recording devices to the Service, including when you choose to share images and video clips, we may obtain content (and related information) that is captured and recorded by those devices, such as video or audio recordings, live video or audio streams, and images; and
+·with your permission, health information when you use a feature that requires this information, such as sleep information (e.g., wake-up time and total sleeping time) when setting up routines or creating a sleep environment report.
+Privacy and video surveillance laws in your jurisdiction may apply to your use of our products and services, including but not limited to video and audio recordings made by your Service-connected devices, as well as audio content obtained through Bixby. Please ensure that you comply with applicable law when you use our products or services. For example, you may need to display a notice that alerts visitors to your home that you are using our products or services. Capturing, recording or sharing video or audio content that involves other people may affect their privacy rights.
+_Information We Obtain By Automated Means_
+·account and contact information, including Samsung account profile information, including phone number, user IDs for participating third-party devices, apps, features or services, and devices registered or connect to your account. If you use SmartThings Energy we also collect your Rewards point history to display to you;
+·information from other Samsung or third-party services the Service receives (e.g. Samsung or third-party digital calendars when using Samsung Visual Display or responses, answers, and content from Family Hub), including images recognized as food and taken when you open and close the refrigerator door (cropped by the upper camera inside), as well as images taken at the door bin (cropped if part of your body), when you put in and take out items;
+·information about your devices, such as hardware and software information, configurations and settings, and device and other unique identifiers;
+·information related to your location through GPS, Bluetooth and WiFi signals, including with your permission, the precise geolocation of your device and connected devices (please note that if you do not allow the Service to collect your precise geolocation, you may not be able to use all of the features of the Service); 
+·information about your subscription status (e.g. product ID, purchase ID, and subscription start or end date). These information will be collected only when you subscribe to services that require a paid subscription; and
+·information about your usage of the Service, including about how, when, and for how long you use the Service, your interactions and inputs in relation to the Service (including timezone and configurations), the devices that are connected to the Service, and other Samsung and third-party apps and services on your devices (such as list of apps on your devices, the websites you visit, and content and data, as well as responses about your interest and family members if you choose to use personalized services).
+If you use SmartThings Family Care, we will collect your profile information, including emergency contacts, when the care recipient creates a profile. We will also collect usage information related to your use of SmartThings Family Care, such as medication schedule and reminders, medical visits, step count, and symptoms. With care recipient’s separate consent, device’s geolocation, usage information, and activity logs will also be collected and shared with the caregiver when the caregiver uses the place notifications feature. Also, if the caregiver turns on the Check for crying feature, we will collect information about how many times and when a baby close to the care recipient’s device has cried. Please note that we do not collect, record, or transfer any voice information to provide you with this feature.
+We also may collect other information about you, your devices and apps, and your use of the Service in ways that we describe to you at the time of collection or otherwise with your consent.
+The Samsung Privacy Policy also describes other information we may collect, including through cookies and third-party analytics services.
+
+**_Online Tracking and Interest-Based Advertising_**
+We may collect information about your online activities to provide you with advertising about products and services tailored to your interests. You may see our ads on other websites or apps because we engage in online advertising. This allows us to target our messaging to users considering demographic data, users’ inferred interests, and browsing context. Ad technology companies track users’ online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other similar technologies. This information is used to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites, and to build a profile of users’ online browsing activities. The information collected may include data about users’ visits to websites that participate in the online ad ecosystem, such as the pages or ads viewed and the actions taken on the websites. This data collection takes place both on SmartThings.com and on third-party websites that participate in the online ad ecosystem. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of interest-based advertising, please visit http://www.aboutads.info/choices and http://www.networkadvertising.org/choices/.
+
+**How We Use the Information We Obtain**
+We may use the information we obtain through the Service for the purposes described in the Samsung Privacy Policy and to:
+·identify and authenticate you so you may use the Service;
+· provide you with the Service;
+· improve and customize your experience with the Service, such as delivering content and responses tailored to you and the way you interact with the Service;
+· link your Samsung account to connected third-party devices, apps, features or services;
+· respond to your requests, inquiries, and instructions made through or about the Service;
+· to provide technical support, including remote technical support. If you agree to Smart Service, to contact you via email, phone, or text message when there is an error on your mobile device or home appliances connected to the Service and provide technical support
+·to provide you with notifications, content, alerts, offers, customized recommendations, promotions, marketing information, communications and advertisements in connection with the Service and other Samsung products and services;
+  * with your separate consent to “Improved personalized ads with Samsung account data,” using data collected through the Service to provide personalized ads on other Samsung services where you have opted in to receive personalized ads on that other Samsung service. More details are available in the “Marketing and Advertising” section of the Samsung account privacy notice, (available at https://www.samsung.com/us/account/privacy-policy/); and
+·allow you to interact with and use participating third-party apps and services.
+
+**Links To Other Devices, Apps and Features**
+The Service may provide the ability to connect to other devices, apps and features. These devices, apps and features may operate independently from us and may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked device, app or feature is not owned or controlled by us, we are not responsible for its content, any use of the device, app or feature, or the privacy practices of the operator of the device, app or feature.
+
+**Information Sharing**
+As you use the Service, we share the types of information we collect (as described above) to the following entities for the purposes described above. 
+**1.****Subsidiaries and Affiliates** : Samsung branded and non-branded subsidiaries and affiliates which we control or own;
+**2.****Business Partners** : Third parties who we work together with. These business partners control and manage your personal information. For example, we may share your information with content or feature providers (e.g. when you install third-party plug-ins and they require sharing of data with the plug-in providers).
+**3.****Service Providers/Processors** : Carefully selected companies that provide services for or on behalf of us. These providers are also committed to protecting your information.
+**4.****Other Parties When Required by Law or as Necessary to Protect Our Services** : For example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security.
+**5.****Other Parties with Your Consent or at Your Direction** : In addition to the disclosures described in this Privacy Notice, we share information about you with third parties when you separately consent to or request such sharing.
+**Notice To California Residents  
+If you are a California consumer, for more information about your privacy rights, please see the California Consumer Privacy Statement (available at https://www.samsung.com/us/account/privacy-policy/california).
+
+**State Law Privacy Rights**
+If you reside in certain states you may have rights and choices concerning your personal information. For more information about privacy rights that may be available to you subject to applicable law, please see the What Are Your Rights? section of the Samsung Privacy Policy and the State Law Privacy Rights section of the US Supplement to the Samsung Privacy Policy, as well as the Consumer Health Data Privacy Statement for more information about rights concerning consumer health data.
+
+**How Long We Keep Your Information**
+As stated above, this Privacy Notice supplements the Samsung Privacy Policy, which describes our information retention practices.
+
+**Updates to This Privacy Notice**
+We may update this Privacy Notice from time to time and without prior notice to you to reflect changes in our personal information practices with respect to the Service or changes in applicable law. We will provide you with advanced notice of any material changes by notifying you through the Service or email if we have one. We will indicate at the top of this Privacy Notice when it was most recently updated.
+US Main PN Version: 1.12.0
+
+**_SmartThings_**** _U.S. Privacy Notice for Minors_**
+Effective Date: December 29, 2025
+We (Samsung Electronics Co., Ltd. and our related companies) care about your privacy. This Privacy Notice will explain how we handle information about you when you use SmartThings (the “**Service** ” _)_. If you have any questions while reading this Privacy Notice, we recommend you sit with a parent or guardian to help you review and understand this Privacy Notice.
+Please note that this is a simplified version of the SmartThings U.S. Privacy Notice made for minors (those under 18 years of age), not a substitute.
+
+**Information We Get**
+When you use the Service, we may collect, and you might share with us, certain information about you. These include:
+_Information You Choose to Give Us_
+·**Your interactions, inputs and how you set up things** :
+·**Voice information** : if you use voice commands to use the Service or connect Bixby to the Service, your voice commands; such as
+·**Audio and visual content** : if you connect audio or video devices, the content of the audio and visual content may be collected, including when you share the content with others; and
+·**Health information** : if you (or your parent or guardian) allow us, when you use a feature that needs this information, such as health information when you use Family Care or sleep information when you create a sleep environment report.
+Before you connect video or audio recording devices, there may be certain laws you have to follow. Be sure to follow the law whenever you use our products or services. Recording other people without permission may affect their privacy rights. We recommend you ask your parent or guardian before using any video or audio recording device.
+_Information We Get Automatically_
+·**Account and contact information** : such as your account profile, including phone number, use IDs from services that aren’t from Samsung, and devices registered to your account. If you use Samsung Energy, we also collect your Rewards point history to display to you;
+·**Information the Service gets from other Samsung or non-Samsung services** : such as responses, answers, and content from Family Hub and digital calendars when you use Samsung Visual Display. We also collect images that are recognized as food from when you open and close your refrigerator door and when you put in and take out items;
+·**Information about what you’re using** : this is information about your device, like what kind of device you are using, what settings you have turned on or off, and information that lets us know which device is yours (these are called identifiers);
+·**Information about where you are** : we may collect information about your location, including by using Bluetooth and Wi-Fi. If you (or your parent or guardian) allow us, we may collect information about your location to tell us better and more exactly where you are (this is called geolocation). Your device will let you know when we are collecting your geolocation; and
+·**Information about your use of the Service** : such as how, when, and for how long you use the Service, your interactions, inputs, and how you set things up, devices connected to the Service, and other Samsung or non-Samsung apps, services, and devices (including app lists, websites you visit, content and data, and responses about interests and family members).
+If you use SmartThings Family Care, we will collect your profile information, including emergency contacts. We will also collect usage information related to your use of SmartThings Family Care, such as medication schedule and reminders, medical visits, step count, and symptoms. If you (or your parent or guardian) give us permission, your location, usage information, and activity logs will also be collected and shared with the caregiver when the caregiver uses the place notifications feature. Also, if the caregiver turns on the Check for crying feature, we will collect information about how many times and when a baby close to the care recipient’s device has cried. Please note that we do not collect, record, or transfer any voice information to provide you with this feature.
+We may also collect other information about you, your devices and apps, and how you use the Service when you allow us. When we do, we will explain it to you.
+
+**How We Use the Information**
+We may use the information we get through the Service for the purposes below. We may not use your information for some of the purposes depending on how old you are. For example, if you’re under a certain age we won’t use your information for personalized ads or marketing.
+·make sure it is you that is using the Service;
+·let you use the Service;
+·make the service better;
+·show and provide you with features you might like;
+·let you use your Samsung account with other apps, features or services that aren’t from Samsung;
+·let you ask questions and give instructions through or about the Service and respond to them;
+·help you fix errors and problems (providing technical support), including remote technical support. If you agree to Smart Service, we will contact you via email, phone, or text message when there is an error on your mobile device or home appliances connected to the Service and provide technical support;
+·to provide you with notifications, alerts, recommendations, and marketing and advertising about the Service and other Samsung products and services; and
+·let you use apps and services that aren’t from Samsung if they’re available.
+
+**Sharing Your Information**
+Where applicable, we may share your information with other Samsung companies, business partners, and service providers that help us run the Service. Sometimes, we are required by law to share information for legal purposes, or public safety. Additionally, we may share your information when you give us permission or request it.
+Specifically, business partners are other companies who control and manage your information. 
+For example, we may share your information with content or feature providers (e.g. when you install third-party plug-ins and they require sharing of data with the plug-in providers)
+If you don't understand, please ask your parent or guardian to help you understand who we share your information with.
+
+**How Long We Keep Your Information**
+We don’t keep your personal information if we don’t need it. Your information will be kept for as long as it is needed to provide you with the Service, as required by law (government rules) or contracts (promises we made to other companies), or only for as long as necessary for one of the purposes above.
+Once it is no longer needed, we will either delete it or anonymize it (meaning we won’t know it’s your information).
+
+**What Can You Ask Us To Do With Your Information?**
+Depending on where you live, you (or your parent or guardian) have the right to ask us to:
+·give you a copy of the information we have about you and in a way other devices can read this information;
+·update or fix your information;
+·delete your information; or
+·stop collecting or using sensitive information. Sensitive information is information like your health information.
+You (or if you’re under 13 your parent or guardian) can make these requests by calling us at 1-800-SAMSUNG (1-800-726-7864) or by clicking here. If you ask us to delete or stop using your information, some parts of the Service might not work as expected. Always talk to your parents or guardian if you are not sure.
+
+**Updates to This Privacy Notice**
+We may update this Privacy Notice from time to time. If we make significant changes, we will let you know before we update this Privacy Notice through the Service or email if we have one. You can always see when we last made changes to this Privacy Notice by checking the date at the top.
+PN for Minors Version: 1.3.0
+

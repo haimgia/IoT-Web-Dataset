@@ -1,0 +1,15 @@
+Source: Schneider Electric
+URL: https://www.se.com/us/en/about-us/legal/data-privacy/
+
+INTRO
+About us Privacy Policy
+  *   * Help and Contact Center
+  * Tech Support: 877-342-5173
+  * Report a Misconduct
+  *   * Product Documentation
+  * Software and Firmware
+  * Product Replacement
+  * DigestPLUS Online Catalogue
+  * Schneider Electric Community
+  * Change your cookie settings
+
