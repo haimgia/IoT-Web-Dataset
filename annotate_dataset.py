@@ -265,15 +265,15 @@ if __name__ == "__main__":
     #     asyncio.run(generate_triples_from_privacy_policies(source_name, url))
 
 
-    for file in os.listdir(os.path.join(RAW_TEXT_FOLDER, PRIVACY_POLICY_FOLDER)):
+    for file in tqdm(os.listdir(os.path.join(RAW_TEXT_FOLDER, PRIVACY_POLICY_FOLDER))):
 
         with open(os.path.join(RAW_TEXT_FOLDER, PRIVACY_POLICY_FOLDER, file), 'r', encoding='utf-8') as f:
-            with open(os.path.join(RAW_TEXT_FOLDER, GEN_TRIPLES_FOLDER, file), 'r', encoding='utf-8') as g:
+            with open(os.path.join(GEN_TRIPLES_FOLDER, PRIVACY_POLICY_FOLDER, file), 'w', encoding='utf-8') as g:
                 content = f.read()
             
                 sections = content.split("\n\n")
 
-                for section in sections:
+                for section in tqdm(sections):
                     #print("SECTION: ", section)
 
                     # generates triples for each section
