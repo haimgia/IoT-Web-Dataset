@@ -164,4 +164,5 @@ def generate_triples(text):
 
 
 if __name__ == "__main__":
-    generate_triples_from_pdf(os.path.join(PDF_FOLDER, "Accuracy of Fitbit Devices Systematic Review and Narrative Syntheses of Quantitative Data.pdf"))
+    for pdf_file in tqdm(os.listdir(PDF_FOLDER)):
+        generate_triples_from_pdf(os.path.join(PDF_FOLDER, pdf_file))
