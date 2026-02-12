@@ -1,0 +1,2492 @@
+Text: Page 1 of 6
+© Annals of Translational Medicine. All rights reserved.
+Triples: [
+]
+
+
+Text: Ann Transl Med 2019;7(17):417 | http://dx.doi.org/10.21037/atm.2019.06.79
+Review Article
+Apple Watch, Wearables, and Heart Rhythm: where do we stand?
+Triples: [
+    ("Apple Watch", "type", "wearable"),
+    ("Apple Watch", "monitors", "heart rhythm")
+]
+
+
+Text: Joel M. Raja
+1, Carol Elsakr
+2, Sherif Roman
+3, Brandon Cave
+4, Issa Pour-Ghaz
+1, Amit Nanda
+1,
+Triples: [
+]
+
+
+Text: Miguel Maturana
+1, Rami N. Khouzam
+5
+1Department of Internal Medicine, University of Tennessee Health Science Center, Memphis, TN, USA;
+Triples: [
+]
+
+
+Text: 2Department of Medicine, The George
+Triples: [
+]
+
+
+Text: Washington University School of Medicine & Health Sciences, Washington, DC, USA;
+Triples: []
+
+
+Text: 3Department of Medicine, Cairo University, Cairo, Egypt;
+Triples: [
+]
+
+
+Text: 4Department of Pharmacy, Methodist University Hospital, Memphis, TN, USA;
+Triples: [
+]
+
+
+Text: 5Department of Internal Medicine, Division of Cardiovascular
+Triples: [
+]
+
+
+Text: Diseases, University of Tennessee Health Science Center, Memphis, TN, USA
+Contributions: (I) Conception and design: JM Raja, RN Khouzam; (II) Administrative support: JM Raja, RN Khouzam; (III) Provision of study
+Triples: [
+]
+
+
+Text: materials or patients: All authors; (IV) Collection and assembly of data: JM Raja, C Elsakr, S Roman, B Cave, I Pour-Ghaz, A Nanda, M Maturana; (V)
+Triples: [
+]
+
+
+Text: Data analysis and interpretation: JM Raja, C Elsakr, S Roman, B Cave, I Pour-Ghaz, A Nanda, M Maturana; (VI) Manuscript writing: All authors; (VII)
+Triples: [
+]
+
+
+Text: Final approval of manuscript: All authors.
+Correspondence to: Joel M. Raja, MD. Department of Internal Medicine, University of Tennessee Health Science Center, 2750 Mcvay Road, Memphis,
+Triples: [
+]
+
+
+Text: TN 38119, USA. Email: jraja@uthsc.edu.
+Triples: [
+]
+
+
+Text: Abstract: Atrial fibrillation (AF) poses a major health concern in the United States by affecting over
+Triples: [
+]
+
+
+Text: 5 million people accounting for at least 15% to 25% of strokes. It can be asymptomatic or subclinical with
+Triples: [
+]
+
+
+Text: its first presentation being stroke in 18%, and AF being only detected at the time of stroke. With evidence of
+Triples: [
+]
+
+
+Text: subclinical AF associated with increased risk of ischemic stroke, recent developments indeed point towards
+Triples: [
+]
+
+
+Text: wearables, especially smart watches, being quite effective and representing a novel method for screening for
+Triples: [
+    ("smart watch", "is_a", "wearable device"),
+    ("smart watch", "enables", "health screening"),
+    ("smart watch", "represents", "novel screening method")
+]
+
+
+Text: silent AF in the general population, and thereby reducing mortality and morbidity associated with it. This
+Triples: [
+]
+
+
+Text: manuscript aims to review whether the photoplethysmography (PPG) technology, employed in the wearables
+Triples: [
+    ("wearables", "uses", "photoplethysmography technology")
+]
+
+
+Text: to monitor heart rate, is accurate enough to aid in the diagnosis of AF that may remain asymptomatic or
+Triples: [
+    ("heart rate monitor", "monitors", "heart rate"),
+    ("heart rate monitor", "supports", "diagnosis of atrial fibrillation")
+]
+
+
+Text: paroxysmal. It also explores the option of actually employing this method in the general population, the
+Triples: [
+]
+
+
+Text: feasibility of this mode of diagnosis, sensitivity and specificity of this method compared to the conventional
+Triples: [
+]
+
+
+Text: electrocardiogram (EKG), and the actual follow up with a practitioner and subsequent treatment of AF, if
+Triples: [
+]
+
+
+Text: diagnosed. We conducted a Medline search using various combinations of “smart watch” “atrial fibrillation”
+Triples: [
+]
+
+
+Text: “wearables”, and “Kardia” to identify pivotal randomized trials published before June 1, 2019, for inclusion
+Triples: [
+]
+
+
+Text: in this review. Concurrently, major practice guidelines, trial bibliographies, and pertinent reviews were
+Triples: [
+]
+
+
+Text: examined to ensure inclusion of relevant trials. A consensus among the authors was used to choose items
+Triples: [
+]
+
+
+Text: for narrative inclusion. The following section reviews data from pivotal trials to determine the effectiveness
+Triples: [
+]
+
+
+Text: of smart watch technology in detecting AF in the general population. Trials reviewed evaluated apple
+Triples: [
+    ("smart watch", "detects", "atrial fibrillation")
+]
+
+
+Text: watch, Kardia, Samsung wearables in diagnosis of AF. The fact that there is an increase in consumer use of
+Triples: [
+    ("Kardia", "used_in", "diagnosis of atrial fibrillation"),
+    ("Samsung wearable", "used_in", "diagnosis of atrial fibrillation"),
+    ("watch", "type_of", "wearable")
+]
+
+
+Text: wearables, smart devices, which can serve as health monitoring devices that can be used as a non-invasive,
+Triples: [
+    ("wearable", "type_of", "smart device"),
+    ("wearable", "provides", "health monitoring"),
+    ("health monitoring", "is", "non-invasive")
+]
+
+
+Text: ambulatory assessment of heart rate and rhythm, is definitely novel. Intermittent short EKG recordings
+Triples: [
+    ("ambulatory assessment", "monitors", "heart rate"),
+    ("ambulatory assessment", "monitors", "rhythm"),
+    ("ambulatory assessment", "generates", "intermittent short EKG recordings")
+]
+
+
+Text: repeated over a longer-term period produced significantly better sensitivity for AF detection, with 4 times as
+Triples: [
+]
+
+
+Text: many cases diagnosed compared with a single time-point measurement. Since there are limitations and further
+Triples: [
+]
+
+
+Text: research into this new field is required, the wearable technology may not serve as the ultimate tool for diagnosis
+Triples: [
+]
+
+
+Text: of AF, rather a nidus for the general population to seek medical advice for confirmation on being notified of
+Triples: [
+]
+
+
+Text: having an irregular rhythm leading to prevention of morbidity and mortality associated with it.
+Triples: [
+]
+
+
+Text: Keywords: Apple watch; wearables; single lead electrocardiogram (single lead EKG); atrial fibrillation (AF);
+Triples: [
+]
+
+
+Text: arrhythmia
+Submitted May 29, 2019. Accepted for publication Jun 23, 2019.
+doi: 10.21037/atm.2019.06.79
+View this article at: http://dx.doi.org/10.21037/atm.2019.06.79
+Triples: [
+]
+
+
+Text: Raja et al. Smart watch in detecting arrhythmias
+© Annals of Translational Medicine. All rights reserved.
+Triples: [
+    ("smart watch", "detects", "arrhythmias")
+]
+
+
+Text: Ann Transl Med 2019;7(17):417 | http://dx.doi.org/10.21037/atm.2019.06.79
+Page 2 of 6
+Introduction
+Atrial fibrillation (AF) poses a major health concern in
+Triples: [
+]
+
+
+Text: the United States by affecting over 5 million people (1). It
+Triples: [
+]
+
+
+Text: is associated with significant mortality and morbidity by
+Triples: [
+]
+
+
+Text: increasing the risk of stroke 5-fold compared to general
+Triples: [
+]
+
+
+Text: population (2). In the United States, AF accounts for at
+Triples: [
+]
+
+
+Text: least 15% to 25% of strokes (3). It can be asymptomatic
+Triples: [
+]
+
+
+Text: or subclinical with its first presentation being stroke
+Triples: [
+]
+
+
+Text: in 18%, and AF being newly detected at the time of
+Triples: [
+]
+
+
+Text: stroke (4). Furthermore, the prevalence of AF increases
+Triples: [
+]
+
+
+Text: with age, being 65 or older places the prevalence around
+Triples: [
+]
+
+
+Text: 4.4% with people who have previously undiagnosed AF
+Triples: [
+]
+
+
+Text: making 1.4% of it (5). Estimates of people in the United
+Triples: [
+]
+
+
+Text: States who may have previously unknown, asymptomatic
+Triples: [
+]
+
+
+Text: AF are around 700,000, with an estimated cost burden of
+Triples: [
+]
+
+
+Text: 3.2 billion dollars (6,7).
+With evidence of subclinical AF associated with increased
+Triples: [
+]
+
+
+Text: risk of ischemic stroke (8), previously only being detected
+Triples: [
+]
+
+
+Text: by ambulatory electrocardiogram (EKG) monitoring
+Triples: [
+]
+
+
+Text: either with temporary patches for short periods of time
+Triples: [
+]
+
+
+Text: or implantable recorders for longer periods, there might
+Triples: [
+]
+
+
+Text: be a place for wearable technology, which is typically used
+Triples: [
+]
+
+
+Text: on a regular basis, in aiding diagnosis of subclinical AF. As
+Triples: [
+]
+
+
+Text: the popularity of smart watches increases, with more than
+Triples: [
+]
+
+
+Text: 325 million devices sold in 2016 alone (9) and 13% of the
+Triples: [
+    ("devices", "sold_in", "2016")
+]
+
+
+Text: US population owning smartwatches, with 40% of the
+Triples: [
+]
+
+
+Text: public showing interest in getting one (10), these devices
+Triples: [
+]
+
+
+Text: are becoming a commodity rapidly finding its way on
+Triples: [
+]
+
+
+Text: everyone’s wrist and in pockets. The use of these wearables
+Triples: [
+]
+
+
+Text: needs to be effective in diagnosing subclinical AF, with false
+Triples: [
+]
+
+
+Text: positives increasing health costs by unwarranted ER visits
+Triples: [
+]
+
+
+Text: or anxiety to the patient, or with false negatives missing the
+Triples: [
+]
+
+
+Text: diagnosis which may lead to morbidity or mortality.
+Triples: [
+]
+
+
+Text: Recent developments indeed point towards wearables,
+Triples: [
+]
+
+
+Text: especially smart watches, being quite effective and being
+Triples: [
+]
+
+
+Text: a novel method for screening for silent AF in the general
+Triples: [
+]
+
+
+Text: population. Though the technology is not only restricted
+Triples: [
+]
+
+
+Text: to smart watches, single lead EKGs that are portable and
+Triples: [
+    ("single lead EKG", "is_portable", "true")
+]
+
+
+Text: phone applications that detect heart rate can serve as event
+Triples: [
+    ("phone application", "detects", "heart rate"),
+    ("phone application", "serves_as", "event source")
+]
+
+
+Text: recorders during an episode of symptoms like palpitations,
+Triples: [
+]
+
+
+Text: but may be restricted by not providing continuous
+Triples: [
+]
+
+
+Text: monitoring.
+Triples: [
+]
+
+
+Text: Discussion
+In this review, we will discuss the technology behind the
+Triples: [
+]
+
+
+Text: wearables and its efficacy. Further implementation of this
+Triples: [
+]
+
+
+Text: technology in different formats will also be addressed.
+Triples: [
+]
+
+
+Text: Photoplethysmography (PPG)
+PPG is the measure of the volumetric change of the heart
+Triples: [
+]
+
+
+Text: by measuring light transmission or reflection. During
+Triples: [
+]
+
+
+Text: systole, the rise in pressure forces a forward pulse into the
+Triples: [
+]
+
+
+Text: blood vessel. The device shines light on the skin to detect
+Triples: [
+    ("device", "detects", "blood vessel"),
+    ("device", "emits", "light"),
+    ("light", "applied_to", "skin")
+]
+
+
+Text: a pulse by measuring the difference in the quantity of light
+Triples: [
+    ("sensor", "measures", "light_quantity_difference")
+]
+
+
+Text: reflected back to the sensor. The sensor is usually placed on
+Triples: [
+]
+
+
+Text: the skin in the areas where the artery is proximal to the skin.
+Triples: [
+]
+
+
+Text: Thus, the heart rate is measured using an algorithm. PPG
+Triples: [
+    ("PPG", "measures", "heart_rate"),
+    ("heart_rate", "measured_by", "algorithm")
+]
+
+
+Text: technology can be used in physical sensors, smart watches,
+Triples: [
+    ("technology", "used_in", "physical sensor"),
+    ("technology", "used_in", "smart watch")
+]
+
+
+Text: or even phone apps to measure heart rate.
+Triples: [
+    ("phone app", "measures", "heart rate")
+]
+
+
+Text: PPG which is deemed as medical grade is accurate at
+Triples: [
+    ("PPG", "is_a", "medical_grade_device")
+]
+
+
+Text: measuring heart rate in sinus rhythm (correlation coefficient
+Triples: [
+    ("heart rate sensor", "measures", "heart rate"),
+    ("heart rate measurement", "correlates_with", "sinus rhythm")
+]
+
+
+Text: of 0.96) (11). However, PPG is limited by it underestimation
+Triples: [
+]
+
+
+Text: of heart rate during sinus tachycardia and accuracy suffers
+Triples: [
+]
+
+
+Text: during physical activity. On testing consumer grade PPG
+Triples: [
+    ("consumer grade PPG", "monitors", "physical activity")
+]
+
+
+Text: technology (Apple watch, Fitbit, etc.), its accuracy was also
+Triples: [
+]
+
+
+Text: high in sinus rhythm (12). A small study analyzing PPG
+Triples: [
+]
+
+
+Text: data from smart watches with a deep neural network to
+Triples: [
+    ("smart watch", "generates", "data")
+]
+
+
+Text: detect AF compared to a standard 12 lead EKG yielded
+Triples: [
+    ("standard 12 lead EKG", "detects", "AF")
+]
+
+
+Text: a sensitivity of 98.0% and specificity of 90.2% (13).
+Triples: [
+]
+
+
+Text: This proves the data obtained by PPG technology in the
+Triples: [
+    ("PPG technology", "provides", "data")
+]
+
+
+Text: wearables when analyzed by algorithms can be effective in
+Triples: [
+    ("wearables", "analyzed_by", "algorithms")
+]
+
+
+Text: diagnosing AF.
+Triples: [
+]
+
+
+Text: Implementation of the PPG technology through
+Triples: [
+]
+
+
+Text: certain apps in phones can also be used to measure
+Triples: [
+]
+
+
+Text: heart rate. With 77% of the US population owning a
+Triples: [
+]
+
+
+Text: smartphone (14), this can be implemented as a measure to
+Triples: [
+]
+
+
+Text: detect irregular heart rate in general population. Cardiio
+Triples: [
+    ("Cardiio", "detects", "irregular heart rate")
+]
+
+
+Text: Rhythm app for I-phone implemented the phone’s camera
+Triples: [
+    ("Rhythm app", "runs_on", "iPhone"),
+    ("Rhythm app", "uses", "camera")
+]
+
+
+Text: as a light sensor to obtain heart rate measurements.
+Triples: [
+    ("light sensor", "measures", "heart rate")
+]
+
+
+Text: An outpatient study involving 1,013 participants with
+Triples: [
+]
+
+
+Text: hypertension, diabetes mellitus, and/or aged ≥65 years,
+Triples: [
+]
+
+
+Text: revealed that the app was able to detect Atrial fibrillation
+Triples: [
+    ("app", "detects", "atrial_fibrillation")
+]
+
+
+Text: with a sensitivity of 92.9% (95% CI: 77–99%), specificity
+Triples: [
+]
+
+
+Text: of 97.7% (95% CI: 97–99%), with a positive predictive
+Triples: [
+]
+
+
+Text: value (PPV) of 53.1% (95% CI: 38–67%), and a negative
+Triples: [
+]
+
+
+Text: predictive value (NPV) of 99.8% (95% CI: 99–100%) (15).
+Triples: [
+]
+
+
+Text: Although this app cannot get continuous heart rate data
+Triples: [
+    ("app", "does_not_support", "continuous heart rate data")
+]
+
+
+Text: from the person, random heart rate checks can uncover
+Triples: [
+]
+
+
+Text: subclinical AF or even during symptoms palpitations act like
+Triples: [
+]
+
+
+Text: an event recorder to pick up an episode of AF.
+Apple watch study
+The Apple watch study was a prospective, single arm, open
+Triples: [
+    ("event recorder", "detects", "atrial fibrillation episode"),
+    ("Apple Watch", "used_in", "prospective single arm open study")
+]
+
+
+Text: label study with 419,297 participants conducted with a goal
+Triples: [
+]
+
+
+Text: of evaluating the ability of irregular pulse detection by the
+Triples: [
+]
+
+
+Text: Annals of Translational Medicine, Vol 7, No 17 September 2019
+Page 3 of 6
+© Annals of Translational Medicine. All rights reserved.
+Triples: [
+]
+
+
+Text: Ann Transl Med 2019;7(17):417 | http://dx.doi.org/10.21037/atm.2019.06.79
+Apple watch and subsequent irregular pulse notification
+Triples: [
+    ("Apple Watch", "monitors", "pulse"),
+    ("Apple Watch", "provides", "irregular pulse notification")
+]
+
+
+Text: algorithm to identify AF (16). The primary endpoint was
+Triples: [
+]
+
+
+Text: AF >30 seconds on EKG patch and simultaneous AFib
+Triples: [
+    ("EKG patch", "monitors", "electrocardiogram"),
+    ("EKG patch", "detects", "AF episodes >30 seconds")
+]
+
+
+Text: on EKG patch and tachogram. The heart rate is recorded
+Triples: [
+    ("EKG patch", "records", "heart rate"),
+    ("tachogram", "provides", "heart rate data")
+]
+
+
+Text: as PPG waveforms by the Apple watch during periods of
+Triples: [
+    ("Apple Watch", "captures", "PPG waveforms")
+]
+
+
+Text: minimal arm movement. Tachograms, which are heart rate
+Triples: [
+]
+
+
+Text: over a period of time, are created. If a tachogram detects
+Triples: [
+]
+
+
+Text: irregular heart rate, then the algorithm is triggered to get 4
+Triples: [
+    ("algorithm", "activated_by", "irregular_heart_rate")
+]
+
+
+Text: confirmatory tachograms with irregular pulse rates during
+Triples: [
+]
+
+
+Text: minimal arm movements. After 4 confirmatory tachograms,
+Triples: [
+]
+
+
+Text: 5 in total including the initial irregular tachogram, the
+Triples: [
+]
+
+
+Text: participant is alerted through a phone notification. The
+Triples: [
+    ("phone notification", "alerts", "participant")
+]
+
+
+Text: notification encourages the participant to connect to a
+Triples: [
+]
+
+
+Text: Telehealth doctor, who based on the data from the Apple
+Triples: [
+    ("Apple device", "provides", "health data"),
+    ("Telehealth doctor", "uses", "health data")
+]
+
+
+Text: watch readings and symptoms will advise the patient to
+Triples: [
+    ("watch", "collects", "readings"),
+    ("watch", "detects", "symptoms"),
+    ("watch", "advises", "patient")
+]
+
+
+Text: go to the ED if he deems the patient requires immediate
+Triples: [
+]
+
+
+Text: medical attention or will recommend an EKG patch that
+Triples: [
+]
+
+
+Text: will be shipped to the participant to be worn concurrently
+Triples: [
+]
+
+
+Text: with the watch for up to 7 days and returned at the end of
+Triples: [
+    ("watch", "supports", "battery_life_up_to_7_days")
+]
+
+
+Text: the study period for analysis.
+Triples: [
+]
+
+
+Text: The study population consisted of people aged ≥22 years
+Triples: [
+]
+
+
+Text: without history of AF or atrial flutter and current use of
+Triples: [
+]
+
+
+Text: anticoagulation. Of the study population, the mean age was
+Triples: [
+]
+
+
+Text: 41 with the age group of 22 to 39 years old making 52% of
+Triples: [
+]
+
+
+Text: the study population. About 2,161 people got notified of
+Triples: [
+]
+
+
+Text: irregular heart rate and 658 of them ended up getting the
+Triples: [
+]
+
+
+Text: EKG patch with only 450 returned for analysis. Notification
+Triples: [
+    ("EKG patch", "returns", "450 data samples")
+]
+
+
+Text: rate was highest among the older population (≥65). AF was
+Triples: [
+]
+
+
+Text: detected in 34% of the cohort, who received a notification
+Triples: [
+]
+
+
+Text: and wore the EKG patch. This does not negate the fact
+Triples: [
+]
+
+
+Text: that more people may have been diagnosed with AFib with
+Triples: [
+]
+
+
+Text: longer EKG patch monitoring. Based on the analysis of
+Triples: [
+]
+
+
+Text: the PPG technology used in the Apple watch validated by
+Triples: [
+    ("Apple Watch", "uses", "PPG technology")
+]
+
+
+Text: the concurrent use of the EKG patch, which is the current
+Triples: [
+]
+
+
+Text: standard for diagnosing paroxysmal arrhythmias, the PPV
+Triples: [
+]
+
+
+Text: of the tachograms was found to be 0.71 (95% CI: 0.69–0.74),
+Triples: [
+]
+
+
+Text: and the PPV of notifications, triggered by 5 tachograms,
+Triples: [
+    ("notifications", "triggered_by", "tachograms"),
+    ("notifications", "provides", "PPV")
+]
+
+
+Text: was found to be 0.84 (95% CI: 0.76–0.92).
+Triples: [
+]
+
+
+Text: Although the study shows Apple watch might be a
+Triples: [
+]
+
+
+Text: viable initial diagnostic tool in subclinical AF, the majority
+Triples: [
+]
+
+
+Text: of the cohort was made up of young participants with the
+Triples: [
+]
+
+
+Text: study failing to reach the target enrollment of 75,000 aged
+Triples: [
+]
+
+
+Text: 65 or older. The population was also relatively healthier
+Triples: [
+]
+
+
+Text: with 21% having hypertension, 5% having diabetes
+Triples: [
+]
+
+
+Text: mellitus. The study also relied on self-reporting of the
+Triples: [
+]
+
+
+Text: patients who are presented with the notification, though
+Triples: [
+]
+
+
+Text: the post study survey reveals that 57% of the study
+Triples: [
+]
+
+
+Text: population sought medical help outside of the Tele-health
+Triples: [
+]
+
+
+Text: system implemented in the study, of which 36% underwent
+Triples: [
+]
+
+
+Text: additional testing, with 33% being referred to a specialist
+Triples: [
+]
+
+
+Text: and 28% being started on a new medication. This can be a
+Triples: [
+]
+
+
+Text: sign that majority did indeed take the notification seriously
+Triples: [
+]
+
+
+Text: to get it further investigated by a physician.
+Triples: [
+]
+
+
+Text: Kardia Band (KB)
+KB is a product made by AliveCor designed to be used as
+Triples: [
+    ("Kardia Band", "produced_by", "AliveCor")
+]
+
+
+Text: an Apple Watch accessory. It mimics lead I and can record
+Triples: [
+    ("Apple Watch accessory", "mimics", "lead I"),
+    ("Apple Watch accessory", "records", "data")
+]
+
+
+Text: a rhythm strip for 30 s. The KB application can then
+Triples: [
+]
+
+
+Text: use an algorithm to detect whether the strip shows atrial
+Triples: [
+]
+
+
+Text: fibrillation (AF) or not. Bumgarner et al. (17) conducted
+Triples: [
+]
+
+
+Text: a single center, prospective, nonrandomized, adjudicator-
+blinded study with 100 participants to assess whether KB
+Triples: [
+]
+
+
+Text: algorithms could distinguish AF from sinus rhythm as well
+Triples: [
+]
+
+
+Text: as electrophysiologist-interpreted 12-lead EKGs can. The
+Triples: [
+]
+
+
+Text: three labels the KB algorithm can give a rhythm strip are
+Triples: [
+]
+
+
+Text: “possible AF” (based on rhythm irregularity and P-wave
+Triples: [
+]
+
+
+Text: absence), “normal” (no AF detected and heart rate is 50–100
+Triples: [
+]
+
+
+Text: beats/min), and “unclassified” (no AF detected and heart
+Triples: [
+]
+
+
+Text: rate is <50 or >100 beats/min or recording is either noisy or
+Triples: [
+]
+
+
+Text: >30 seconds, making up 34% of the recordings). The study
+Triples: [
+]
+
+
+Text: population consisted of people aged 18–90 years with a
+Triples: [
+]
+
+
+Text: history of AF who presented for a scheduled elective electrical
+Triples: [
+]
+
+
+Text: cardioversion. Of the study population, the mean age was
+Triples: [
+]
+
+
+Text: 68; 169 simultaneous KB and EKG recordings were made of
+Triples: [
+]
+
+
+Text: each patient before and after cardioversion; 15 patients ended
+Triples: [
+]
+
+
+Text: up not undergoing cardioversion with 8 of them cancelling
+Triples: [
+]
+
+
+Text: due to being in sinus rhythm rather than AF.
+Triples: [
+]
+
+
+Text: Among the positive readings, the KB algorithm correctly
+Triples: [
+]
+
+
+Text: detected AF with 93% sensitivity (95% CI: 86–99%), 84%
+Triples: [
+]
+
+
+Text: specificity (95% CI: 73–95%), and k coefficient of 0.77
+Triples: [
+]
+
+
+Text: (95% CI: 0.65–0.89) when compared to electrophysiologist-
+interpreted 12-lead EKG recordings. Electrophysiologists
+Triples: [
+]
+
+
+Text: who examined all 169 of the KB recordings (in total, they
+Triples: [
+]
+
+
+Text: could interpret 147; 22 of them were non-interpretable
+Triples: [
+]
+
+
+Text: due mainly to baseline artifact) correctly detected AF
+Triples: [
+]
+
+
+Text: with 99% sensitivity (95% CI: 96–100%), 83% specificity
+Triples: [
+]
+
+
+Text: (95% CI: 74–92%), and k coefficient of 0.83 (95% CI: 0.74–
+0.92) when compared to electrophysiologist-interpreted
+Triples: [
+]
+
+
+Text: 12-lead EKG recordings. Thus, the study demonstrates that
+Triples: [
+]
+
+
+Text: he KB algorithm is pretty effective in detecting AF, with
+Triples: [
+]
+
+
+Text: increase in sensitivity when supported by physician review.
+However, the authors note limitations of this study
+Triples: [
+]
+
+
+Text: such as the small sample size and patients all having
+Triples: [
+]
+
+
+Text: AF significant enough to be scheduled for electric
+Triples: [
+]
+
+
+Text: cardioversion. Generalizability may also be limited due to
+Triples: [
+]
+
+
+Text: Raja et al. Smart watch in detecting arrhythmias
+© Annals of Translational Medicine. All rights reserved.
+Triples: [
+    ("smartwatch", "detects", "arrhythmia")
+]
+
+
+Text: Ann Transl Med 2019;7(17):417 | http://dx.doi.org/10.21037/atm.2019.06.79
+Page 4 of 6
+participants being 17% female, socioeconomic status not
+Triples: [
+]
+
+
+Text: being examined, patients with implanted pacemakers or
+Triples: [
+]
+
+
+Text: defibrillators being excluded, and participants never having
+Triples: []
+
+
+Text: used KB before. There could have been less unclassified
+Triples: [
+]
+
+
+Text: readings if participants had more practice with KB, but KB
+Triples: [
+]
+
+
+Text: performance may decrease outside these study settings as
+Triples: [
+]
+
+
+Text: the participants were taught how to use KB immediately
+Triples: [
+]
+
+
+Text: before each supervised recording. The study including
+Triples: [
+]
+
+
+Text: patients with already known AF limits it from commenting
+Triples: [
+]
+
+
+Text: about its efficiency in detecting subclinical AF.
+Handheld EKG devices
+Another way Smartphones can be used as EKG monitors is
+Triples: [
+    ("handheld_EKG_device", "detects", "subclinical_AF"),
+    ("handheld_EKG_device", "provides", "EKG_monitoring"),
+    ("smartphone", "provides", "EKG_monitoring"),
+    ("smartphone", "detects", "subclinical_AF")
+]
+
+
+Text: by interfacing with peripherals such as a special smartphone
+Triples: [
+    ("IoT system", "interfaces_with", "smartphone")
+]
+
+
+Text: case with embedded electrodes to acquire, store, and
+Triples: [
+    ("case", "contains", "embedded electrodes"),
+    ("embedded electrodes", "acquire", "sensor data"),
+    ("embedded electrodes", "store", "sensor data")
+]
+
+
+Text: transfer single-channel EKG rhythms like AliveCor Heart
+Triples: [
+    ("AliveCor Heart", "transfers", "single-channel EKG rhythms")
+]
+
+
+Text: Monitor (AHM), which has already been US Food and
+Triples: [
+]
+
+
+Text: Drug Administration cleared and Conformite Europeenne
+Triples: [
+]
+
+
+Text: (CE) marked, and My Diagnostick handheld EKG stick.
+The Chan et al. outpatient study also analyzed single-
+lead EKG recorded by using the AliveCor heart monitor
+Triples: [
+    ("Diagnostick handheld EKG stick", "is_a", "handheld ECG device"),
+    ("AliveCor heart monitor", "records", "single-lead ECG"),
+    ("AliveCor heart monitor", "provides", "ECG data")
+]
+
+
+Text: with tracings reviewed subsequently by 2 cardiologists
+Triples: [
+]
+
+
+Text: to provide the reference standard in which Patients
+Triples: [
+]
+
+
+Text: with hypertension, with diabetes mellitus, and/or aged
+Triples: [
+]
+
+
+Text: ≥65 years were recruited. The study found that The
+Triples: [
+]
+
+
+Text: diagnostic sensitivity of the AliveCor automated algorithm
+Triples: [
+    ("AliveCor automated algorithm", "provides", "diagnostic sensitivity")
+]
+
+
+Text: 71.4% (95% CI: 51–87%), the specificity 99.4% (95%
+Triples: [
+]
+
+
+Text: CI: 99–100%), the PPV 76.9% (95% CI: 56–91%), NPV
+Triples: [
+]
+
+
+Text: 99.2% (95% CI: 98–100%) (15).
+Triples: [
+]
+
+
+Text: To determine the usability, accuracy, and cost-
+effectiveness of two handheld single-EKG devices for AF
+Triples: [
+    ("handheld single-EKG device", "monitors", "atrial fibrillation"),
+    ("handheld single-EKG device", "evaluated_for", "usability"),
+    ("handheld single-EKG device", "evaluated_for", "accuracy"),
+    ("handheld single-EKG device", "evaluated_for", "cost-effectiveness")
+]
+
+
+Text: screening in a hospital population; a study was conducted in
+Triples: [
+]
+
+
+Text: which 445 hospitalized patients at cardiological or geriatric
+Triples: [
+]
+
+
+Text: wards were screened for AF by two handheld EKG devices
+Triples: [
+    ("handheld EKG device", "detects", "atrial fibrillation"),
+    ("handheld EKG device", "screens", "wards")
+]
+
+
+Text: (My Diagnostick and AliveCor) (18). The performance of the
+Triples: [
+]
+
+
+Text: automated algorithm of each device was evaluated against a
+Triples: [
+]
+
+
+Text: full 12-leador 6-lead EKG recording. After the exclusion of
+Triples: [
+]
+
+
+Text: patients with an implanted device, sensitivity and specificity
+Triples: [
+    ("patient", "has_device", "implanted_device"),
+    ("implanted_device", "has_metric", "sensitivity"),
+    ("implanted_device", "has_metric", "specificity")
+]
+
+
+Text: of the automated algorithms were suboptimal (Cardiology:
+Triples: [
+]
+
+
+Text: 81.8% and 94.2%, respectively, for MyDiagnostick;
+Triples: [
+    ("MyDiagnostick", "has_accuracy", "81.8%"),
+    ("MyDiagnostick", "has_accuracy", "94.2%")
+]
+
+
+Text: 54.5% and 97.5%, respectively, for AliveCor) (Geriatrics:
+Triples: [
+]
+
+
+Text: 89.5% and 95.7%, respectively, for MyDiagnostick; 78.9%
+Triples: [
+]
+
+
+Text: and 97.9%, respectively, for AliveCor).
+Manual interpretation increases sensitivity, but decreases
+Triples: [
+]
+
+
+Text: specificity, doubling the cost per detected patient, but
+Triples: [
+]
+
+
+Text: remains cheaper than sole 12-lead EKG screening.
+Triples: [
+]
+
+
+Text: The accuracy of blinded clinician interpretation of
+Triples: [
+]
+
+
+Text: single-lead smartphone electrocardiograms was investigated
+Triples: [
+    ("smartphone", "generates", "single-lead ECG data")
+]
+
+
+Text: by conducting a prospective, blinded, observational cohort
+Triples: [
+]
+
+
+Text: study in which Consecutive patients 18 years and older
+Triples: [
+]
+
+
+Text: undergoing electrical cardioversions for AF and atrial flutter
+Triples: [
+]
+
+
+Text: were recruited over 12 months (19). AHM was paired with
+Triples: [
+]
+
+
+Text: an iPhone 6-Plus smartphone using the Kardia application.
+Triples: [
+    ("iPhone 6-Plus smartphone", "uses", "Kardia application")
+]
+
+
+Text: Three consecutive 30-second lead I recordings (iEKG) were
+Triples: [
+]
+
+
+Text: obtained with finger placement on the 2 electrodes at the
+Triples: [
+]
+
+
+Text: back of the iPhone. Following each AHM recording, the
+Triples: [
+]
+
+
+Text: automated rhythm analysis recorded the rhythm as either
+Triples: [
+]
+
+
+Text: possible AF, normal sinus rhythm, or unclassified. A 12-lead
+Triples: [
+]
+
+
+Text: EKG was obtained prior to the iEKG tracings, both pre-
+Triples: [
+]
+
+
+Text: and post- cardioversion. On assessing the accuracy of AHM
+Triples: [
+]
+
+
+Text: on all tracings, including “unclassified” readings (marked
+Triples: [
+]
+
+
+Text: as incorrect), the AHM demonstrated reduced sensitivity
+Triples: [
+    ("AHM", "demonstrates", "reduced sensitivity")
+]
+
+
+Text: (77%) and specificity (76%).
+Triples: [
+]
+
+
+Text: These devices receive most interest for opportunistic
+Triples: [
+]
+
+
+Text: screening, as they are easy to use, portable, low-cost, allow
+Triples: [
+]
+
+
+Text: fast rhythm strip recordings, do not require experienced
+Triples: [
+]
+
+
+Text: personnel, and often have built-in algorithms that provide
+Triples: [
+]
+
+
+Text: an immediate interpretation of the EKG. There are also
+Triples: [
+    ("EKG", "provides", "immediate interpretation")
+]
+
+
+Text: limitations for their use. The majority of false positives
+Triples: [
+]
+
+
+Text: results originated from pulse waveforms that were corrupted
+Triples: [
+]
+
+
+Text: by finger movement artifacts that may have affected the
+Triples: [
+]
+
+
+Text: detection algorithm. This issue may lead to a reduction in
+Triples: [
+]
+
+
+Text: specificity when the smartphone application is used outside
+Triples: [
+]
+
+
+Text: the clinic because of potentially more motion artifacts in an
+Triples: [
+]
+
+
+Text: unsupervised setting, e.g., using it repeatedly at home over
+Triples: [
+]
+
+
+Text: a period of weeks or even longer. A high number of false
+Triples: [
+]
+
+
+Text: positives could create additional work for clinicians to rule
+Triples: [
+]
+
+
+Text: out AF. Another drawback of the application is the inability
+Triples: [
+]
+
+
+Text: to detect atrial flutter that may also confer some risk of
+Triples: [
+]
+
+
+Text: stroke and frequently accompanies AF.
+Conclusions
+The fact that there is a significant increase in consumer
+Triples: [
+]
+
+
+Text: use of wearables, smart watches; which can serve as health
+Triples: [
+    ("smart_watch", "type_of", "wearable"),
+    ("wearable", "provides", "health_monitoring")
+]
+
+
+Text: monitoring devices that can be used as a non-invasive,
+Triples: [
+    ("monitoring device", "provides", "non-invasive monitoring")
+]
+
+
+Text: ambulatory assessment of heart rate and rhythm, is
+Triples: [
+]
+
+
+Text: definitely novel. The different wearable technology and
+Triples: [
+]
+
+
+Text: its efficacy in detecting AF (Table 1) is well demonstrated
+Triples: [
+]
+
+
+Text: in different studies. The demonstration of majority of the
+Triples: [
+]
+
+
+Text: study population in the apple study seeking medical help
+Triples: [
+]
+
+
+Text: after being notified is encouraging. On the flip side, false
+Triples: [
+]
+
+
+Text: positives can cause undue anxiety to the user and may drive
+Triples: [
+]
+
+
+Text: up health costs with unwarranted ER visits. The system of
+Triples: [
+]
+
+
+Text: irregular rhythm notification in people without a known
+Triples: [
+]
+
+
+Text: Annals of Translational Medicine, Vol 7, No 17 September 2019
+Page 5 of 6
+© Annals of Translational Medicine. All rights reserved.
+Triples: [
+]
+
+
+Text: Ann Transl Med 2019;7(17):417 | http://dx.doi.org/10.21037/atm.2019.06.79
+diagnosis of AF supported by physician review can help in
+Triples: [
+]
+
+
+Text: uncovering the subclinical AF population.
+Triples: [
+]
+
+
+Text: Recent evidence shows that intermittent short EKG
+Triples: [
+]
+
+
+Text: recordings repeated over a longer-term period produced
+Triples: [
+]
+
+
+Text: significantly better sensitivity for AF detection, with
+Triples: [
+]
+
+
+Text: 4 times as many cases diagnosed compared with a single
+Triples: [
+]
+
+
+Text: time-point measurement (20). This further reiterates the
+Triples: [
+]
+
+
+Text: fact that these wearables serve as an excellent resource for
+Triples: [
+]
+
+
+Text: continuous EKG monitoring with data saved in the cloud
+Triples: [
+    ("EKG_monitoring", "provides", "continuous_monitoring"),
+    ("EKG_data", "stores", "cloud")
+]
+
+
+Text: which can be assessed from anywhere, as compared to other
+Triples: [
+]
+
+
+Text: devices as Holter monitors and event monitors, limited by
+Triples: [
+    ("Holter monitor", "is_a", "device"),
+    ("event monitor", "is_a", "device")
+]
+
+
+Text: the intermittent nature of monitoring and the need to be
+Triples: [
+]
+
+
+Text: returned for analysis. In addition, they also are non-invasive
+Triples: []
+
+
+Text: methods for prolonged periods of screening compared to
+Triples: [
+]
+
+
+Text: the invasive implantable loop recorders. Data also shows
+Triples: [
+]
+
+
+Text: that preference of patients lean more towards wearable
+Triples: [
+    ("patients", "prefer", "wearable_device")
+]
+
+
+Text: technology as they are perceived as convenient by 98%,
+Triples: [
+]
+
+
+Text: while 90% conveyed they were likely to use these devices to
+Triples: [
+]
+
+
+Text: determine cardiac rhythm during symptomatic episodes as
+Triples: [
+]
+
+
+Text: opposed to conventional Holter monitoring system (21).
+The technology may however be limited by patient
+Triples: [
+    ("technology", "opposes", "conventional Holter monitoring system"),
+    ("technology", "limited_by", "patient")
+]
+
+
+Text: specific barriers, like age. The prevalence of AF markedly
+Triples: [
+]
+
+
+Text: increases with age, though older population may be more
+Triples: [
+]
+
+
+Text: resistant in adopting these wearable technologies. The
+Triples: [
+]
+
+
+Text: cohort in the Apple heart study were overwhelmingly
+Triples: [
+]
+
+
+Text: young and healthier. Furthermore, studies are required to
+Triples: [
+]
+
+
+Text: adjudicate the effectiveness of the wearables in detecting
+Triples: [
+]
+
+
+Text: AF in high risk population. Plus, compared the smart
+Triples: [
+]
+
+
+Text: watch technology, where there is an element of passive
+Triples: [
+]
+
+
+Text: detection, the smart phone apps and handheld EKG
+Triples: [
+    ("smartphone_app", "supports", "detection"),
+    ("handheld_EKG", "supports", "detection")
+]
+
+
+Text: have an active aspect of user participation for recording
+Triples: [
+]
+
+
+Text: strips of EKG. Improper use may not yield proper data.
+Triples: [
+]
+
+
+Text: Even the smartwatches have to overcome improper data
+Triples: [
+    ("smartwatch", "handles", "improper data")
+]
+
+
+Text: measurements triggered by motion and hand movement,
+Triples: [
+    ("motion_sensor", "triggers", "measurements"),
+    ("hand_movement_sensor", "triggers", "measurements")
+]
+
+
+Text: which may yield false positives. The technological
+Triples: [
+]
+
+
+Text: shortcomings are bound to get better with more research
+Triples: [
+]
+
+
+Text: and development poured into these devices and the
+Triples: [
+]
+
+
+Text: detection algorithms. Future iterations of these devices will
+Triples: [
+]
+
+
+Text: improve its efficiency to better detect the subclinical AF.
+Triples: [
+]
+
+
+Text: These devices have even shown to be cost-effective when
+Triples: [
+]
+
+
+Text: used in a community screening program (22,23) and they can
+Triples: [
+]
+
+
+Text: be used for the follow-up assessment of the effectiveness of
+Triples: [
+]
+
+
+Text: AF treatment. Thus, the wearable technology may not serve
+Triples: [
+]
+
+
+Text: as the ultimate tool for diagnosis of AF, rather a nidus for the
+Triples: [
+]
+
+
+Text: general population to seek medical advice on being notified
+Triples: [
+]
+
+
+Text: of having an irregular rhythm for confirmation leading to
+Triples: [
+]
+
+
+Text: prevention of morbidity and mortality associated with it.
+Triples: [
+]
+
+
+Text: Acknowledgments
+None.
+Footnote
+Conflicts of Interest: The authors have no conflicts of interest
+Triples: [
+]
+
+
+Text: to declare.
+Ethical Statement: The authors are accountable for all
+Triples: [
+]
+
+
+Text: aspects of the work in ensuring that questions related
+Triples: [
+]
+
+
+Text: to the accuracy or integrity of any part of the work are
+Triples: [
+]
+
+
+Text: Table 1 Sensitivity, specificity, PPV, and NPV of Smart Watch, Wearables, and Handheld EKG devices in detecting AF
+Smart Watch/Wearable/Handheld EKG
+Studies
+Sensitivity/specificity/PPV/NPV
+Cardiio Rhythm app
+Chan et al., 2016
+Sensitivity: 92.9%; specificity: 97.7%; PPV: 53.1%;
+Triples: [
+    ("Smart Watch", "detects", "atrial fibrillation"),
+    ("Wearable", "detects", "atrial fibrillation"),
+    ("Handheld EKG", "detects", "atrial fibrillation"),
+    ("Cardiio Rhythm app", "has_sensitivity", "92.9%"),
+    ("Cardiio Rhythm app", "has_specificity", "97.7%"),
+    ("Cardiio Rhythm app", "has_ppv", "53.1%")
+]
+
+
+Text: NPV: 99.8%
+Apple watch (FDA approved)
+Turakhia et al., 2019
+PPV of tachogram: 71%; PPV of notification: 84%
+Triples: [
+    ("Apple Watch", "approved_by", "FDA"),
+    ("Apple Watch", "npv", "99.8%"),
+    ("Apple Watch", "ppv_tachogram", "71%"),
+    ("Apple Watch", "ppv_notification", "84%")
+]
+
+
+Text: Kardia Band (FDA approved)
+Bumgarner et al., 2018
+Sensitivity: 93%; specificity: 84%
+Alive Cor single lead EKG (FDA approved)
+Chan et al., 2016
+Sensitivity: 71.4%; specificity: 99.4%; PPV: 76.9%;
+Triples: [
+    ("Kardia Band", "is_approved_by", "FDA"),
+    ("Kardia Band", "has_sensitivity", "93%"),
+    ("Kardia Band", "has_specificity", "84%"),
+    ("Alive Cor single lead EKG", "is_approved_by", "FDA"),
+    ("Alive Cor single lead EKG", "has_sensitivity", "71.4%"),
+    ("Alive Cor single lead EKG", "has_specificity", "99.4%"),
+    ("Alive Cor single lead EKG", "has_ppv", "76.9%")
+]
+
+
+Text: NPV: 99.2%
+Desteghe et al., 2016
+Cardiology ward: sensitivity: 54.5 %; specificity: 97.5%
+Triples: [
+]
+
+
+Text: Geriatrics ward: sensitivity: 78.9%; specificity: 97.9%
+Koshy et al., 2018
+Sensitivity: 77%; specificity: 76%
+My Diagnostick
+Desteghe et al., 2016
+Cardiology ward: sensitivity: 81.8%; specificity: 94.2%
+Geriatrics ward: sensitivity: 89.5%; specificity: 95.7%
+PPV, positive predictive value; NPV, negative predictive value; EKG, electrocardiogram; FDA, Food and Drug Administration.
+Triples: [
+]
+
+
+Text: Raja et al. Smart watch in detecting arrhythmias
+© Annals of Translational Medicine. All rights reserved.
+Triples: [
+    ("smart watch", "detects", "arrhythmias")
+]
+
+
+Text: Ann Transl Med 2019;7(17):417 | http://dx.doi.org/10.21037/atm.2019.06.79
+Page 6 of 6
+appropriately investigated and resolved.
+References
+1.
+Triples: [
+]
+
+
+Text: Miyasaka Y, Barnes ME, Gersh BJ, et al. Secular
+Triples: [
+]
+
+
+Text: Trends in Incidence of Atrial Fibrillation in Olmsted
+Triples: [
+]
+
+
+Text: County, Minnesota, 1980 to 2000, and Implications
+Triples: [
+]
+
+
+Text: on the Projections for Future Prevalence. Circulation
+Triples: [
+]
+
+
+Text: 2006;114:119-25.
+Triples: [
+]
+
+
+Text: 2.
+Triples: [
+]
+
+
+Text: Wolf PA, Abbott RD, Kannel WB. Atrial fibrillation as an
+Triples: [
+]
+
+
+Text: independent risk factor for stroke: the Framingham Study.
+Triples: [
+]
+
+
+Text: Stroke 1991;22:983-8.
+3.
+Triples: [
+]
+
+
+Text: Marini C, De Santis F, Sacco S, et al. Contribution of
+Triples: [
+]
+
+
+Text: atrial fibrillation to incidence and outcome of ischemic
+Triples: [
+]
+
+
+Text: stroke: results from a population-based study. Stroke.
+Triples: [
+]
+
+
+Text: 2005;36:1115-9.
+4.
+Triples: [
+]
+
+
+Text: Lin HJ, Wolf PA, Benjamin EJ, et al. Newly diagnosed
+Triples: [
+]
+
+
+Text: atrial fibrillation and acute stroke. The Framingham Study.
+Triples: [
+]
+
+
+Text: Stroke 1995;26:1527-30.
+5.
+Triples: [
+]
+
+
+Text: Lowres N, Neubeck L, Redfern J, et al. Community
+Triples: [
+]
+
+
+Text: screening programs to identify unknown atrial fibrillation:
+Triples: [
+]
+
+
+Text: a systematic review. Eur Heart J 2012;33:61.
+6.
+Triples: [
+]
+
+
+Text: Turakhia MP, Shafrin J, Bognar K, et al. Estimated
+Triples: [
+]
+
+
+Text: prevalence of undiagnosed atrial fibrillation in the United
+Triples: [
+]
+
+
+Text: States. PLoS One 2018;13:e0195088.
+7.
+Triples: [
+]
+
+
+Text: Turakhia MP, Shafrin J, Bognar K, et al. Economic Burden
+Triples: [
+]
+
+
+Text: of Undiagnosed Nonvalvular Atrial Fibrillation in the
+Triples: [
+]
+
+
+Text: United States. Am J Cardiol 2015;116:733-9.
+8.
+Triples: [
+]
+
+
+Text: Healey JS, Connolly SJ, Gold MR, et al. Subclinical
+Triples: [
+]
+
+
+Text: atrial fibrillation and the risk of stroke. N Engl J Med
+Triples: [
+]
+
+
+Text: 2012;366:120-9.
+9.
+Triples: [
+]
+
+
+Text: IDC Forecasts Shipments of Wearable Devices to Nearly
+Triples: [
+    ("IDC", "forecasts", "wearable device shipments")
+]
+
+
+Text: Double by 2021 as Smart Watches and New Product
+Triples: [
+]
+
+
+Text: Categories Gain Traction. Available online: https://www.
+idc.com/getdoc.jsp?containerId=prUS43408517
+10.
+Triples: [
+]
+
+
+Text: Lamkin P. Smartwatch popularity booms with fitness
+Triples: [
+    ("Smartwatch", "supports", "fitness_tracking")
+]
+
+
+Text: trackers on the slide. Forbes. Available online: https://www.
+Triples: [
+]
+
+
+Text: forbes.com/sites/paullamkin/2018/02/22/smartwatch-
+popularity-booms-with-fitness-trackers-on-the-slide
+11.
+Triples: [
+]
+
+
+Text: Koshy AN, Sajeev JK, Nerlekar N, et al. Utility of
+Triples: [
+]
+
+
+Text: photoplethysmography for heart rate estimation among
+Triples: [
+    ("photoplethysmography", "estimates", "heart rate")
+]
+
+
+Text: inpatients. Intern Med J 2018;48:587-91.
+12.
+Triples: [
+]
+
+
+Text: Koshy AN, Sajeev JK, Nerlekar N, et al. Smart watches for
+Triples: [
+]
+
+
+Text: heart rate assessment in atrial arrhythmias. Int J Cardiol
+Triples: [
+]
+
+
+Text: 2018;266:124-7.
+13.
+Triples: [
+]
+
+
+Text: Tison GH, Sanchez JM, Ballinger B, et al. Passive
+Triples: [
+]
+
+
+Text: Detection of Atrial Fibrillation Using a Commercially
+Triples: [
+]
+
+
+Text: Available Smartwatch. JAMA Cardiol 2018;3:409-16.
+14.
+Triples: [
+]
+
+
+Text: Smith A. Record shares of Americans now own
+Triples: [
+]
+
+
+Text: smartphones, have home broadband. Pew Internet &
+Triples: [
+    ("smartphone", "uses", "home broadband")
+]
+
+
+Text: American Life Project 2017. Available online: https://
+www.pewresearch.org/fact-tank/2017/01/12/evolution-of-
+technology/
+15.
+Triples: [
+]
+
+
+Text: Chan PH, Wong CK, Poh YC, et al. Diagnostic
+Triples: [
+]
+
+
+Text: Performance of a Smartphone-Based
+Triples: [
+]
+
+
+Text: Photoplethysmographic Application for Atrial Fibrillation
+Triples: [
+]
+
+
+Text: Screening in a Primary Care Setting. J Am Heart Assoc
+Triples: [
+]
+
+
+Text: 2016. doi: 10.1161/jaha.116.003428.
+16.
+Triples: [
+]
+
+
+Text: Turakhia MP, Desai M, Hedlin H, et al. Rationale and
+Triples: [
+]
+
+
+Text: design of a large-scale, app-based study to identify cardiac
+Triples: [
+]
+
+
+Text: arrhythmias using a smartwatch: The Apple Heart Study.
+Triples: [
+    ("smartwatch", "detects", "arrhythmias"),
+    ("Apple Heart Study", "uses", "smartwatch"),
+    ("Apple Heart Study", "monitors", "arrhythmias")
+]
+
+
+Text: Am Heart J 2019;207:66-75.
+Triples: [
+]
+
+
+Text: 17.
+Triples: [
+]
+
+
+Text: Bumgarner J, Lambert C, Cantillon D, et al. Assessing The
+Triples: [
+]
+
+
+Text: Accuracy Of An Automated Atrial Fibrillation Detection
+Triples: [
+]
+
+
+Text: Algorithm Using Novel Smartwatch Technology Among
+Triples: [
+    ("Algorithm", "uses", "Smartwatch_Technology")
+]
+
+
+Text: Patients Presenting For Elective Cardioversion. JACC
+Triples: [
+]
+
+
+Text: 2018. doi: 10.1016/S0735-1097(18)30952-5.
+Triples: [
+]
+
+
+Text: 18.
+Triples: [
+]
+
+
+Text: Desteghe L, Heidbuchel H. ‘Performance of handheld
+Triples: [
+]
+
+
+Text: electrocardiogram devices to detect atrial fibrillation in a
+Triples: [
+    ("electrocardiogram_device", "detects", "atrial_fibrillation")
+]
+
+
+Text: cardiology and geriatric ward setting: authors response.’
+Triples: []
+
+
+Text: Europace 2017;19:1408-9.
+19.
+Triples: [
+]
+
+
+Text: Koshy AN, Sajeev JK, Negishi K, et al. Accuracy of
+Triples: [
+]
+
+
+Text: blinded clinician interpretation of single-lead smartphone
+Triples: [
+    ("clinician", "interprets", "single-lead smartphone data")
+]
+
+
+Text: electrocardiograms and a proposed clinical workflow. Am
+Triples: [
+]
+
+
+Text: Heart J 2018;205:149-53.
+Triples: [
+]
+
+
+Text: 20.
+Triples: [
+]
+
+
+Text: Svennberg E, Engdahl J, Al-Khalili F, et al. Mass Screening
+Triples: [
+]
+
+
+Text: for Untreated Atrial Fibrillation: The STROKESTOP
+Triples: [
+]
+
+
+Text: Study. Circulation 2015;131:2176-84.
+Triples: [
+]
+
+
+Text: 21.
+Triples: [
+]
+
+
+Text: Rajakariar K, Koshy A, Sajeev J, et al. Increased preference
+Triples: [
+]
+
+
+Text: of wearable devices compared with conventional cardiac
+Triples: [
+]
+
+
+Text: monitoring. Heart, Lung Circulation 2018;27:S170.
+22.
+Triples: [
+]
+
+
+Text: Levin LÅ, Husberg M, Sobocinski PD, et al. A
+Triples: [
+]
+
+
+Text: cost-effectiveness analysis of screening for silent
+Triples: [
+]
+
+
+Text: atrial fibrillation after ischaemic stroke. Europace
+Triples: [
+]
+
+
+Text: 2015;17:207-14.
+23.
+Triples: [
+]
+
+
+Text: Aronsson M, Svennberg E, Rosenqvist M, et al. Cost-
+effectiveness of mass screening for untreated atrial
+Triples: [
+]
+
+
+Text: fibrillation using intermittent ECG recording. Europace
+Triples: [
+    ("intermittent ECG recording", "detects", "fibrillation")
+]
+
+
+Text: 2015;17:1023-9.
+Triples: [
+]
+
+
+Text: Cite this article as: Raja JM, Elsakr C, Roman S, Cave B,
+Triples: [
+]
+
+
+Text: Pour-Ghaz I, Nanda A, Maturana M, Khouzam RN. Apple
+Triples: [
+]
+
+
+Text: Watch, Wearables, and Heart Rhythm: where do we stand? Ann
+Triples: [
+]
+
+
+Text: Transl Med 2019;7(17):417. doi: 10.21037/atm.2019.06.79
+Triples: [
+]
+
+

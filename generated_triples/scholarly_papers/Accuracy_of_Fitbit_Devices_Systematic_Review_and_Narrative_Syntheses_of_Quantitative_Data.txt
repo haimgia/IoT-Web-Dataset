@@ -25,11 +25,9 @@ Objective: The objective of this review was to systematically evaluate and repor
 trackers in controlled and free-living settings.
 Methods:
 Triples: [
-    ("Fitbit activity tracker", "measures", "physical activity"),
-    ("Fitbit activity tracker", "used_as", "measurement tool"),
-    ("Fitbit activity tracker", "used_in", "physical activity research"),
-    ("Fitbit activity tracker", "used_in", "health promotion research"),
-    ("Fitbit activity tracker", "informs", "health care decisions")
+    ("Fitbit activity trackers", "detects", "physical activity"),
+    ("Fitbit activity trackers", "provides", "activity data for health promotion research"),
+    ("Fitbit activity trackers", "informs", "health care decisions")
 ]
 
 
@@ -53,19 +51,19 @@ studies are warranted. Our point estimations for mean or median percentage error
 possibly misrepresenting the true point estimate for measurement bias for some of the testing conditions we examined.
 Conclusions:
 Triples: [
-    ("Fitbit device", "measures", "step count"),
-    ("Fitbit device", "underestimates", "step count in controlled testing"),
-    ("Fitbit device", "overestimates", "step count in free-living settings"),
-    ("torso placement", "improves_accuracy_of", "step count measurement during normal walking"),
-    ("wrist placement", "improves_accuracy_of", "step count measurement during jogging"),
-    ("ankle placement", "improves_accuracy_of", "step count measurement during slow walking"),
-    ("Fitbit device", "fails_to_provide_accurate", "energy expenditure measurement"),
-    ("Fitbit device", "provides_similar_measures_to", "research-grade accelerometer for time in bed"),
-    ("Fitbit device", "provides_similar_measures_to", "research-grade accelerometer for time sleeping"),
-    ("Fitbit device", "overestimates", "time spent in higher-intensity activities"),
-    ("Fitbit device", "underestimates", "distance during faster-paced ambulation"),
-    ("Fitbit device", "measures", "sleep duration"),
-    ("Fitbit device", "measures", "time in activity")
+    ("Fitbit devices", "measure", "step count"),
+    ("Fitbit devices", "underestimates", "steps in controlled testing"),
+    ("Fitbit devices", "overestimates", "steps in free-living settings"),
+    ("Fitbit devices", "provides_accuracy_for", "step count during normal walking with torso placement"),
+    ("Fitbit devices", "provides_accuracy_for", "step count during jogging with wrist placement"),
+    ("Fitbit devices", "provides_accuracy_for", "step count during slow walking with ankle placement"),
+    ("Fitbit devices", "does_not_provide_accurate", "energy expenditure measurement"),
+    ("Fitbit devices", "provides_similar_measure_to", "research-grade accelerometers for time in bed"),
+    ("Fitbit devices", "provides_similar_measure_to", "research-grade accelerometers for time sleeping"),
+    ("Fitbit devices", "overestimates", "time spent in higher-intensity activities"),
+    ("Fitbit devices", "underestimates", "distance during faster-paced ambulation"),
+    ("Fitbit devices", "measure", "sleep duration"),
+    ("Fitbit devices", "measure", "time in bed")
 ]
 
 
@@ -80,10 +78,10 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit device", "measures", "step count"),
-    ("Fitbit device", "used_in", "research"),
-    ("Fitbit device", "used_for", "health care decisions"),
-    ("Fitbit device", "has_limitation", "accuracy in certain situations")
+    ("Fitbit devices", "provide", "step count data"),
+    ("Fitbit devices", "have_limited_accuracy", "in certain situations"),
+    ("research", "uses", "Fitbit devices as outcome measurement tool"),
+    ("health care decisions", "uses", "Fitbit devices as outcome measurement tool")
 ]
 
 
@@ -103,20 +101,23 @@ expenditure, time spent asleep, and time spent in different levels
 of activity. They also typically provide personal goal-setting
 options,
 Triples: [
-    ("wearable activity tracker", "is_worn_on", "wrist"),
-    ("wearable activity tracker", "is_attached_to", "clothing"),
     ("wearable activity tracker", "provides", "real-time feedback"),
     ("wearable activity tracker", "measures", "steps"),
     ("wearable activity tracker", "measures", "energy expenditure"),
     ("wearable activity tracker", "measures", "sleep duration"),
     ("wearable activity tracker", "measures", "activity level"),
-    ("wearable activity tracker", "supports", "personal goal-setting")
+    ("wearable activity tracker", "provides", "goal setting"),
+    ("wearable activity tracker", "has_form_factor", "wrist‑worn"),
+    ("wearable activity tracker", "has_attachment_option", "clothing"),
+    ("Fitbit", "is_a", "wearable activity tracker"),
+    ("Fitbit", "measures", "steps"),
+    ("Fitbit", "measures", "energy expenditure")
 ]
 
 
 Text: summary
-Triples: []
-
+Triples: [
+]
 
 
 Text: data,
@@ -232,20 +233,27 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit devices", "uses_sensor", "triaxial accelerometer"),
-    ("Fitbit devices", "captures", "body motion"),
-    ("Fitbit devices", "provides_data", "steps"),
-    ("Fitbit devices", "provides_data", "energy expenditure"),
-    ("Fitbit devices", "provides_data", "sleep"),
-    ("Fitbit devices", "provides_data", "distance covered"),
-    ("Fitbit devices", "provides_data", "activity intensity"),
-    ("Fitbit devices", "synchronizes_with", "mobile apps"),
-    ("Fitbit devices", "synchronizes_with", "computer apps"),
-    ("Fitbit devices", "connects_to", "social media"),
-    ("Fitbit devices", "supports", "self-monitoring"),
-    ("Fitbit devices", "used_in", "clinical trials"),
-    ("Fitbit devices", "uses_algorithm", "proprietary algorithms"),
-    ("Fitbit devices", "used_as", "measurement tool for physical activity research")
+    ("Fitbit device", "synchronizes_with", "mobile app"),
+    ("Fitbit device", "synchronizes_with", "computer app"),
+    ("Fitbit device", "connects_to", "social media platform"),
+    ("Fitbit device", "connects_to", "health and fitness app"),
+    ("Fitbit device", "uses_sensor", "triaxial accelerometer"),
+    ("Triaxial accelerometer", "captures", "body motion"),
+    ("Proprietary algorithm", "analyzes", "body motion data"),
+    ("Proprietary algorithm", "identifies", "step count"),
+    ("Proprietary algorithm", "identifies", "energy expenditure"),
+    ("Proprietary algorithm", "identifies", "sleep data"),
+    ("Proprietary algorithm", "identifies", "distance"),
+    ("Proprietary algorithm", "identifies", "activity intensity"),
+    ("Fitbit device", "provides", "step count"),
+    ("Fitbit device", "provides", "energy expenditure"),
+    ("Fitbit device", "provides", "sleep data"),
+    ("Fitbit device", "provides", "distance"),
+    ("Fitbit device", "provides", "activity intensity"),
+    ("Fitbit device", "integrates_with", "mobile app"),
+    ("Fitbit device", "integrates_with", "computer app"),
+    ("Fitbit device", "supports", "social media connectivity"),
+    ("Fitbit device", "supports", "health and fitness app integration")
 ]
 
 
@@ -294,11 +302,13 @@ by discussion and consensus, or by a third independent reviewer
 (LMF). Quality evaluation included 5 design or methodology
 components
 Triples: [
-    ("Fitbit measure", "compared_to", "reference-standard criterion measure"),
-    ("Fitbit measure", "compared_to", "research-standard criterion measure"),
-    ("Fitbit device", "uses_sensor", "accelerometer"),
-    ("Heart rate measurement", "not_derived_from", "accelerometry data"),
-    ("Studies", "exclude", "heart rate accuracy")
+    ("Fitbit device", "includes_sensor", "accelerometer"),
+    ("Fitbit measure", "derived_from", "accelerometry data"),
+    ("Fitbit measure", "compared_with", "reference-standard criterion measure"),
+    ("Fitbit measure", "compared_with", "research-standard criterion measure"),
+    ("Heart rate measurement", "does_not_use", "accelerometry data"),
+    ("Fitbit device", "used_in", "controlled setting"),
+    ("Fitbit device", "used_in", "free-living setting")
 ]
 
 
@@ -400,16 +410,18 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit device", "underestimates", "criterion device"),
-    ("Fitbit device", "generates", "steps data"),
-    ("Fitbit device", "generates", "energy expenditure data"),
-    ("Fitbit device", "generates", "sleep data"),
-    ("Fitbit device", "generates", "distance data"),
-    ("Testing parameters", "affect", "measurement accuracy"),
-    ("Body placement variations", "affect", "measurement accuracy"),
-    ("Ambulation speed variations", "affect", "measurement accuracy"),
-    ("Activity type variations", "affect", "measurement accuracy"),
-    ("SAS version 9.4", "provides", "statistical analysis")
+    ("Fitbit", "measures", "steps"),
+    ("Fitbit", "measures", "energy expenditure"),
+    ("Fitbit", "measures", "sleep"),
+    ("Fitbit", "measures", "time in activity"),
+    ("Fitbit", "measures", "distance"),
+    ("Fitbit", "underestimates", "criterion device"),
+    ("body placement", "influences", "measurement accuracy"),
+    ("ambulation speed", "influences", "measurement accuracy"),
+    ("type of activity", "influences", "measurement accuracy"),
+    ("measurement accuracy", "evaluated_by", "percentage error"),
+    ("percentage error", "has_threshold", "±3% in controlled settings"),
+    ("percentage error", "has_threshold", "±10% in free-living settings")
 ]
 
 
@@ -462,21 +474,27 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Studies", "uses", "Fitbit devices"),
-    ("Fitbit devices", "measure", "step count"),
-    ("Fitbit devices", "measure", "energy expenditure"),
-    ("Fitbit devices", "measure", "activity intensity"),
-    ("Fitbit devices", "measure", "sleep"),
-    ("Fitbit devices", "measure", "distance walked"),
+    ("Fitbit Ultra", "measures", "step count"),
+    ("Fitbit Classic", "measures", "step count"),
+    ("Fitbit Zip", "measures", "step count"),
+    ("Fitbit One", "measures", "step count"),
+    ("Fitbit Flex", "measures", "step count"),
+    ("Fitbit Charge HR", "measures", "step count"),
+    ("Fitbit Force", "measures", "step count"),
+    ("Fitbit Surge", "measures", "step count"),
     ("Fitbit Ultra", "worn_on", "torso"),
     ("Fitbit Classic", "worn_on", "torso"),
     ("Fitbit Zip", "worn_on", "torso"),
-    ("Fitbit One_torso", "worn_on", "torso"),
+    ("Fitbit One", "worn_on", "torso"),
+    ("Fitbit One", "worn_on", "ankle"),
     ("Fitbit Flex", "worn_on", "wrist"),
-    ("Fitbit ChargeHR", "worn_on", "wrist"),
+    ("Fitbit Charge HR", "worn_on", "wrist"),
     ("Fitbit Force", "worn_on", "wrist"),
     ("Fitbit Surge", "worn_on", "wrist"),
-    ("Fitbit One_ankle", "worn_on", "ankle")
+    ("Fitbit devices", "supports", "energy expenditure measurement"),
+    ("Fitbit devices", "supports", "activity intensity measurement"),
+    ("Fitbit devices", "supports", "sleep measurement"),
+    ("Fitbit devices", "supports", "distance walking measurement")
 ]
 
 
@@ -521,12 +539,9 @@ A total of 27 studies (191 accuracy comparisons) examined
 Fitbit
 Triples: [
     ("Fitbit", "measures", "step count"),
-    ("Fitbit", "measures", "energy expenditure"),
     ("Fitbit", "worn_on", "torso"),
-    ("Fitbit", "compared_with", "criterion measurement"),
-    ("Fitbit", "used_in", "accuracy comparisons"),
-    ("Fitbit", "excluded_from", "descriptive analyses when mean not reported"),
-    ("Fitbit", "included_in", "descriptive analyses of percentage error")
+    ("Fitbit", "compared_to", "criterion"),
+    ("Fitbit", "provides", "percentage measurement error")
 ]
 
 
@@ -579,15 +594,13 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit device", "worn_on", "torso"),
-    ("Fitbit device", "worn_on", "wrist"),
-    ("Fitbit device", "worn_on", "ankle"),
-    ("Fitbit device", "measures", "step count"),
-    ("Fitbit device", "measures", "energy expenditure"),
-    ("Fitbit device", "underestimates", "step count"),
-    ("step count measurement", "error_rate", "46% within ±3%"),
-    ("step count measurement", "error_rate", "51% below –3%"),
-    ("step count measurement", "error_rate", "3% above 3%")
+    ("Fitbit", "worn_on", "torso"),
+    ("Fitbit", "worn_on", "wrist"),
+    ("Fitbit", "worn_on", "ankle"),
+    ("Fitbit", "measures", "step count"),
+    ("Fitbit", "measures", "energy expenditure"),
+    ("Fitbit", "underestimates", "steps"),
+    ("Fitbit", "has_accuracy", "±3% measurement error")
 ]
 
 
@@ -663,17 +676,14 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit device", "measures", "step count"),
-    ("Fitbit device", "has_placement", "torso"),
-    ("Fitbit device", "has_placement", "wrist"),
-    ("Fitbit device", "has_placement", "ankle"),
-    ("step count accuracy", "influenced_by", "ambulation speed"),
-    ("step count accuracy", "influenced_by", "body placement"),
-    ("step count accuracy", "influenced_by", "body motion type"),
-    ("Fitbit device", "underestimates", "step count"),
-    ("constrained body motion", "causes", "measurement error below -3%"),
-    ("variable body motion", "causes", "measurement error below -3%"),
-    ("exaggerated arm motion", "causes", "measurement error above 3%")
+    ("Fitbit", "measures", "step count"),
+    ("Fitbit", "supports_placement", "torso"),
+    ("Fitbit", "supports_placement", "wrist"),
+    ("Fitbit", "supports_placement", "ankle"),
+    ("step count accuracy", "varies_with", "speed of ambulation"),
+    ("step count accuracy", "varies_with", "body placement"),
+    ("step count accuracy", "varies_with", "body motion type"),
+    ("Fitbit", "underestimates", "step count")
 ]
 
 
@@ -714,22 +724,21 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit_device", "measures", "step count"),
-    ("Fitbit_device", "placed_on", "torso"),
-    ("Fitbit_device", "placed_on", "wrist"),
-    ("Fitbit_device", "placed_on", "ankle"),
-    ("Fitbit_device", "used_in", "controlled settings"),
-    ("Fitbit_device", "used_in", "free‑living conditions"),
-    ("Fitbit_device", "duration_of_wear", "1 to 14 days"),
-    ("Fitbit_device", "compared_with", "ActiGraph"),
-    ("Fitbit_device", "compared_with", "activPAL"),
-    ("Fitbit_device", "compared_with", "Omron_pedometer"),
-    ("Fitbit_device", "compared_with", "Shimmer_pedometer"),
-    ("Fitbit_step_count", "within_error_margin", "±10% measurement error"),
-    ("Fitbit_step_count", "overestimates", "steps relative to research‑grade criterion"),
-    ("Fitbit_step_count", "error_rate", "55% within ±10% error"),
-    ("Fitbit_step_count", "error_rate", "30% below -10% error"),
-    ("Fitbit_step_count", "error_rate", "15% above +10% error")
+    ("Fitbit device", "measures", "step count"),
+    ("Fitbit device", "uses_sensor", "accelerometer"),
+    ("Fitbit device", "placed_at", "torso"),
+    ("Fitbit device", "placed_at", "wrist"),
+    ("Fitbit device", "placed_at", "ankle"),
+    ("Fitbit device", "compared_with", "ActiGraph accelerometer"),
+    ("Fitbit device", "compared_with", "activPAL accelerometer"),
+    ("Fitbit device", "compared_with", "Actical accelerometer"),
+    ("Fitbit device", "compared_with", "Omron pedometer"),
+    ("Fitbit device", "compared_with", "Shimmer pedometer"),
+    ("Fitbit step count", "error_within", "±10%"),
+    ("Fitbit step count", "overestimates", "research‑grade criterion"),
+    ("Fitbit step count", "overestimates_by", "35% relative to Omron pedometer"),
+    ("Fitbit step count", "error_varies_by", "body placement"),
+    ("Fitbit step count", "error_varies_by", "age and mobility status")
 ]
 
 
@@ -805,23 +814,28 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit", "measures", "step count"),
-    ("Fitbit", "measures", "energy expenditure"),
-    ("Fitbit", "worn_on", "torso"),
-    ("Fitbit", "worn_on", "wrist"),
-    ("Fitbit", "step_count_error", "-25% compared to Shimmer pedometer ankle"),
-    ("Fitbit", "overestimates", "median steps per day"),
-    ("Fitbit", "overestimates", "energy expenditure during activity"),
-    ("Fitbit", "underestimates", "energy expenditure at rest"),
-    ("Fitbit", "error_depends_on", "body placement"),
-    ("Fitbit", "error_depends_on", "speed of ambulation"),
-    ("Fitbit", "error_depends_on", "type of ambulation"),
-    ("Fitbit", "compared_with", "Shimmer pedometer"),
-    ("Fitbit", "compared_with", "Actical accelerometer"),
-    ("Fitbit", "compared_with", "ActiGraph accelerometer"),
-    ("Fitbit", "compared_with", "Omron pedometer"),
-    ("Fitbit", "compared_with", "New Life pedometer"),
-    ("Fitbit", "compared_with", "Yamax pedometer")
+    ("Fitbit device", "measures", "step count"),
+    ("Fitbit device", "measures", "energy expenditure"),
+    ("Fitbit device", "worn_on", "torso"),
+    ("Fitbit device", "worn_on", "wrist"),
+    ("Fitbit device", "compares_with", "Shimmer pedometer"),
+    ("Fitbit device", "compares_with", "Actical accelerometer"),
+    ("Fitbit device", "compares_with", "ActiGraph accelerometer"),
+    ("Fitbit device", "compares_with", "Omron pedometer"),
+    ("Fitbit device", "compares_with", "New Life pedometer"),
+    ("Fitbit device", "compares_with", "Yamax pedometer"),
+    ("Fitbit device", "overestimates", "step count"),
+    ("Fitbit device", "overestimates", "energy expenditure during activity"),
+    ("Fitbit device", "underestimates", "energy expenditure at rest"),
+    ("energy expenditure measurement error", "varies_with", "body placement"),
+    ("energy expenditure measurement error", "higher_with", "wrist placement"),
+    ("energy expenditure measurement error", "lower_with", "torso placement"),
+    ("energy expenditure measurement error", "varies_with", "speed of ambulation"),
+    ("energy expenditure measurement error", "higher_at", "jogging speed"),
+    ("energy expenditure measurement error", "higher_at", "normal speed"),
+    ("energy expenditure measurement error", "lower_at", "self-paced speed"),
+    ("reference standard", "uses", "direct calorimetry"),
+    ("reference standard", "uses", "indirect calorimetry")
 ]
 
 
@@ -861,7 +875,12 @@ RenderX
 Triples: [
     ("torso sensor", "measures", "energy expenditure"),
     ("wrist sensor", "measures", "energy expenditure"),
-    ("direct calorimetry", "provides", "energy expenditure measurement")
+    ("direct calorimetry", "provides", "reference energy expenditure data"),
+    ("energy expenditure measurement", "has_error", "greater than 3% for 50% of normal motion activities"),
+    ("energy expenditure measurement", "has_error", "lower than -3% for 60% of constrained or variable motion activities"),
+    ("continuous ambulation on flat surfaces", "has_error", "greater than 3% for 60% of activities"),
+    ("continuous ambulation on incline", "has_error", "lower than -3% for majority of activities"),
+    ("intermittent ambulation", "has_error", "lower than -3% for 60% of simulated household or sporting activities")
 ]
 
 
@@ -901,18 +920,18 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit device", "measures", "energy expenditure"),
-    ("Fitbit device", "worn_on", "wrist"),
-    ("Fitbit device", "underestimates", "energy expenditure"),
-    ("Fitbit device", "accuracy_comparison_with", "doubly labelled water"),
-    ("Fitbit device", "accuracy_comparison_with", "SenseWear accelerometer"),
-    ("SenseWear accelerometer", "type", "accelerometer"),
-    ("Fitbit device", "accuracy_comparison_with", "ActiGraph accelerometer"),
-    ("Fitbit device", "accuracy_comparison_with", "Actical accelerometer"),
+    ("Fitbit", "measures", "energy expenditure"),
+    ("Fitbit", "worn_on", "wrist"),
+    ("Fitbit", "underestimates", "energy expenditure compared with doubly labelled water"),
+    ("Fitbit", "underestimates", "energy expenditure compared with SenseWear accelerometer"),
+    ("Fitbit", "compares_with", "SenseWear accelerometer"),
+    ("Fitbit", "compares_with", "ActiGraph accelerometer"),
+    ("Fitbit", "compares_with", "Actiheart accelerometer"),
+    ("Fitbit", "compares_with", "Actical accelerometer"),
+    ("Fitbit", "measures", "time spent in activity intensities"),
     ("ActiGraph accelerometer", "worn_on", "torso"),
     ("Actical accelerometer", "worn_on", "ankle"),
-    ("Fitbit device", "measures", "time spent in activity intensities"),
-    ("Fitbit device", "used_in", "free-living conditions")
+    ("Fitbit", "used_in", "free‑living conditions")
 ]
 
 
@@ -979,26 +998,22 @@ are consistent with those of 2 other studies reporting Fitbit
 overestimations of sleeping time compared with a portable sleep
 monitor
 Triples: [
-    ("Fitbit", "worn_on", "wrist"),
-    ("Fitbit", "compares_with", "ActiGraph accelerometer (torso)"),
-    ("Fitbit", "compares_with", "Actical accelerometer (ankle)"),
-    ("Fitbit", "compares_with", "activPAL accelerometer (thigh)"),
-    ("Fitbit", "compares_with", "SenseWear accelerometer (wrist)"),
-    ("Fitbit", "compares_with", "Actiwatch accelerometer (wrist)"),
-    ("Fitbit", "underestimates", "sedentary time"),
-    ("Fitbit", "overestimates", "moderate to vigorous physical activity"),
-    ("Fitbit", "overestimates", "total sleep time"),
-    ("Fitbit", "overestimates", "sleep efficiency"),
-    ("Fitbit", "underestimates", "total sleep time (sensitive mode)"),
-    ("Fitbit", "underestimates", "sleep efficiency (sensitive mode)"),
-    ("Fitbit", "overestimates", "sleep minutes"),
-    ("Fitbit", "has_accuracy_error", "sedentary time error lower than -10%"),
-    ("Fitbit", "has_accuracy_error", "light to vigorous activity error greater than 10%"),
-    ("Fitbit", "has_error_range", "44% to 632% for activity measurement"),
-    ("Fitbit", "uses_mode", "normal mode"),
-    ("Fitbit", "uses_mode", "sensitive sleep mode"),
-    ("Fitbit", "has_error", "time in bed ±10% compared with SenseWear"),
-    ("Fitbit", "has_error", "-0.4% time in bed compared with Actiwatch")
+    ("Fitbit device", "compares_with", "ActiGraph accelerometer"),
+    ("Fitbit device", "compares_with", "Actical accelerometer"),
+    ("Fitbit device", "compares_with", "activPAL accelerometer"),
+    ("Fitbit device", "compares_with", "SenseWear accelerometer"),
+    ("Fitbit device", "compares_with", "Actiwatch accelerometer"),
+    ("Fitbit device", "overestimates", "sedentary time"),
+    ("Fitbit device", "underestimates", "sedentary time"),
+    ("Fitbit device", "overestimates", "moderate to vigorous physical activity"),
+    ("Fitbit device", "overestimates", "total sleep time"),
+    ("Fitbit device", "overestimates", "sleep efficiency"),
+    ("Fitbit device", "underestimates", "total sleep time"),
+    ("Fitbit device", "underestimates", "sleep efficiency"),
+    ("Fitbit device", "overestimates", "sleeping minutes"),
+    ("Fitbit device", "measures", "physical activity intensity"),
+    ("Fitbit device", "measures", "sleep parameters"),
+    ("Fitbit device", "measures", "time in bed")
 ]
 
 
@@ -1081,6 +1096,7 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
+    ("Fitbit device", "includes_sensor", "accelerometer"),
     ("Fitbit device", "measures", "step count"),
     ("Fitbit device", "measures", "energy expenditure"),
     ("Fitbit device", "measures", "sleep"),
@@ -1090,17 +1106,15 @@ Triples: [
     ("Fitbit device", "underestimates", "distance at brisk walking or jogging speeds"),
     ("Fitbit device", "overestimates", "distance when worn on torso during normal speed ambulation"),
     ("Fitbit device", "underestimates", "distance when worn on wrist during normal speed ambulation"),
-    ("Fitbit device", "provides_accuracy", "steps within ±3% in controlled testing conditions ~50% of time"),
-    ("Fitbit device", "underestimates", "steps overall"),
-    ("Fitbit device", "improves_step_accuracy_when_worn_on", "torso during normal or self‑paced walking"),
-    ("Fitbit device", "improves_step_accuracy_when_worn_on", "wrist during jogging"),
-    ("Fitbit device", "improves_step_accuracy_when_worn_on", "ankle during slow or very slow walking"),
-    ("Fitbit device", "provides_accuracy", "steps within ±10% in free‑living settings ~50% of time when worn on torso or wrist"),
-    ("Fitbit device", "overestimates", "steps in free‑living settings"),
+    ("Fitbit device", "provides_accuracy", "step count within ±3% in controlled testing"),
     ("Fitbit device", "underestimates", "step count during very slow ambulation when worn on torso"),
-    ("Fitbit device", "underestimates", "step count when body motion is constrained by mobility limitations"),
-    ("Fitbit device", "underestimates", "step count during stop‑and‑start household or sporting activities"),
-    ("Actiwatch accelerometer", "records", "accelerometer data ~10 minutes per night")
+    ("Fitbit device", "overestimates", "step count in free‑living settings when worn on torso or wrist"),
+    ("Fitbit device", "improves_accuracy_when_worn_on", "torso for normal or self‑paced walking"),
+    ("Fitbit device", "improves_accuracy_when_worn_on", "wrist for jogging"),
+    ("Fitbit device", "improves_accuracy_when_worn_on", "ankle for slow or very slow walking"),
+    ("Fitbit device", "worn_on", "torso"),
+    ("Fitbit device", "worn_on", "wrist"),
+    ("Fitbit device", "worn_on", "ankle")
 ]
 
 
@@ -1126,19 +1140,14 @@ measures of total energy expenditure over a 2-week period.
 However, findings from a few studies in free-living settings
 suggested
 Triples: [
-    ("Fitbit", "overestimates", "steps in older adults with no mobility limitation"),
-    ("Fitbit", "underestimates", "steps in older adults with limited mobility"),
-    ("Fitbit", "overestimates", "energy expenditure when worn on wrist"),
-    ("Fitbit", "underestimates", "energy expenditure when worn on torso"),
-    ("Fitbit", "overestimates", "energy expenditure during flat-surface walking"),
-    ("Fitbit", "underestimates", "energy expenditure during inclined ambulation"),
-    ("Fitbit", "underestimates", "energy expenditure during activities with constrained body motion"),
-    ("Fitbit", "underestimates", "energy expenditure during stop-and-start ambulation"),
-    ("Fitbit", "provides", "similar total energy expenditure measure as doubly labelled water over 2‑week period"),
-    ("Fitbit", "measures", "steps"),
-    ("Fitbit", "measures", "energy expenditure"),
-    ("Fitbit", "worn_on", "wrist"),
-    ("Fitbit", "worn_on", "torso")
+    ("Fitbit wearable", "overestimates", "step count in older adults with no mobility limitation"),
+    ("Fitbit wearable", "underestimates", "step count in older adults with limited mobility"),
+    ("Fitbit wearable", "overestimates", "energy expenditure when worn on wrist"),
+    ("Fitbit wearable", "underestimates", "energy expenditure when worn on torso"),
+    ("Fitbit wearable", "underestimates", "energy expenditure during inclined ambulation"),
+    ("Fitbit wearable", "underestimates", "energy expenditure during activities with constrained or variable body motion"),
+    ("Fitbit wearable", "underestimates", "energy expenditure during stop-and-start ambulation"),
+    ("Fitbit wearable", "provides", "similar total energy expenditure measures as doubly labelled water over 2 weeks")
 ]
 
 
@@ -1148,7 +1157,8 @@ Triples: [
 
 
 Text: Fitbit
-Triples: []
+Triples: [
+]
 
 
 Text: devices
@@ -1266,16 +1276,19 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit device", "measures", "step count"),
-    ("Fitbit device", "measures", "energy expenditure"),
-    ("Fitbit device", "measures", "sleep quality"),
-    ("Fitbit device", "measures", "distance"),
-    ("Fitbit device", "underestimates", "sedentary time (vs research-grade accelerometer)"),
-    ("Fitbit device", "overestimates", "activity time as intensity increases (vs research-grade accelerometer)"),
-    ("Fitbit device", "inaccurate_for", "sleep quality compared with polysomnography"),
-    ("Fitbit device", "provides_similar", "time-in-bed measurement compared with SenseWear accelerometer"),
-    ("Fitbit device", "overestimates", "distance at slower walking speeds"),
-    ("Fitbit device", "underestimates", "distance at higher walking speeds")
+    ("Fitbit", "measures", "step count"),
+    ("Fitbit", "measures", "energy expenditure"),
+    ("Fitbit", "measures", "sleep quality"),
+    ("Fitbit", "measures", "sleep quantity"),
+    ("Fitbit", "measures", "time spent in bed"),
+    ("Fitbit", "measures", "time sleeping"),
+    ("Fitbit", "measures", "distance"),
+    ("Fitbit", "measures", "activity intensity"),
+    ("Fitbit", "underestimates", "sedentary time"),
+    ("Fitbit", "overestimates", "distance at slower walking speeds"),
+    ("Fitbit", "underestimates", "distance at higher walking speeds"),
+    ("Fitbit", "compares_with", "research‑grade accelerometer"),
+    ("Fitbit", "uses_sensor", "accelerometer")
 ]
 
 
@@ -1353,19 +1366,30 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Classic Fitbit", "worn_on", "torso"),
-    ("Flex Fitbit", "worn_on", "wrist"),
-    ("Fitbit model", "uses_firmware", "proprietary"),
-    ("Fitbit device", "improves_accuracy_with", "firmware_upgrades"),
-    ("Fitbit device", "improves_accuracy_with", "software_upgrades"),
-    ("Fitbit platform", "uses_metadata_from", "millions_of_users"),
-    ("Fitbit platform", "applies_algorithm", "complex_motion_pattern_identification"),
-    ("Fitbit device", "supports", "self_monitoring_of_physical_activity"),
-    ("Fitbit device", "provides_accurate_measure_for", "steps_when_worn_on_torso"),
-    ("Fitbit device", "does_not_provide_accurate_measure_for", "energy_expenditure"),
-    ("Fitbit device", "may_not_provide_accurate_measure_for", "sleep"),
-    ("Fitbit device", "may_not_provide_accurate_measure_for", "distance"),
-    ("Fitbit device", "may_not_provide_accurate_measure_for", "time_spent_in_activity")
+    ("Fitbit device", "monitors", "physical activity"),
+    ("Fitbit device", "supports", "self‑monitoring of physical activity"),
+    ("Fitbit device", "provides", "step count"),
+    ("Fitbit device", "provides_accurate", "step count for adults with no mobility limitations when worn on torso"),
+    ("Fitbit device", "does_not_provide_accurate", "energy expenditure measurement"),
+    ("Fitbit device", "does_not_provide_accurate", "sleep measurement"),
+    ("Fitbit device", "does_not_provide_accurate", "distance measurement"),
+    ("Fitbit device", "does_not_provide_accurate", "time spent in activity measurement"),
+    ("Fitbit device", "uses", "firmware"),
+    ("Fitbit device", "uses", "software"),
+    ("Fitbit device", "collects", "metadata from millions of users"),
+    ("Fitbit", "applies", "advanced algorithms"),
+    ("Advanced algorithms", "identify", "complex motion patterns"),
+    ("Firmware upgrades", "improve", "measurement accuracy"),
+    ("Software upgrades", "improve", "measurement accuracy"),
+    ("Fitbit device", "has", "different models"),
+    ("Classic model", "worn_on", "torso"),
+    ("One model", "worn_on", "torso"),
+    ("Zip model", "worn_on", "torso"),
+    ("Ultra model", "worn_on", "torso"),
+    ("Flex model", "worn_on", "wrist"),
+    ("Charge model", "worn_on", "wrist"),
+    ("Surge model", "worn_on", "wrist"),
+    ("Fitbit device", "uses", "analysis protocols")
 ]
 
 
@@ -1436,16 +1460,16 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("commercial wearable technology", "used_in", "physical activity monitoring"),
-    ("wearable activity trackers", "include", "behavior change techniques"),
-    ("Fitbit activity tracking devices", "involved_in", "mHealth interventions"),
-    ("remote patient monitoring", "impacts", "clinical outcomes"),
-    ("remote patient monitoring", "relies_on", "connectivity"),
-    ("low-cost accelerometers", "used_for", "internet-based self-monitoring of physical activity"),
+    ("wearable technology", "monitors", "physical activity"),
+    ("wearable activity trackers", "support", "behavior change techniques"),
+    ("Fitbit activity tracking devices", "used_in", "mHealth interventions"),
+    ("wearable technology", "enables", "physical activity monitoring in chronic disease"),
+    ("low-cost accelerometers", "support", "internet-based self-monitoring"),
+    ("low-cost accelerometers", "uses_connectivity", "internet"),
     ("Fitbit", "acceptable_for", "physical activity tracking in clinical care"),
-    ("consumer-wearable activity trackers", "evaluated_for", "validity and reliability"),
-    ("commercial activity-tracker", "evaluated_at", "slower walking speeds"),
-    ("wearable activity trackers", "use", "accelerometer sensor")
+    ("consumer-wearable activity trackers", "provide", "activity data"),
+    ("commercial activity tracker", "measures", "walking speed"),
+    ("remote patient monitoring", "improves", "clinical outcomes")
 ]
 
 
@@ -1537,26 +1561,22 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
+    ("commercial pedometer", "monitors", "slow walking speed"),
+    ("wristband activity monitor", "measures", "step count"),
+    ("physical activity monitor", "measures", "step count"),
     ("Fitbit One", "measures", "physical activity"),
     ("Fitbit One", "attached_to", "upper torso"),
-    ("smartphone application", "uses", "motion sensor"),
-    ("smartphone application", "measures", "activity"),
-    ("motion sensor", "provides", "activity data"),
-    ("hip activity monitor", "measures", "physical activity"),
-    ("wrist activity monitor", "measures", "physical activity"),
-    ("consumer activity tracker", "measures", "step count"),
+    ("hip activity monitor", "measures", "activity"),
+    ("wrist activity monitor", "measures", "activity"),
     ("activity monitor", "detects", "steps"),
-    ("FitBit", "measures", "level walking"),
-    ("Jawbone UP", "measures", "level walking"),
-    ("Nike+", "measures", "level walking"),
-    ("FitBit", "estimates", "energy expenditure"),
-    ("Jawbone activity monitor", "estimates", "energy expenditure"),
-    ("ActiGraph accelerometer", "provides", "research-grade activity data"),
-    ("pedometer", "measures", "step count"),
-    ("commercial pedometer", "monitors", "slow walking speed"),
-    ("consumer wristband activity monitor", "measures", "ambulation"),
-    ("consumer hip activity monitor", "measures", "ambulation"),
-    ("activity tracker", "depends_on", "walking speed")
+    ("Fitbit", "measures", "step count"),
+    ("Jawbone UP", "measures", "step count"),
+    ("Nike+", "measures", "step count"),
+    ("Fitbit activity monitor", "compares_with", "ActiGraph accelerometer"),
+    ("Fitbit activity monitor", "estimates", "physical activity"),
+    ("Fitbit activity monitor", "estimates", "energy expenditure"),
+    ("smartphone application", "integrates", "motion sensor"),
+    ("consumer activity tracker", "depends_on", "walking speed")
 ]
 
 
@@ -1648,17 +1668,24 @@ XSL•FO
 RenderX
 Triples: [
     ("ankle-positioned accelerometer", "records", "steps"),
-    ("consumer activity trackers", "support", "step counting"),
-    ("Fitbit Flex", "provides", "energy expenditure estimation"),
-    ("Fitbit Flex", "provides", "step count"),
+    ("consumer activity trackers", "measure", "physical activity"),
+    ("consumer-based physical activity monitors", "measure", "specific activity types"),
+    ("mobile device", "counts", "steps"),
+    ("Fitbit Flex", "measures", "energy expenditure"),
+    ("Fitbit Flex", "counts", "steps"),
+    ("commercial activity monitors", "track", "step count"),
+    ("newer pedometers", "measure", "steps"),
+    ("Fitbit activity tracker", "measures", "steps"),
+    ("accelerometer", "measures", "movement"),
+    ("activity tracking devices", "count", "steps"),
+    ("activity trackers", "estimate", "steps"),
+    ("activity trackers", "estimate", "energy expenditure"),
     ("Fitbit Flex", "measures", "moderate to vigorous physical activity"),
-    ("Fitbit One", "validates", "treadmill walking"),
-    ("Fitbit One", "provides", "step count"),
-    ("Fitbit One", "uses", "accelerometer sensor"),
-    ("activity tracker devices", "estimate", "energy expenditure"),
-    ("Fitbit activity tracker", "measures", "active minutes"),
-    ("consumer-level activity monitors", "validated for", "free‑living conditions"),
-    ("research-grade accelerometer", "serves as", "reference device")
+    ("Fitbit One", "records", "steps"),
+    ("activity monitors", "count", "steps"),
+    ("Fitbit", "records", "active minutes"),
+    ("consumer accelerometers", "assess", "physical activity"),
+    ("Fitbit Flex", "measures", "physical activity")
 ]
 
 
@@ -1748,25 +1775,24 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit One", "measures", "steps"),
     ("Fitbit One", "measures", "physical activity"),
+    ("Fitbit One", "provides", "step count"),
+    ("Fitbit One", "estimates", "energy expenditure"),
+    ("Fitbit One", "validates_against", "ActiGraph accelerometer"),
+    ("Fitbit Flex", "has_form_factor", "wrist-worn"),
     ("Fitbit Flex", "measures", "steps"),
-    ("Fitbit Flex", "compared_to", "ActiGraph"),
-    ("Fitbit Zip", "validates", "free-living physical activity measurement"),
-    ("Fitbit Tracker", "assesses", "energy expenditure"),
-    ("Fitbit Ultra", "assesses", "energy expenditure"),
-    ("Fitbit devices", "monitor", "sleep"),
-    ("Fitbit devices", "monitor", "sedentary behavior"),
-    ("Fitbit devices", "monitor", "physical activity"),
-    ("Smart shirt", "measures", "physical activity"),
-    ("Consumer-based activity trackers", "compared_with", "research monitors"),
+    ("Fitbit Flex", "compares_to", "ActiGraph"),
+    ("Fitbit Zip", "measures", "free‑living physical activity"),
+    ("Fitbit Zip", "provides", "step count"),
+    ("Fitbit Ultra", "compares_to", "ActiGraph GT1M"),
+    ("Fitbit Ultra", "measures", "steps"),
+    ("Wearable devices", "use_sensor", "accelerometer"),
+    ("Wearable devices", "use_sensor", "multi‑sensor"),
     ("Wearable devices", "estimate", "total energy expenditure"),
-    ("Wearable devices", "provide", "heart rate monitoring"),
-    ("Activity monitors", "use", "accelerometer"),
-    ("ActiGraph", "provides", "accelerometry data"),
-    ("Fitbit devices", "use", "multi-sensor"),
-    ("Fitness tracking modalities", "quantify", "energy expenditure"),
-    ("Wearable devices", "support", "free-living monitoring")
+    ("Wearable devices", "monitor", "sleep"),
+    ("Wearable devices", "support", "sedentary behavior monitoring"),
+    ("Consumer multi‑sensor physical activity monitor", "estimates", "energy expenditure"),
+    ("Fitbit devices", "support", "sleep monitoring")
 ]
 
 
@@ -1843,21 +1869,24 @@ JMIR MHEALTH AND UHEALTH
 XSL•FO
 RenderX
 Triples: [
-    ("Fitbit One", "measures", "energy expenditure"),
-    ("Garmin Vivofit", "measures", "energy expenditure"),
-    ("Jawbone UP", "measures", "energy expenditure"),
+    ("Fitbit One", "estimates", "energy expenditure"),
+    ("Garmin Vivofit", "estimates", "energy expenditure"),
+    ("Jawbone UP", "estimates", "energy expenditure"),
     ("Fitbit wireless activity tracker", "predicts", "energy expenditure"),
-    ("Heart rate watches", "measure", "heart rate"),
-    ("Wearable activity trackers", "provide", "sleep evaluation"),
+    ("Heart rate watch", "measures", "heart rate"),
+    ("Wearable activity tracker", "measures", "physical activity"),
     ("Fitbit Flex", "evaluates", "sleep"),
-    ("Personal health monitoring devices", "measure", "sleep"),
-    ("Commercial accelerometer", "measures", "activity"),
+    ("Personal health monitoring device", "measures", "sleep"),
+    ("Personal health monitoring device", "compares_with", "actigraphy"),
+    ("Activity monitoring device", "monitors", "movement"),
+    ("Wearable activity tracker", "compares_with", "actigraphy"),
     ("Physical activity tracker", "estimates", "step count"),
-    ("Physical activity tracker", "estimates", "covered distance"),
+    ("Physical activity tracker", "estimates", "distance"),
     ("Physical activity tracker", "estimates", "energy expenditure"),
-    ("Fitness trackers", "measure", "physical activity"),
-    ("Smartwatches", "measure", "physical activity"),
-    ("Technology-enabled counselling program", "supports", "physical activity participation")
+    ("Technology-enabled counselling program", "supports", "physical activity participation"),
+    ("Fitness tracker", "measures", "physical activity"),
+    ("Smartwatch", "measures", "physical activity"),
+    ("Community-based physical activity counselling program", "uses", "technology")
 ]
 
 
