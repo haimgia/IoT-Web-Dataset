@@ -107,6 +107,7 @@ def generate_triples_from_pdf(pdf_file):
                 # writes the paragraph splits into the raw text file
                 f.write(f"{paragraph}\n\n")
 
+
                 triples = generate_triples(paragraph)
 
                 # writes the paragraphs and its associated triples to the triples file
@@ -181,37 +182,45 @@ async def generate_triples_from_privacy_policies(source_name, url):
     os.makedirs(os.path.join(GEN_TRIPLES_FOLDER, PRIVACY_POLICY_FOLDER), exist_ok=True)
 
     with open(os.path.join(RAW_TEXT_FOLDER, PRIVACY_POLICY_FOLDER, output_file), 'w', encoding='utf-8') as f:
-        f.write(f"Source: {source_name}\nURL: {url}\n\n")
+        with open(os.path.join(GEN_TRIPLES_FOLDER, PRIVACY_POLICY_FOLDER, output_file), 'w', encoding='utf-8') as g:
+            f.write(f"Source: {source_name}\nURL: {url}\n\n")
 
-        async with AsyncWebCrawler() as crawler:
-            # Run the crawler on a URL
-            result = await crawler.arun(url)
+            async with AsyncWebCrawler() as crawler:
+                # Run the crawler on a URL
+                result = await crawler.arun(url)
 
-            # Strip markdown hyperlinks
-            text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", result.markdown)
+                # Strip markdown hyperlinks
+                text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", result.markdown)
 
-            # Remove Markdown images: ![alt](url)
-            text = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", text)
+                # Remove Markdown images: ![alt](url)
+                text = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", text)
 
-            # Remove other hyperlinks
-            text = re.sub(r"\[[^\]]*\]\([^)]+\)", "", text)
+                # Remove other hyperlinks
+                text = re.sub(r"\[[^\]]*\]\([^)]+\)", "", text)
 
-            # Remove empty/noisy lines
-            text = "\n".join(
-                line for line in text.splitlines()
-                if len(line.strip()) > 20
-            )
+                # Remove empty/noisy lines
+                text = "\n".join(
+                    line for line in text.splitlines()
+                    if len(line.strip()) > 20
+                )
 
-            # Remove raw URLs
-            #text = re.sub(r"http[s]?://\S+", "", text)
+                # Remove raw URLs
+                #text = re.sub(r"http[s]?://\S+", "", text)
 
-            sections = extract_sections(text)
+                sections = extract_sections(text)
 
-            for title, content in sections:
-                print("TITLE:", title)
-                print("CONTENT:", content)
+                for title, content in sections:
+                    # print("TITLE:", title)
+                    # print("CONTENT:", content)
 
-                f.write(f"{title}\n{content}\n\n")
+                    section = f"{title}\n{content}\n\n"
+
+                    f.write(section)
+
+                    triples = generate_triples(section)
+
+                    # writes the paragraphs and its associated triples to the triples file
+                    g.write(f"Text: {section}\nTriples: {triples}\n\n\n")
 
 
 
