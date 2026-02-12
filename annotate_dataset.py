@@ -80,12 +80,12 @@ def generate_triples_from_pdf(pdf_file):
     # Print or process the paragraphs
 
     text_file = f"raw text/{pdf_file.replace('.pdf', '.txt').replace(' ', '_')}"
-    triples_output = f"generted_triples/{pdf_file.replace('.pdf', '.txt').replace(' ', '_')}"
+    triples_output = f"generated_triples/{pdf_file.replace('.pdf', '.txt').replace(' ', '_')}"
 
 
     with open(text_file, "w", encoding="utf-8") as f:
         with open(triples_output, "w", encoding="utf-8") as g:
-            for i, paragraph in enumerate(paragraphs):
+            for i, paragraph in tqdm(enumerate(paragraphs)):
 
                 # print(f"Paragraph {i+1}:")
                 # print(paragraph)
